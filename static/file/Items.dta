@@ -23392,6 +23392,16 @@ SizeY = 1
 Price = 100
 Class = etc.ScrollOfNAgen
 
+[Atomic Flight Device]
+ID = 865
+Type = 26
+ReqStr = 5
+ExtraStats = 268435456
+SizeX = 1
+SizeY = 1
+Price = 100000
+Class = etc.AtomicFlightDevice
+
 #######################
 ###### PET ITEMS ######
 #######################
