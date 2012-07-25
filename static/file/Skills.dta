@@ -710,7 +710,7 @@ MinSecondRange = 5
 MaxSecondRange = 200
 StatusUsed = 1
 Type = 1
-Class = SkillPlaceHolder
+Class = kailipton.TransferMagicalPower
 
 [Confusion]
 ID = 51

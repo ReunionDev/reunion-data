@@ -389,7 +389,7 @@ ID = 768
 Speed = 1
 #Race = 1
 Skillevel = 1
-StmUsed = 25
+ManaUsed = 25
 Type = 9
 MinDmg = 100
 MaxDmg = 180
@@ -398,21 +398,21 @@ MagicSpeed = 1.50	# value in %
 MagicDmg = 0.00	# value in %
 StaffDmg = 0.00	# value in %
 MagicPower = 0.01	# value in %
-ManaUsed = 25
 AccumulatedDmg = 1000
-Position = 3
+GemNumber = 150
+Position = 5
 ReqInt = 100
 Price = 10000
 SizeX = 2
 SizeY = 3 
 Class = equipment.WandWeapon
 
-[Bullet Wand]
+[Magic Bullet Wand]
 ID = 769
 Speed = 1
 #Race = 1
 Skillevel = 1
-StmUsed = 35
+ManaUsed = 35
 Type = 9
 MinDmg = 100
 MaxDmg = 180
@@ -421,9 +421,9 @@ MagicSpeed = 1.00	# value in %
 MagicDmg = 0.00	# value in %
 StaffDmg = 0.00	# value in %
 MagicPower = 0.01	# value in %
-ManaUsed = 35
 AccumulatedDmg = 0
-Position = 3
+GemNumber = 100
+Position = 5
 ReqInt = 100
 Price = 10000
 SizeX = 2
@@ -435,7 +435,7 @@ ID = 1021
 Speed = 1
 #Race = 1
 Skillevel = 1
-StmUsed = 0
+ManaUsed = 0
 Type = 9
 MinDmg = 370
 MaxDmg = 420
@@ -444,9 +444,9 @@ MagicSpeed = 0.40	# value in %
 MagicDmg = 0.00	# value in %
 StaffDmg = 0.00	# value in %
 MagicPower = 0.01	# value in %
-ManaUsed = 0
 AccumulatedDmg = 1500
-Position = 3
+GemNumber = 40
+Position = 5
 ReqInt = 100
 Price = 25000
 SizeX = 2
@@ -458,7 +458,7 @@ ID = 770
 Speed = 1
 #Race = 1
 Skillevel = 2
-StmUsed = 50
+ManaUsed = 50
 Type = 9
 MinDmg = 500
 MaxDmg = 700
@@ -467,9 +467,9 @@ MagicSpeed = 1.00	# value in %
 MagicDmg = 0.00	# value in %
 StaffDmg = 0.00	# value in %
 MagicPower = 0.01	# value in %
-ManaUsed = 50
 AccumulatedDmg = 2000
-Position = 3
+GemNumber = 100
+Position = 5
 ReqInt = 100
 Price = 20000
 SizeX = 2
@@ -481,7 +481,7 @@ ID = 771
 Speed = 2
 #Race = 1
 Skillevel = 2
-StmUsed = 65
+ManaUsed = 65
 Type = 9
 MinDmg = 600
 MaxDmg = 800
@@ -490,21 +490,21 @@ MagicSpeed = 0.70	# value in %
 MagicDmg = 0.00	# value in %
 StaffDmg = 0.00	# value in %
 MagicPower = 0.02	# value in %
-ManaUsed = 65
 AccumulatedDmg = 0
-Position = 3
+GemNumber = 70
+Position = 5
 ReqInt = 100
 Price = 20000
 SizeX = 2
 SizeY = 3 
 Class = equipment.WandWeapon
 
-[Magic Sword Wand]
+[Magic Wand]
 ID = 949
 Speed = 1
 #Race = 1
 Skillevel = 2
-StmUsed = 70
+ManaUsed = 70
 Type = 9
 MinDmg = 600
 MaxDmg = 800
@@ -513,9 +513,9 @@ MagicSpeed = 0.40	# value in %
 MagicDmg = 0.00	# value in %
 StaffDmg = 0.00	# value in %
 MagicPower = 0.01	# value in %
-ManaUsed = 70
 AccumulatedDmg = 2500
-Position = 3
+GemNumber = 40
+Position = 5
 ReqInt = 100
 Price = 25000
 SizeX = 2
@@ -527,7 +527,7 @@ ID = 772
 Speed = 2
 #Race = 1
 Skillevel = 3
-StmUsed = 80
+ManaUsed = 80
 Type = 9
 MinDmg = 1700
 MaxDmg = 2000
@@ -536,21 +536,22 @@ MagicSpeed = 0.70	# value in %
 MagicDmg = 0.00	# value in %
 StaffDmg = 0.00	# value in %
 MagicPower = 0.02	# value in %
-ManaUsed = 80
-AccumulatedDmg = 80
-Position = 3
+ColdDmg = 0.80	# value in %
+AccumulatedDmg = 0
+GemNumber = 70
+Position = 5
 ReqInt = 100
 Price = 30000
 SizeX = 2
 SizeY = 3 
 Class = equipment.WandWeapon
 
-[Sword Wand]
+[Magic Sword Wand]
 ID = 773
 Speed = 0
 #Race = 1
 Skillevel = 3
-StmUsed = 10
+ManaUsed = 10
 Type = 9
 MinDmg = 800
 MaxDmg = 900
@@ -559,21 +560,21 @@ MagicSpeed = 1.50	# value in %
 MagicDmg = 0.00	# value in %
 StaffDmg = 0.00	# value in %
 MagicPower = 0.00	# value in %
-ManaUsed = 10
 AccumulatedDmg = 0
-Position = 3
+GemNumber = 150
+Position = 5
 ReqInt = 100
 Price = 30000
 SizeX = 2
 SizeY = 3 
 Class = equipment.WandWeapon
 
-[Storm Wand]
+[Confusing Storm Wand]
 ID = 774
 Speed = 3
 #Race = 1
 Skillevel = 4
-StmUsed = 150
+ManaUsed = 150
 Type = 9
 MinDmg = 2000
 MaxDmg = 2300
@@ -582,9 +583,10 @@ MagicSpeed = 0.60	# value in %
 MagicDmg = 0.00	# value in %
 StaffDmg = 0.00	# value in %
 MagicPower = 0.03	# value in %
-ManaUsed = 150
-AccumulatedDmg = 100
-Position = 3
+ConfusionDmg = 1.00	# value in %
+AccumulatedDmg = 0
+GemNumber = 60
+Position = 5
 ReqInt = 100
 Price = 50000
 SizeX = 2
@@ -596,7 +598,7 @@ ID = 775
 Speed = 2
 #Race = 1
 Skillevel = 4
-StmUsed = 300
+ManaUsed = 300
 Type = 9
 MinDmg = 2500
 MaxDmg = 2900
@@ -605,9 +607,9 @@ MagicSpeed = 0.50	# value in %
 MagicDmg = 0.00	# value in %
 StaffDmg = 0.00	# value in %
 MagicPower = 0.02	# value in %
-ManaUsed = 300
 AccumulatedDmg = 2500
-Position = 3
+GemNumber = 50
+Position = 5
 ReqInt = 100
 Price = 100000
 SizeX = 2
@@ -619,7 +621,7 @@ ID = 1022
 Speed = 4
 #Race = 2
 Skillevel = 1
-StmUsed = 0
+ManaUsed = 0
 Type = 9
 MinDmg = 0
 MaxDmg = 0
@@ -628,7 +630,6 @@ MagicSpeed = 2.50	# value in %
 MagicDmg = 0.00	# value in %
 StaffDmg = 0.00	# value in %
 MagicPower = 0.04	# value in %
-ManaUsed = 0
 AccumulatedDmg = 3
 Position = 3
 ReqInt = 100
@@ -642,7 +643,7 @@ ID = 1023
 Speed = 2
 #Race = 3
 Skillevel = 1
-StmUsed = 0
+ManaUsed = 0
 Type = 9
 MinDmg = 150
 MaxDmg = 200
@@ -651,7 +652,6 @@ MagicSpeed = 0.50	# value in %
 MagicDmg = 0.00	# value in %
 StaffDmg = 0.00	# value in %
 MagicPower = 0.02	# value in %
-ManaUsed = 0
 AccumulatedDmg = 0
 Position = 3
 ReqInt = 0
@@ -2864,7 +2864,7 @@ ReqStr = 2
 Price = 275
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [BUF Agency Warp]
 ID = 173
@@ -2873,7 +2873,7 @@ ReqStr = 2
 Price = 500
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [KAL Agency Warp]
 ID = 174
@@ -2882,16 +2882,16 @@ ReqStr = 2
 Price = 500
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
-[Return to Town]
+[Return Warp Device]
 ID = 175
 Type = 21
 ReqStr = 2
 Price = 45
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Laglamia Square]
 ID = 307
@@ -2900,7 +2900,7 @@ ReqStr = 2
 Price = 45
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Colosseum Warp]
 ID = 308
@@ -2909,7 +2909,7 @@ ReqStr = 2
 Price = 45
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Boldin Castle]
 ID = 516
@@ -2918,7 +2918,7 @@ ReqStr = 2
 Price = 5000
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Boldin Castle N]
 ID = 611
@@ -2927,7 +2927,7 @@ ReqStr = 2
 Price = 5000
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Boldin Castle S]
 ID = 612
@@ -2936,7 +2936,7 @@ ReqStr = 2
 Price = 5000
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Underland Warp]
 ID = 863
@@ -2945,7 +2945,7 @@ ReqStr = 2
 Price = 5000
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Time Lift Warp]
 ID = 864
@@ -2954,16 +2954,16 @@ ReqStr = 2
 Price = 5000
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
-[Zone Warp]
+[Zone Warp Device]
 ID = 894
 Type = 21
 ReqStr = 2
 Price = 9500
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.ZoneWarpDevice
 
 [Hidden Square]
 ID = 942
@@ -2972,7 +2972,7 @@ ReqStr = 2
 Price = 5000
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Paros Warp]
 ID = 944
@@ -2981,7 +2981,7 @@ ReqStr = 2
 Price = 10000
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Giant Barrack]
 ID = 965
@@ -2990,7 +2990,7 @@ ReqStr = 2
 Price = 5000
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Memory Warp]
 ID = 1015
@@ -2999,7 +2999,7 @@ ReqStr = 2
 Price = 18000
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Dmitron s pass]
 ID = 1470
@@ -3008,7 +3008,7 @@ ReqStr = 1
 Price = 30000
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Marboden Warp]
 ID = 2056
@@ -3017,7 +3017,7 @@ ReqStr = 2
 Price = 5000
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [ancient portal]
 ID = 2588
@@ -3026,7 +3026,7 @@ ReqStr = 2
 Price = 500
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [LostRealm Pass]
 ID = 2351
@@ -3035,7 +3035,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Dekaren Pass]
 ID = 2352
@@ -3044,7 +3044,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Dekadun Pass]
 ID = 2353
@@ -3053,7 +3053,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Shaylon Pass]
 ID = 2354
@@ -3062,7 +3062,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Laglamia Pass]
 ID = 2355
@@ -3071,7 +3071,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Syrust Pass]
 ID = 2356
@@ -3080,7 +3080,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Pharos Pass]
 ID = 2357
@@ -3089,7 +3089,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [W-Horn Pass]
 ID = 2358
@@ -3098,7 +3098,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [G-Rabornaty Pass]
 ID = 2359
@@ -3107,7 +3107,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Turan Pass]
 ID = 2360
@@ -3116,7 +3116,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Balkariya Pass]
 ID = 2361
@@ -3125,7 +3125,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Barsha Pass]
 ID = 2362
@@ -3134,7 +3134,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Queiz Pass]
 ID = 2363
@@ -3143,7 +3143,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Beargrid Pass]
 ID = 2364
@@ -3152,7 +3152,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Marboten Pass]
 ID = 2365
@@ -3161,7 +3161,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Dmitron Pass]
 ID = 2366
@@ -3170,7 +3170,7 @@ ReqStr = 1
 Price = 40
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Scroll of N Agen]
 ID = 1073
@@ -3179,7 +3179,7 @@ ReqStr = 1
 Price = 300000
 SizeX = 1
 SizeY = 1 
-Class = WarpGate
+Class = etc.WarpGate
 
 [Sell Board 01]
 ID = 1367
@@ -22573,40 +22573,44 @@ ID = 739
 Type = 17
 Race = 0
 ReqStr = 1
+ExtraStats = 500
 SizeX = 1
 SizeY = 1
 Price = 7600
-Class = WhetStone
+Class = etc.GrindStone
 
 [Grindstone 1000]
 ID = 807
 Type = 17
 Race = 0
 ReqStr = 1
+ExtraStats = 1000
 SizeX = 1
 SizeY = 1
 Price = 19000
-Class = WhetStone
+Class = etc.GrindStone
 
 [Chakuram Grindstone 500]
 ID = 1006
 Type = 17
 Race = 0
 ReqStr = 1
+ExtraStats = 500
 SizeX = 1
 SizeY = 1
 Price = 7600
-Class = WhetStone
+Class = etc.GrindStone
 
 [Chakuram Grindstone 1000]
 ID = 1005
 Type = 17
 Race = 0
 ReqStr = 1
+ExtraStats = 1000
 SizeX = 1
 SizeY = 1
 Price = 19000
-Class = WhetStone
+Class = etc.GrindStone
 
 #########################
 ### STONES OF CALLING ###
@@ -23023,40 +23027,40 @@ SkillLevel = 1
 SizeX = 1
 SizeY = 1
 Price = 400
-Class = ScrollAndSpellBoock
+Class = special.WandCharger
 
 [Wand Charger 2]
 ID = 777
 Type = 25
 Race = 1
 #ReqInt = 
-#SkillLevel = 
+SkillLevel = 2
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.WandCharger
 
 [Wand Charger 3]
 ID = 778
 Type = 25
 Race = 1
 #ReqInt = 
-#SkillLevel = 
+SkillLevel = 3
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.WandCharger
 
 [Wand Charger 4]
 ID = 779
 Type = 25
 Race = 1
 #ReqInt = 
-#SkillLevel = 
+SkillLevel = 4
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.WandCharger
 
 [Accumulated Damage 1]
 ID = 780
@@ -23067,7 +23071,7 @@ SkillLevel = 1
 SizeX = 1
 SizeY = 1
 Price = 100
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Accumulated Damage 3]
 ID = 781
@@ -23078,7 +23082,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Accumulated Damage 5]
 ID = 782
@@ -23089,7 +23093,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Paralysis 1]
 ID = 783
@@ -23100,7 +23104,7 @@ SkillLevel = 1
 SizeX = 1
 SizeY = 1
 Price = 100
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Paralysis 3]
 ID = 784
@@ -23111,7 +23115,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Paralysis 5]
 ID = 785
@@ -23122,7 +23126,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Confusion 1]
 ID = 786
@@ -23133,7 +23137,7 @@ SkillLevel = 1
 SizeX = 1
 SizeY = 1
 Price = 100
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Confusion 3]
 ID = 787
@@ -23144,7 +23148,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Confusion 5]
 ID = 788
@@ -23155,7 +23159,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Blackhole 1]
 ID = 789
@@ -23166,7 +23170,7 @@ SkillLevel = 1
 SizeX = 1
 SizeY = 1
 Price = 100
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Blackhole 3]
 ID = 790
@@ -23177,7 +23181,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Blackhole 5]
 ID = 791
@@ -23188,7 +23192,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Cold 2]
 ID = 792
@@ -23199,7 +23203,7 @@ SkillLevel = 2
 SizeX = 1
 SizeY = 1
 Price = 200
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Cold 4]
 ID = 793
@@ -23210,7 +23214,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Cold 6]
 ID = 794
@@ -23221,7 +23225,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Petrifaction 2]
 ID = 795
@@ -23232,7 +23236,7 @@ SkillLevel = 2
 SizeX = 1
 SizeY = 1
 Price = 200
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Petrifaction 4]
 ID = 796
@@ -23243,7 +23247,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Petrifaction 6]
 ID = 797
@@ -23254,7 +23258,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Protection 4]
 ID = 798
@@ -23265,7 +23269,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Protection 5]
 ID = 799
@@ -23276,7 +23280,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Protection 6]
 ID = 800
@@ -23287,7 +23291,7 @@ Race = 1
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Normal Book 1-4]
 ID = 801
@@ -23299,7 +23303,7 @@ Capacity = 15
 SizeX = 1
 SizeY = 1
 Price = 2400
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Red Book 1-4]
 ID = 802
@@ -23311,7 +23315,7 @@ Capacity = 40
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Normal Book 5]
 ID = 803
@@ -23323,7 +23327,7 @@ Capacity = 35
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Red Book 5]
 ID = 804
@@ -23335,7 +23339,7 @@ Capacity = 50
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Normal Book 6]
 ID = 805
@@ -23347,7 +23351,7 @@ Capacity = 55
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 [Red Book 6]
 ID = 806
@@ -23359,7 +23363,7 @@ Capacity = 65
 SizeX = 1
 SizeY = 1
 #Price = 
-Class = ScrollAndSpellBoock
+Class = special.ScrollAndSpellBook
 
 #######################
 ###### ETC ITEMS ######
@@ -23476,10 +23480,10 @@ Whetstone = 17
 StoneOfCalling = 18
 Gemstone = 19
 Potion = 20
-WarpGate = 21
+etc.WarpGate = 21
 Bullet = 22
 AssemblingPart = 23
 SmallEquipment = 24
-ScrollAndSpellBook = 25
+special.ScrollAndSpellBook = 25
 Etc = 26
 Pet = 27
