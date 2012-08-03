@@ -104,6 +104,7 @@ CREATE TABLE `items` (
   `durability` int(11) NOT NULL DEFAULT '0',
   `unknown1` int(11) NOT NULL DEFAULT '0',
   `unknown2` int(11) NOT NULL DEFAULT '0',
+  `unknown3` int(11) NOT NULL DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
