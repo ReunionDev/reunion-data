@@ -86,7 +86,7 @@ Z = 0
 Rotation = 1.5707
 Type = 67
 
-[Constructer-9]
+[Assembling Merchant-9]
 ID = 9
 X = 6990
 Y = 5795
@@ -246,7 +246,7 @@ SellRate = 30	# Value in %
 Shop = areas/lostrealmcastle/shop/npc24.dta
 
 
-[Mech Merchant-25]
+[Mechant-25]
 ID = 25
 X = 5778
 Y = 6805

@@ -1,106 +1,108 @@
 #DropList
 
-#Panzermaus Lag--------------------------------------------------------------------------
+######### Laglamia #################################
+
+#-- Armored Mouse --------------------------------------------------------------------------
 #Kurzschwert, Steinaxt, Bienenschwarmring, Haarreif, Lederhose, Lederstiefel
 
-[Panzermaus Kurzschwert]
+[Armored Mouse Short Sword]
 ID = 1
 Mob = 97
 Item = 168
-Rate = .06
+Rate = .01
 
-[Panzermaus Steinaxt]
+[Armored Mouse Stone Axe]
 ID = 2
 Mob = 97
 Item = 48
-Rate = .04
+Rate = .02
 
-[Panzermaus Bienenschwarmring]
+[Armored Mouse Bee Swarm Ring]
 ID = 3
 Mob = 97
 Item = 431
-Rate = .02
+Rate = .03
 
-[Panzermaus Haarreif]
+[Armored Mouse Hair Band]
 ID = 4
 Mob = 97
 Item = 309
-Rate = .12
+Rate = .04
 
-[Panzermaus Lederhose]
+[Armored Mouse Leather Pants]
 ID = 5
 Mob = 97
 Item = 343
-Rate = .10
+Rate = .05
 
-[Panzermaus Lederstiefel]
+[Armored Mouse Leather Boots]
 ID = 6
 Mob = 97
 Item = 365
-Rate = .08
+Rate = .06
 
-#Wolf Lag--------------------------------------------------------------------------
+#-- Wolf --------------------------------------------------------------------------
 
 [Wolf Short Sword]
 ID = 7
 Mob = 23
 Item = 168
-Rate = .06
+Rate = .01
 
 [Wolf Long Sword]
 ID = 8
 Mob = 23
 Item = 37
-Rate = .04
+Rate = .02
 
 [Wolf Bee Swarm Ring]
 ID = 9
 Mob = 23
 Item = 431
-Rate = .02
+Rate = .03
 
 [Wolf Hair Band]
 ID = 10
 Mob = 23
 Item = 309
-Rate = .12
+Rate = .04
 
 [Wolf Leather Jacket]
 ID = 11
 Mob = 23
 Item = 326
-Rate = .10
+Rate = .05
 
 [Wolf Leather Pants]
 ID = 12
 Mob = 23
 Item = 343
-Rate = .11
+Rate = .06
 
 [Wolf Leather Boots]
 ID = 13
 Mob = 23
 Item = 365
-Rate = .04
+Rate =.07
 
-#Lada -------------------------------------------------------------------
+#-- Lada -------------------------------------------------------------------
 [Lada Long Sword]
 ID = 14
 Mob = 25
 Item = 37
-Rate = .08
+Rate = .01
 
 [Lada Righteouseness Blade]
 ID = 15
 Mob = 25
 Item = 154
-Rate = .07
+Rate = .02
 
 [Lada Bulkan Axe]
 ID = 16
 Mob = 25
 Item = 49
-Rate = .05
+Rate = .03
 
 [Lada God Staff]
 ID = 17
@@ -112,25 +114,25 @@ Rate = .04
 ID = 18
 Mob = 25
 Item = 169
-Rate = .02
+Rate = .05
 
 [Lada Air Hand Gun]
 ID = 19
 Mob = 25
 Item = 204
-Rate = .01
+Rate = .06
 
 [Lada Tiger Mantle]
 ID = 20
 Mob = 25
 Item = 191
-Rate = .05
+Rate = .07
 
 [Lada Brince Shield]
 ID = 21
 Mob = 25
 Item = 187
-Rate = .03
+Rate = .08
 
 #[Lada ]
 #ID = 22
@@ -156,134 +158,134 @@ Rate = .03
 #Item = 
 #Rate = .10
 
-#--Panzerkrabbe------------------------------------------------------
+#-- Armored Crab ------------------------------------------------------
 
-[Panzerkrabbe Bulkan Axe]
+[Armored Crab Bulkan Axe]
 ID = 26
 Mob = 98
 Item = 49
-Rate = .05
+Rate = .01
 
-[Panzerkrabbe Big Bulkan Axe]
+[Armored Crab Big Bulkan Axe]
 ID = 27
 Mob = 98
 Item = 155
-Rate = .01
+Rate = .02
 
-[Panzerkrabbe God Staff]
+[Armored Crab God Staff]
 ID = 28
 Mob = 98
 Item = 170
-Rate = .02
+Rate = .03
 
-[Panzerkrabbe Eagle Staff]
+[Armored Crab Eagle Staff]
 ID = 29
 Mob = 98
 Item = 169
-Rate = .03
+Rate = .04
 
-[Panzerkrabbe Air Hand Gun]
+[Armored Crab Air Hand Gun]
 ID = 30
 Mob = 98
 Item = 204
-Rate = .04
+Rate = .05
 
-[Panzerkrabbe Tiger Mantle]
+[Armored Crab Tiger Mantle]
 ID = 31
 Mob = 98
 Item = 191
 Rate = .06
 
-[Panzerkrabbe Brince Shield]
+[Armored Crab Brince Shield]
 ID = 32
 Mob = 98
 Item = 187
-Rate = .09
+Rate = .07
 
-#[Panzerkrabbe ]
+#[Armored Crab ]
 #ID = 33
 #Mob = 98
 #Item = 
-#Rate = .07
+#Rate = .08
 
-#[Panzerkrabbe ]
+#[Armored Crab ]
 #ID = 34
 #Mob = 98
 #Item = 
 #Rate = .10
 
-#[Panzerkrabbe ]
+#[Armored Crab ]
 #ID = 35
 #Mob = 98
 #Item = 
 #Rate = .10
 
-#[Panzerkrabbe ]
+#[Armored Crab ]
 #ID = 36
 #Mob = 98
 #Item = 
 #Rate = .10
 
-#[Panzerkrabbe ]
+#[Armored Crab ]
 #ID = 37
 #Mob = 98
 #Item = 
 #Rate = .10
 
-#[Panzerkrabbe ]
+#[Armored Crab ]
 #ID = 38
 #Mob = 98
 #Item = 
 #Rate = .10
 
-#[Panzerkrabbe ]
+#[Armored Crab ]
 #ID = 39
 #Mob = 98
 #Item = 
 #Rate = .10
 
-#[Panzerkrabbe ]
+#[Armored Crab ]
 #ID = 40
 #Mob = 98
 #Item = 
 #Rate = .10
 
-#--- Giftkrabbe ------------------------------------------------------------
+#-- Poison Crab ------------------------------------------------------------
 [Poison Crab Righteouseness Blade]
 ID = 41
 Mob = 99
 Item = 154
-Rate = .03
+Rate = .01
 
 [Poison Crab Curved Blade]
 ID = 42
 Mob = 99
 Item = 163
-Rate = .01
+Rate = .02
 
 [Poison Crab Big Bulkan Axe]
 ID = 43
 Mob = 99
 Item = 155
-Rate = .02
+Rate = .03
 
 [Poison Crab Air Hand Gun]
 ID = 44
 Mob = 99
 Item = 204
-Rate = .08
+Rate = .04
 
 [Poison Crab Tiger Mantle]
 ID = 45
 Mob = 99
 Item = 191
-Rate = .06
+Rate = .05
 
 [Poison Crab Brince Shield]
 ID = 46
 Mob = 99
 Item = 187
-Rate = .05
+Rate = .06
 
 #[Poison Crab ]
 #ID = 47
@@ -321,7 +323,7 @@ Rate = .05
 #Item = 
 #Rate = .10
 
-#---- White Tiger-----------------------------------------
+#-- White Tiger-----------------------------------------
 
 [White Tiger Woodern Horn Axe]
 ID = 53
@@ -339,43 +341,43 @@ Rate = .02
 ID = 55
 Mob = 24
 Item = 432
-Rate = .04
+Rate = .03
 
 [White Tiger Warrior Helmet]
 ID = 56
 Mob = 24
 Item = 310
-Rate = .06
+Rate = .04
 
 [White Tiger Warrior Armor]
 ID = 57
 Mob = 24
 Item = 325
-Rate = .08
+Rate = .05
 
 [White Tiger Warrior Boots]
 ID = 58
 Mob = 24
 Item = 366
-Rate = .07
+Rate = .06
 
 #[White Tiger Geisterflügel]
 #ID = 59
 #Mob = 24
 #Item = 
-#Rate = .10
+#Rate = .07
 
 [White Tiger Iron Shield]
 ID = 60
 Mob = 24
 Item = 34
-Rate = .05
+Rate = .08
 
 [White Tiger Xeno Shield]
 ID = 61
 Mob = 24
 Item = 188
-Rate = .03
+Rate = .09
 
 #[White Tiger ]
 #ID = 62

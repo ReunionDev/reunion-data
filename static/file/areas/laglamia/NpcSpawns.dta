@@ -292,3 +292,27 @@ Type = 93
 BuyRate = 70	# Value in %
 SellRate = 30	# Value in %
 Shop = areas/laglamia/shop/npc28.dta
+
+[Egg Seller-29]
+ID = 29
+X = 6308
+Y = 5078
+Z = 0
+Rotation = 1.5707
+Type = 188
+
+[Drill Instructor-30]
+ID = 30
+X = 6340
+Y = 5093
+Z = 0
+Rotation = 1.5707
+Type = 190
+
+[Assembling Merchant-31]
+ID = 31
+X = 6259
+Y = 5044
+Z = 0
+Rotation = 3.1414
+Type = 191

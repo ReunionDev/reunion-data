@@ -30,7 +30,7 @@ CREATE TABLE `accounts` (
 DROP TABLE IF EXISTS `characters`;
 
 CREATE TABLE `characters` (
- `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `accountid` int(11) DEFAULT NULL,
   `name` varchar(32) DEFAULT NULL,
   `level` int(11) DEFAULT NULL,
@@ -53,9 +53,10 @@ CREATE TABLE `characters` (
   `y` int(11) DEFAULT NULL,
   `z` int(11) DEFAULT NULL,
   `mapId` int(11) DEFAULT NULL,
+  `petid` int(11) NOT NULL DEFAULT '-1',
   PRIMARY KEY (`id`),
   UNIQUE KEY `name_UNIQUE` (`name`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `equipment`;
 
@@ -117,6 +118,33 @@ CREATE TABLE IF NOT EXISTS `questobjectivestate` (
   PRIMARY KEY (`queststateid`,`objectiveid`)
 )  ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+DROP TABLE IF EXISTS `pet`;
+
+CREATE TABLE `pet` (
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `hp` int(11) NOT NULL DEFAULT '96',
+  `closeDefence` int(11) NOT NULL DEFAULT '12',
+  `distantDefence` int(11) NOT NULL DEFAULT '7',
+  `closeAttack` int(11) NOT NULL DEFAULT '24',
+  `distantAttack` int(11) NOT NULL DEFAULT '16',
+  `exp` bigint(20) NOT NULL DEFAULT '0',
+  `loyalty` int(11) NOT NULL DEFAULT '0',
+  `amulet` int(11) NOT NULL DEFAULT '-1',
+  `name` varchar(32) NOT NULL DEFAULT 'Labiyong',
+  `level` int(11) NOT NULL DEFAULT '1',
+  `basket` int(11) NOT NULL DEFAULT '-1',
+  `state` int(11) NOT NULL DEFAULT '1',
+  `breedtime` int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `petequipment`;
+
+CREATE TABLE `petequipment` (
+  `petid` int(11) NOT NULL,
+  `slot` int(11) NOT NULL,
+  `itemid` int(11) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `queststate`;
 
