@@ -1,428 +1,5513 @@
-#DropList
-
-######### Laglamia #################################
-
-#-- Armored Mouse --------------------------------------------------------------------------
-#Kurzschwert, Steinaxt, Bienenschwarmring, Haarreif, Lederhose, Lederstiefel
-
-[Armored Mouse Short Sword]
+[Drop 1]
 ID = 1
 Mob = 97
 Item = 168
-Rate = .01
+Rate = .06
 
-[Armored Mouse Stone Axe]
+[Drop 2]
 ID = 2
 Mob = 97
 Item = 48
-Rate = .02
+Rate = .04
 
-[Armored Mouse Bee Swarm Ring]
+[Drop 3]
 ID = 3
 Mob = 97
 Item = 431
-Rate = .03
+Rate = .02
 
-[Armored Mouse Hair Band]
+[Drop 4]
 ID = 4
 Mob = 97
 Item = 309
-Rate = .04
+Rate = .12
 
-[Armored Mouse Leather Pants]
+[Drop 5]
 ID = 5
 Mob = 97
 Item = 343
-Rate = .05
+Rate = .1
 
-[Armored Mouse Leather Boots]
+[Drop 6]
 ID = 6
 Mob = 97
 Item = 365
-Rate = .06
+Rate = .08
 
-#-- Wolf --------------------------------------------------------------------------
-
-[Wolf Short Sword]
+[Drop 7]
 ID = 7
 Mob = 23
 Item = 168
-Rate = .01
+Rate = .06
 
-[Wolf Long Sword]
+[Drop 8]
 ID = 8
 Mob = 23
 Item = 37
-Rate = .02
+Rate = .04
 
-[Wolf Bee Swarm Ring]
+[Drop 9]
 ID = 9
 Mob = 23
 Item = 431
-Rate = .03
+Rate = .02
 
-[Wolf Hair Band]
+[Drop 10]
 ID = 10
 Mob = 23
 Item = 309
-Rate = .04
+Rate = .12
 
-[Wolf Leather Jacket]
+[Drop 11]
 ID = 11
 Mob = 23
 Item = 326
-Rate = .05
+Rate = .1
 
-[Wolf Leather Pants]
+[Drop 12]
 ID = 12
 Mob = 23
 Item = 343
-Rate = .06
+Rate = .11
 
-[Wolf Leather Boots]
+[Drop 13]
 ID = 13
 Mob = 23
 Item = 365
-Rate =.07
+Rate = .04
 
-#-- Lada -------------------------------------------------------------------
-[Lada Long Sword]
+[Drop 14]
 ID = 14
 Mob = 25
 Item = 37
-Rate = .01
+Rate = .08
 
-[Lada Righteouseness Blade]
+[Drop 15]
 ID = 15
 Mob = 25
 Item = 154
-Rate = .02
+Rate = .07
 
-[Lada Bulkan Axe]
+[Drop 16]
 ID = 16
 Mob = 25
 Item = 49
-Rate = .03
+Rate = .05
 
-[Lada God Staff]
+[Drop 17]
 ID = 17
 Mob = 25
 Item = 170
 Rate = .04
 
-[Lada Eagle Staff]
+[Drop 18]
 ID = 18
 Mob = 25
 Item = 169
-Rate = .05
+Rate = .02
 
-[Lada Air Hand Gun]
+[Drop 19]
 ID = 19
 Mob = 25
 Item = 204
-Rate = .06
+Rate = .01
 
-[Lada Tiger Mantle]
+[Drop 20]
 ID = 20
 Mob = 25
 Item = 191
-Rate = .07
+Rate = .05
 
-[Lada Brince Shield]
+[Drop 21]
 ID = 21
 Mob = 25
 Item = 187
-Rate = .08
+Rate = .03
 
-#[Lada ]
-#ID = 22
-#Mob = 25
-#Item = 
-#Rate = .07
-
-#[Lada ]
-#ID = 23
-#Mob = 25
-#Item = 
-#Rate = .06
-
-#[Lada ]
-#ID = 24
-#Mob = 25
-#Item = 
-#Rate = .10
-
-#[Lada ]
-#ID = 25
-#Mob = 25
-#Item = 
-#Rate = .10
-
-#-- Armored Crab ------------------------------------------------------
-
-[Armored Crab Bulkan Axe]
-ID = 26
+[Drop 22]
+ID = 22
 Mob = 98
 Item = 49
-Rate = .01
+Rate = .05
 
-[Armored Crab Big Bulkan Axe]
-ID = 27
+[Drop 23]
+ID = 23
 Mob = 98
 Item = 155
-Rate = .02
+Rate = .01
 
-[Armored Crab God Staff]
-ID = 28
+[Drop 24]
+ID = 24
 Mob = 98
 Item = 170
-Rate = .03
-
-[Armored Crab Eagle Staff]
-ID = 29
-Mob = 98
-Item = 169
-Rate = .04
-
-[Armored Crab Air Hand Gun]
-ID = 30
-Mob = 98
-Item = 204
-Rate = .05
-
-[Armored Crab Tiger Mantle]
-ID = 31
-Mob = 98
-Item = 191
-Rate = .06
-
-[Armored Crab Brince Shield]
-ID = 32
-Mob = 98
-Item = 187
-Rate = .07
-
-#[Armored Crab ]
-#ID = 33
-#Mob = 98
-#Item = 
-#Rate = .08
-
-#[Armored Crab ]
-#ID = 34
-#Mob = 98
-#Item = 
-#Rate = .10
-
-#[Armored Crab ]
-#ID = 35
-#Mob = 98
-#Item = 
-#Rate = .10
-
-#[Armored Crab ]
-#ID = 36
-#Mob = 98
-#Item = 
-#Rate = .10
-
-#[Armored Crab ]
-#ID = 37
-#Mob = 98
-#Item = 
-#Rate = .10
-
-#[Armored Crab ]
-#ID = 38
-#Mob = 98
-#Item = 
-#Rate = .10
-
-#[Armored Crab ]
-#ID = 39
-#Mob = 98
-#Item = 
-#Rate = .10
-
-#[Armored Crab ]
-#ID = 40
-#Mob = 98
-#Item = 
-#Rate = .10
-
-#-- Poison Crab ------------------------------------------------------------
-[Poison Crab Righteouseness Blade]
-ID = 41
-Mob = 99
-Item = 154
-Rate = .01
-
-[Poison Crab Curved Blade]
-ID = 42
-Mob = 99
-Item = 163
 Rate = .02
 
-[Poison Crab Big Bulkan Axe]
-ID = 43
-Mob = 99
-Item = 155
+[Drop 25]
+ID = 25
+Mob = 98
+Item = 169
 Rate = .03
 
-[Poison Crab Air Hand Gun]
-ID = 44
-Mob = 99
+[Drop 26]
+ID = 26
+Mob = 98
 Item = 204
 Rate = .04
 
-[Poison Crab Tiger Mantle]
-ID = 45
-Mob = 99
+[Drop 27]
+ID = 27
+Mob = 98
 Item = 191
-Rate = .05
-
-[Poison Crab Brince Shield]
-ID = 46
-Mob = 99
-Item = 187
 Rate = .06
 
-#[Poison Crab ]
-#ID = 47
-#Mob = 99
-#Item = 
-#Rate = .10
+[Drop 28]
+ID = 28
+Mob = 98
+Item = 187
+Rate = .09
 
-#[Poison Crab ]
-#ID = 48
-#Mob = 99
-#Item = 
-#Rate = .10
+[Drop 29]
+ID = 29
+Mob = 99
+Item = 154
+Rate = .03
 
-#[Poison Crab ]
-#ID = 49
-#Mob = 99
-#Item = 
-#Rate = .10
+[Drop 30]
+ID = 30
+Mob = 99
+Item = 163
+Rate = .01
 
-#[Poison Crab ]
-#ID = 50
-#Mob = 99
-#Item = 
-#Rate = .10
+[Drop 31]
+ID = 31
+Mob = 99
+Item = 155
+Rate = .02
 
-#[Poison Crab ]
-#ID = 51
-#Mob = 99
-#Item = 
-#Rate = .10
+[Drop 32]
+ID = 32
+Mob = 99
+Item = 204
+Rate = .08
 
-#[Poison Crab ]
-#ID = 52
-#Mob = 99
-#Item = 
-#Rate = .10
+[Drop 33]
+ID = 33
+Mob = 99
+Item = 191
+Rate = .06
 
-#-- White Tiger-----------------------------------------
+[Drop 34]
+ID = 34
+Mob = 99
+Item = 187
+Rate = .05
 
-[White Tiger Woodern Horn Axe]
-ID = 53
+[Drop 35]
+ID = 35
 Mob = 24
 Item = 167
 Rate = .01
 
-[White Tiger Air Hand Gun]
-ID = 54
+[Drop 36]
+ID = 36
 Mob = 24
 Item = 204
 Rate = .02
 
-[White Tiger Butterfly Ring]
-ID = 55
+[Drop 37]
+ID = 37
 Mob = 24
 Item = 432
-Rate = .03
-
-[White Tiger Warrior Helmet]
-ID = 56
-Mob = 24
-Item = 310
 Rate = .04
 
-[White Tiger Warrior Armor]
-ID = 57
+[Drop 38]
+ID = 38
 Mob = 24
-Item = 325
-Rate = .05
-
-[White Tiger Warrior Boots]
-ID = 58
-Mob = 24
-Item = 366
+Item = 310
 Rate = .06
 
-#[White Tiger Geisterflügel]
-#ID = 59
-#Mob = 24
-#Item = 
-#Rate = .07
-
-[White Tiger Iron Shield]
-ID = 60
+[Drop 39]
+ID = 39
 Mob = 24
-Item = 34
+Item = 325
 Rate = .08
 
-[White Tiger Xeno Shield]
-ID = 61
+[Drop 40]
+ID = 40
+Mob = 24
+Item = 366
+Rate = .07
+
+[Drop 41]
+ID = 41
+Mob = 24
+Item = 915
+Rate = .1
+
+[Drop 42]
+ID = 42
+Mob = 24
+Item = 34
+Rate = .05
+
+[Drop 43]
+ID = 43
 Mob = 24
 Item = 188
-Rate = .09
+Rate = .03
 
-#[White Tiger ]
-#ID = 62
-#Mob = 24
-#Item = 
-#Rate = .10
+[Drop 44]
+ID = 44
+Mob = 100
+Item = 167
+Rate = .03
 
-#[White Tiger ]
-#ID = 63
-#Mob = 24
-#Item = 
-#Rate = .10
+[Drop 45]
+ID = 45
+Mob = 100
+Item = 461
+Rate = .03
 
-#[White Tiger ]
-#ID = 64
-#Mob = 24
-#Item = 
-#Rate = .10
+[Drop 46]
+ID = 46
+Mob = 100
+Item = 159
+Rate = .03
 
-#[White Tiger ]
-#ID = 65
-#Mob = 24
-#Item = 
-#Rate = .10
+[Drop 47]
+ID = 47
+Mob = 100
+Item = 204
+Rate = .02
 
-#[White Tiger ]
-#ID = 66
-#Mob = 24
-#Item = 
-#Rate = .10
+[Drop 48]
+ID = 48
+Mob = 100
+Item = 344
+Rate = .02
 
-#[White Tiger ]
-#ID = 67
-#Mob = 24
-#Item = 
-#Rate = .10
+[Drop 49]
+ID = 49
+Mob = 100
+Item = 325
+Rate = .08
 
-#[White Tiger ]
-#ID = 68
-#Mob = 24
-#Item = 
-#Rate = .10
+[Drop 50]
+ID = 50
+Mob = 100
+Item = 366
+Rate = .07
 
-#[White Tiger ]
-#ID = 69
-#Mob = 24
-#Item = 
-#Rate = .10
+[Drop 51]
+ID = 51
+Mob = 100
+Item = 915
+Rate = .1
+
+[Drop 52]
+ID = 52
+Mob = 100
+Item = 916
+Rate = .1
+
+[Drop 53]
+ID = 53
+Mob = 100
+Item = 188
+Rate = .03
+
+[Drop 54]
+ID = 54
+Mob = 100
+Item = 192
+Rate = .03
+
+[Drop 55]
+ID = 55
+Mob = 101
+Item = 461
+Rate = .03
+
+[Drop 56]
+ID = 56
+Mob = 101
+Item = 460
+Rate = .03
+
+[Drop 57]
+ID = 57
+Mob = 101
+Item = 462
+Rate = .03
+
+[Drop 58]
+ID = 58
+Mob = 101
+Item = 193
+Rate = .03
+
+[Drop 59]
+ID = 59
+Mob = 101
+Item = 915
+Rate = .1
+
+[Drop 60]
+ID = 60
+Mob = 101
+Item = 916
+Rate = .1
+
+[Drop 61]
+ID = 61
+Mob = 101
+Item = 189
+Rate = .1
+
+[Drop 62]
+ID = 62
+Mob = 102
+Item = 550
+Rate = .1
+
+[Drop 63]
+ID = 63
+Mob = 102
+Item = 555
+Rate = .1
+
+[Drop 64]
+ID = 64
+Mob = 102
+Item = 133
+Rate = .1
+
+[Drop 65]
+ID = 65
+Mob = 102
+Item = 522
+Rate = .1
+
+[Drop 66]
+ID = 66
+Mob = 102
+Item = 529
+Rate = .1
+
+[Drop 67]
+ID = 67
+Mob = 102
+Item = 536
+Rate = .1
+
+[Drop 68]
+ID = 68
+Mob = 102
+Item = 216
+Rate = .1
+
+[Drop 69]
+ID = 69
+Mob = 102
+Item = 160
+Rate = .1
+
+[Drop 70]
+ID = 70
+Mob = 102
+Item = 467
+Rate = .1
+
+[Drop 71]
+ID = 71
+Mob = 102
+Item = 345
+Rate = .1
+
+[Drop 72]
+ID = 72
+Mob = 102
+Item = 311
+Rate = .1
+
+[Drop 73]
+ID = 73
+Mob = 102
+Item = 367
+Rate = .1
+
+[Drop 74]
+ID = 74
+Mob = 102
+Item = 327
+Rate = .1
+
+[Drop 75]
+ID = 75
+Mob = 102
+Item = 194
+Rate = .1
+
+[Drop 76]
+ID = 76
+Mob = 102
+Item = 190
+Rate = .1
+
+[Drop 77]
+ID = 77
+Mob = 110
+Item = 177
+Rate = .1
+
+[Drop 78]
+ID = 78
+Mob = 110
+Item = 178
+Rate = .1
+
+[Drop 79]
+ID = 79
+Mob = 110
+Item = 305
+Rate = .1
+
+[Drop 80]
+ID = 80
+Mob = 110
+Item = 285
+Rate = .1
+
+[Drop 81]
+ID = 81
+Mob = 110
+Item = 370
+Rate = .1
+
+[Drop 82]
+ID = 82
+Mob = 110
+Item = 375
+Rate = .1
+
+[Drop 83]
+ID = 83
+Mob = 110
+Item = 428
+Rate = .1
+
+[Drop 84]
+ID = 84
+Mob = 110
+Item = 380
+Rate = .1
+
+[Drop 85]
+ID = 85
+Mob = 110
+Item = 314
+Rate = .1
+
+[Drop 86]
+ID = 86
+Mob = 110
+Item = 319
+Rate = .1
+
+[Drop 87]
+ID = 87
+Mob = 110
+Item = 413
+Rate = .1
+
+[Drop 88]
+ID = 88
+Mob = 110
+Item = 362
+Rate = .1
+
+[Drop 89]
+ID = 89
+Mob = 110
+Item = 200
+Rate = .1
+
+[Drop 90]
+ID = 90
+Mob = 110
+Item = 861
+Rate = .1
+
+[Drop 91]
+ID = 91
+Mob = 110
+Item = 809
+Rate = .1
+
+[Drop 92]
+ID = 92
+Mob = 109
+Item = 313
+Rate = .1
+
+[Drop 93]
+ID = 93
+Mob = 109
+Item = 318
+Rate = .1
+
+[Drop 94]
+ID = 94
+Mob = 109
+Item = 412
+Rate = .1
+
+[Drop 95]
+ID = 95
+Mob = 109
+Item = 361
+Rate = .1
+
+[Drop 96]
+ID = 96
+Mob = 109
+Item = 199
+Rate = .1
+
+[Drop 97]
+ID = 97
+Mob = 109
+Item = 861
+Rate = .1
+
+[Drop 98]
+ID = 98
+Mob = 109
+Item = 809
+Rate = .1
+
+[Drop 99]
+ID = 99
+Mob = 108
+Item = 251
+Rate = .1
+
+[Drop 100]
+ID = 100
+Mob = 108
+Item = 256
+Rate = .1
+
+[Drop 101]
+ID = 101
+Mob = 108
+Item = 331
+Rate = .1
+
+[Drop 102]
+ID = 102
+Mob = 108
+Item = 336
+Rate = .1
+
+[Drop 103]
+ID = 103
+Mob = 108
+Item = 419
+Rate = .1
+
+[Drop 104]
+ID = 104
+Mob = 108
+Item = 341
+Rate = .1
+
+[Drop 105]
+ID = 105
+Mob = 108
+Item = 349
+Rate = .1
+
+[Drop 106]
+ID = 106
+Mob = 108
+Item = 354
+Rate = .1
+
+[Drop 107]
+ID = 107
+Mob = 108
+Item = 424
+Rate = .1
+
+[Drop 108]
+ID = 108
+Mob = 108
+Item = 359
+Rate = .1
+
+[Drop 109]
+ID = 109
+Mob = 108
+Item = 371
+Rate = .1
+
+[Drop 110]
+ID = 110
+Mob = 108
+Item = 376
+Rate = .1
+
+[Drop 111]
+ID = 111
+Mob = 108
+Item = 429
+Rate = .1
+
+[Drop 112]
+ID = 112
+Mob = 108
+Item = 381
+Rate = .1
+
+[Drop 113]
+ID = 113
+Mob = 108
+Item = 200
+Rate = .1
+
+[Drop 114]
+ID = 114
+Mob = 108
+Item = 861
+Rate = .1
+
+[Drop 115]
+ID = 115
+Mob = 108
+Item = 813
+Rate = .1
+
+[Drop 116]
+ID = 116
+Mob = 108
+Item = 693
+Rate = .1
+
+[Drop 117]
+ID = 117
+Mob = 108
+Item = 768
+Rate = .1
+
+[Drop 118]
+ID = 118
+Mob = 112
+Item = 292
+Rate = .1
+
+[Drop 119]
+ID = 119
+Mob = 112
+Item = 332
+Rate = .1
+
+[Drop 120]
+ID = 120
+Mob = 112
+Item = 337
+Rate = .1
+
+[Drop 121]
+ID = 121
+Mob = 112
+Item = 420
+Rate = .1
+
+[Drop 122]
+ID = 122
+Mob = 112
+Item = 342
+Rate = .1
+
+[Drop 123]
+ID = 123
+Mob = 112
+Item = 372
+Rate = .1
+
+[Drop 124]
+ID = 124
+Mob = 112
+Item = 377
+Rate = .1
+
+[Drop 125]
+ID = 125
+Mob = 112
+Item = 430
+Rate = .1
+
+[Drop 126]
+ID = 126
+Mob = 112
+Item = 382
+Rate = .1
+
+[Drop 127]
+ID = 127
+Mob = 112
+Item = 861
+Rate = .1
+
+[Drop 128]
+ID = 128
+Mob = 112
+Item = 768
+Rate = .1
+
+[Drop 129]
+ID = 129
+Mob = 111
+Item = 768
+Rate = .1
+
+[Drop 130]
+ID = 130
+Mob = 111
+Item = 251
+Rate = .1
+
+[Drop 131]
+ID = 131
+Mob = 111
+Item = 257
+Rate = .1
+
+[Drop 132]
+ID = 132
+Mob = 111
+Item = 332
+Rate = .1
+
+[Drop 133]
+ID = 133
+Mob = 111
+Item = 337
+Rate = .1
+
+[Drop 134]
+ID = 134
+Mob = 111
+Item = 420
+Rate = .1
+
+[Drop 135]
+ID = 135
+Mob = 111
+Item = 342
+Rate = .1
+
+[Drop 136]
+ID = 136
+Mob = 111
+Item = 350
+Rate = .1
+
+[Drop 137]
+ID = 137
+Mob = 111
+Item = 355
+Rate = .1
+
+[Drop 138]
+ID = 138
+Mob = 111
+Item = 425
+Rate = .1
+
+[Drop 139]
+ID = 139
+Mob = 111
+Item = 360
+Rate = .1
+
+[Drop 140]
+ID = 140
+Mob = 111
+Item = 861
+Rate = .1
+
+[Drop 141]
+ID = 141
+Mob = 111
+Item = 813
+Rate = .1
+
+[Drop 142]
+ID = 142
+Mob = 111
+Item = 693
+Rate = .1
+
+[Drop 143]
+ID = 143
+Mob = 38
+Item = 624
+Rate = .1
+
+[Drop 144]
+ID = 144
+Mob = 38
+Item = 625
+Rate = .1
+
+[Drop 145]
+ID = 145
+Mob = 38
+Item = 877
+Rate = .1
+
+[Drop 146]
+ID = 146
+Mob = 38
+Item = 626
+Rate = .1
+
+[Drop 147]
+ID = 147
+Mob = 38
+Item = 881
+Rate = .1
+
+[Drop 148]
+ID = 148
+Mob = 38
+Item = 882
+Rate = .1
+
+[Drop 149]
+ID = 149
+Mob = 38
+Item = 896
+Rate = .1
+
+[Drop 150]
+ID = 150
+Mob = 38
+Item = 883
+Rate = .1
+
+[Drop 151]
+ID = 151
+Mob = 38
+Item = 628
+Rate = .1
+
+[Drop 152]
+ID = 152
+Mob = 38
+Item = 629
+Rate = .1
+
+[Drop 153]
+ID = 153
+Mob = 38
+Item = 878
+Rate = .1
+
+[Drop 154]
+ID = 154
+Mob = 38
+Item = 630
+Rate = .1
+
+[Drop 155]
+ID = 155
+Mob = 38
+Item = 884
+Rate = .1
+
+[Drop 156]
+ID = 156
+Mob = 38
+Item = 885
+Rate = .1
+
+[Drop 157]
+ID = 157
+Mob = 38
+Item = 897
+Rate = .1
+
+[Drop 158]
+ID = 158
+Mob = 38
+Item = 886
+Rate = .1
+
+[Drop 159]
+ID = 159
+Mob = 38
+Item = 631
+Rate = .1
+
+[Drop 160]
+ID = 160
+Mob = 38
+Item = 631
+Rate = .1
+
+[Drop 161]
+ID = 161
+Mob = 38
+Item = 879
+Rate = .1
+
+[Drop 162]
+ID = 162
+Mob = 38
+Item = 633
+Rate = .1
+
+[Drop 163]
+ID = 163
+Mob = 38
+Item = 887
+Rate = .1
+
+[Drop 164]
+ID = 164
+Mob = 38
+Item = 888
+Rate = .1
+
+[Drop 165]
+ID = 165
+Mob = 38
+Item = 898
+Rate = .1
+
+[Drop 166]
+ID = 166
+Mob = 38
+Item = 889
+Rate = .1
+
+[Drop 167]
+ID = 167
+Mob = 38
+Item = 634
+Rate = .1
+
+[Drop 168]
+ID = 168
+Mob = 38
+Item = 635
+Rate = .1
+
+[Drop 169]
+ID = 169
+Mob = 38
+Item = 880
+Rate = .1
+
+[Drop 170]
+ID = 170
+Mob = 38
+Item = 636
+Rate = .1
+
+[Drop 171]
+ID = 171
+Mob = 38
+Item = 890
+Rate = .1
+
+[Drop 172]
+ID = 172
+Mob = 38
+Item = 891
+Rate = .1
+
+[Drop 173]
+ID = 173
+Mob = 38
+Item = 899
+Rate = .1
+
+[Drop 174]
+ID = 174
+Mob = 38
+Item = 892
+Rate = .1
+
+[Drop 175]
+ID = 175
+Mob = 38
+Item = 550
+Rate = .1
+
+[Drop 176]
+ID = 176
+Mob = 38
+Item = 551
+Rate = .1
+
+[Drop 177]
+ID = 177
+Mob = 38
+Item = 552
+Rate = .1
+
+[Drop 178]
+ID = 178
+Mob = 38
+Item = 553
+Rate = .1
+
+[Drop 179]
+ID = 179
+Mob = 38
+Item = 539
+Rate = .1
+
+[Drop 180]
+ID = 180
+Mob = 38
+Item = 540
+Rate = .1
+
+[Drop 181]
+ID = 181
+Mob = 38
+Item = 541
+Rate = .1
+
+[Drop 182]
+ID = 182
+Mob = 38
+Item = 725
+Rate = .1
+
+[Drop 183]
+ID = 183
+Mob = 38
+Item = 724
+Rate = .1
+
+[Drop 184]
+ID = 184
+Mob = 211
+Item = 540
+Rate = .1
+
+[Drop 185]
+ID = 185
+Mob = 125
+Item = 218
+Rate = .1
+
+[Drop 186]
+ID = 186
+Mob = 125
+Item = 538
+Rate = .1
+
+[Drop 187]
+ID = 187
+Mob = 125
+Item = 531
+Rate = .1
+
+[Drop 188]
+ID = 188
+Mob = 125
+Item = 524
+Rate = .1
+
+[Drop 189]
+ID = 189
+Mob = 150
+Item = 538
+Rate = .1
+
+[Drop 190]
+ID = 190
+Mob = 150
+Item = 531
+Rate = .1
+
+[Drop 191]
+ID = 191
+Mob = 150
+Item = 524
+Rate = .1
+
+[Drop 192]
+ID = 192
+Mob = 150
+Item = 724
+Rate = .1
+
+[Drop 193]
+ID = 193
+Mob = 150
+Item = 252
+Rate = .1
+
+[Drop 194]
+ID = 194
+Mob = 150
+Item = 218
+Rate = .1
+
+[Drop 195]
+ID = 195
+Mob = 148
+Item = 219
+Rate = .1
+
+[Drop 196]
+ID = 196
+Mob = 148
+Item = 525
+Rate = .1
+
+[Drop 197]
+ID = 197
+Mob = 148
+Item = 532
+Rate = .1
+
+[Drop 198]
+ID = 198
+Mob = 148
+Item = 539
+Rate = .1
+
+[Drop 199]
+ID = 199
+Mob = 148
+Item = 724
+Rate = .1
+
+[Drop 200]
+ID = 200
+Mob = 149
+Item = 724
+Rate = .1
+
+[Drop 201]
+ID = 201
+Mob = 149
+Item = 219
+Rate = .1
+
+[Drop 202]
+ID = 202
+Mob = 149
+Item = 525
+Rate = .1
+
+[Drop 203]
+ID = 203
+Mob = 149
+Item = 532
+Rate = .1
+
+[Drop 204]
+ID = 204
+Mob = 149
+Item = 539
+Rate = .1
+
+[Drop 205]
+ID = 205
+Mob = 151
+Item = 724
+Rate = .1
+
+[Drop 206]
+ID = 206
+Mob = 151
+Item = 219
+Rate = .1
+
+[Drop 207]
+ID = 207
+Mob = 151
+Item = 525
+Rate = .1
+
+[Drop 208]
+ID = 208
+Mob = 151
+Item = 532
+Rate = .1
+
+[Drop 209]
+ID = 209
+Mob = 151
+Item = 539
+Rate = .1
+
+[Drop 210]
+ID = 210
+Mob = 251
+Item = 540
+Rate = .1
+
+[Drop 211]
+ID = 211
+Mob = 152
+Item = 219
+Rate = .1
+
+[Drop 212]
+ID = 212
+Mob = 152
+Item = 525
+Rate = .1
+
+[Drop 213]
+ID = 213
+Mob = 152
+Item = 532
+Rate = .1
+
+[Drop 214]
+ID = 214
+Mob = 152
+Item = 539
+Rate = .1
+
+[Drop 215]
+ID = 215
+Mob = 152
+Item = 253
+Rate = .1
+
+[Drop 216]
+ID = 216
+Mob = 152
+Item = 473
+Rate = .1
+
+[Drop 217]
+ID = 217
+Mob = 160
+Item = 227
+Rate = .1
+
+[Drop 218]
+ID = 218
+Mob = 160
+Item = 526
+Rate = .1
+
+[Drop 219]
+ID = 219
+Mob = 160
+Item = 533
+Rate = .1
+
+[Drop 220]
+ID = 220
+Mob = 160
+Item = 540
+Rate = .1
+
+[Drop 221]
+ID = 221
+Mob = 125
+Item = 288
+Rate = .1
+
+[Drop 222]
+ID = 222
+Mob = 125
+Item = 289
+Rate = .1
+
+[Drop 223]
+ID = 223
+Mob = 125
+Item = 290
+Rate = .1
+
+[Drop 224]
+ID = 224
+Mob = 125
+Item = 291
+Rate = .1
+
+[Drop 225]
+ID = 225
+Mob = 155
+Item = 219
+Rate = .1
+
+[Drop 226]
+ID = 226
+Mob = 155
+Item = 525
+Rate = .1
+
+[Drop 227]
+ID = 227
+Mob = 155
+Item = 532
+Rate = .1
+
+[Drop 228]
+ID = 228
+Mob = 155
+Item = 539
+Rate = .1
+
+[Drop 229]
+ID = 229
+Mob = 155
+Item = 475
+Rate = .1
+
+[Drop 230]
+ID = 230
+Mob = 155
+Item = 476
+Rate = .1
+
+[Drop 231]
+ID = 231
+Mob = 155
+Item = 712
+Rate = .1
+
+[Drop 232]
+ID = 232
+Mob = 155
+Item = 477
+Rate = .1
+
+[Drop 233]
+ID = 233
+Mob = 155
+Item = 478
+Rate = .1
+
+[Drop 234]
+ID = 234
+Mob = 155
+Item = 479
+Rate = .1
+
+[Drop 235]
+ID = 235
+Mob = 155
+Item = 713
+Rate = .1
+
+[Drop 236]
+ID = 236
+Mob = 155
+Item = 480
+Rate = .1
+
+[Drop 237]
+ID = 237
+Mob = 155
+Item = 481
+Rate = .1
+
+[Drop 238]
+ID = 238
+Mob = 155
+Item = 482
+Rate = .1
+
+[Drop 239]
+ID = 239
+Mob = 155
+Item = 714
+Rate = .1
+
+[Drop 240]
+ID = 240
+Mob = 155
+Item = 483
+Rate = .1
+
+[Drop 241]
+ID = 241
+Mob = 155
+Item = 484
+Rate = .1
+
+[Drop 242]
+ID = 242
+Mob = 155
+Item = 485
+Rate = .1
+
+[Drop 243]
+ID = 243
+Mob = 155
+Item = 715
+Rate = .1
+
+[Drop 244]
+ID = 244
+Mob = 155
+Item = 486
+Rate = .1
+
+[Drop 245]
+ID = 245
+Mob = 156
+Item = 219
+Rate = .1
+
+[Drop 246]
+ID = 246
+Mob = 156
+Item = 525
+Rate = .1
+
+[Drop 247]
+ID = 247
+Mob = 156
+Item = 532
+Rate = .1
+
+[Drop 248]
+ID = 248
+Mob = 156
+Item = 539
+Rate = .1
+
+[Drop 249]
+ID = 249
+Mob = 156
+Item = 249
+Rate = .1
+
+[Drop 250]
+ID = 250
+Mob = 156
+Item = 244
+Rate = .1
+
+[Drop 251]
+ID = 251
+Mob = 156
+Item = 239
+Rate = .1
+
+[Drop 252]
+ID = 252
+Mob = 156
+Item = 234
+Rate = .1
+
+[Drop 253]
+ID = 253
+Mob = 154
+Item = 481
+Rate = .1
+
+[Drop 254]
+ID = 254
+Mob = 154
+Item = 482
+Rate = .1
+
+[Drop 255]
+ID = 255
+Mob = 154
+Item = 714
+Rate = .1
+
+[Drop 256]
+ID = 256
+Mob = 154
+Item = 483
+Rate = .1
+
+[Drop 257]
+ID = 257
+Mob = 154
+Item = 218
+Rate = .1
+
+[Drop 258]
+ID = 258
+Mob = 154
+Item = 538
+Rate = .1
+
+[Drop 259]
+ID = 259
+Mob = 154
+Item = 531
+Rate = .1
+
+[Drop 260]
+ID = 260
+Mob = 154
+Item = 524
+Rate = .1
+
+[Drop 261]
+ID = 261
+Mob = 157
+Item = 218
+Rate = .1
+
+[Drop 262]
+ID = 262
+Mob = 157
+Item = 538
+Rate = .1
+
+[Drop 263]
+ID = 263
+Mob = 157
+Item = 531
+Rate = .1
+
+[Drop 264]
+ID = 264
+Mob = 157
+Item = 524
+Rate = .1
+
+[Drop 265]
+ID = 265
+Mob = 153
+Item = 218
+Rate = .1
+
+[Drop 266]
+ID = 266
+Mob = 153
+Item = 538
+Rate = .1
+
+[Drop 267]
+ID = 267
+Mob = 153
+Item = 531
+Rate = .1
+
+[Drop 268]
+ID = 268
+Mob = 153
+Item = 524
+Rate = .1
+
+[Drop 269]
+ID = 269
+Mob = 159
+Item = 227
+Rate = .1
+
+[Drop 270]
+ID = 270
+Mob = 159
+Item = 526
+Rate = .1
+
+[Drop 271]
+ID = 271
+Mob = 159
+Item = 533
+Rate = .1
+
+[Drop 272]
+ID = 272
+Mob = 159
+Item = 540
+Rate = .1
+
+[Drop 273]
+ID = 273
+Mob = 159
+Item = 498
+Rate = .1
+
+[Drop 274]
+ID = 274
+Mob = 159
+Item = 499
+Rate = .1
+
+[Drop 275]
+ID = 275
+Mob = 159
+Item = 856
+Rate = .1
+
+[Drop 276]
+ID = 276
+Mob = 159
+Item = 500
+Rate = .1
+
+[Drop 277]
+ID = 277
+Mob = 159
+Item = 501
+Rate = .1
+
+[Drop 278]
+ID = 278
+Mob = 159
+Item = 502
+Rate = .1
+
+[Drop 279]
+ID = 279
+Mob = 159
+Item = 857
+Rate = .1
+
+[Drop 280]
+ID = 280
+Mob = 159
+Item = 503
+Rate = .1
+
+[Drop 281]
+ID = 281
+Mob = 159
+Item = 504
+Rate = .1
+
+[Drop 282]
+ID = 282
+Mob = 159
+Item = 505
+Rate = .1
+
+[Drop 283]
+ID = 283
+Mob = 159
+Item = 858
+Rate = .1
+
+[Drop 284]
+ID = 284
+Mob = 159
+Item = 506
+Rate = .1
+
+[Drop 285]
+ID = 285
+Mob = 159
+Item = 507
+Rate = .1
+
+[Drop 286]
+ID = 286
+Mob = 159
+Item = 508
+Rate = .1
+
+[Drop 287]
+ID = 287
+Mob = 159
+Item = 859
+Rate = .1
+
+[Drop 288]
+ID = 288
+Mob = 159
+Item = 509
+Rate = .1
+
+[Drop 289]
+ID = 289
+Mob = 158
+Item = 227
+Rate = .1
+
+[Drop 290]
+ID = 290
+Mob = 158
+Item = 526
+Rate = .1
+
+[Drop 291]
+ID = 291
+Mob = 158
+Item = 533
+Rate = .1
+
+[Drop 292]
+ID = 292
+Mob = 158
+Item = 540
+Rate = .1
+
+[Drop 293]
+ID = 293
+Mob = 158
+Item = 498
+Rate = .1
+
+[Drop 294]
+ID = 294
+Mob = 158
+Item = 499
+Rate = .1
+
+[Drop 295]
+ID = 295
+Mob = 158
+Item = 856
+Rate = .1
+
+[Drop 296]
+ID = 296
+Mob = 158
+Item = 500
+Rate = .1
+
+[Drop 297]
+ID = 297
+Mob = 158
+Item = 501
+Rate = .1
+
+[Drop 298]
+ID = 298
+Mob = 158
+Item = 502
+Rate = .1
+
+[Drop 299]
+ID = 299
+Mob = 158
+Item = 857
+Rate = .1
+
+[Drop 300]
+ID = 300
+Mob = 158
+Item = 503
+Rate = .1
+
+[Drop 301]
+ID = 301
+Mob = 158
+Item = 504
+Rate = .1
+
+[Drop 302]
+ID = 302
+Mob = 158
+Item = 505
+Rate = .1
+
+[Drop 303]
+ID = 303
+Mob = 158
+Item = 858
+Rate = .1
+
+[Drop 304]
+ID = 304
+Mob = 158
+Item = 506
+Rate = .1
+
+[Drop 305]
+ID = 305
+Mob = 158
+Item = 507
+Rate = .1
+
+[Drop 306]
+ID = 306
+Mob = 158
+Item = 508
+Rate = .1
+
+[Drop 307]
+ID = 307
+Mob = 158
+Item = 859
+Rate = .1
+
+[Drop 308]
+ID = 308
+Mob = 158
+Item = 509
+Rate = .1
+
+[Drop 309]
+ID = 309
+Mob = 158
+Item = 792
+Rate = .1
+
+[Drop 310]
+ID = 310
+Mob = 158
+Item = 793
+Rate = .1
+
+[Drop 311]
+ID = 311
+Mob = 158
+Item = 796
+Rate = .1
+
+[Drop 312]
+ID = 312
+Mob = 26
+Item = 152
+Rate = .012
+
+[Drop 313]
+ID = 313
+Mob = 26
+Item = 161
+Rate = .012
+
+[Drop 314]
+ID = 314
+Mob = 26
+Item = 55
+Rate = .012
+
+[Drop 315]
+ID = 315
+Mob = 26
+Item = 439
+Rate = .012
+
+[Drop 316]
+ID = 316
+Mob = 26
+Item = 150
+Rate = .012
+
+[Drop 317]
+ID = 317
+Mob = 26
+Item = 211
+Rate = .012
+
+[Drop 318]
+ID = 318
+Mob = 26
+Item = 289
+Rate = .012
+
+[Drop 319]
+ID = 319
+Mob = 26
+Item = 288
+Rate = .012
+
+[Drop 320]
+ID = 320
+Mob = 26
+Item = 189
+Rate = .012
+
+[Drop 321]
+ID = 321
+Mob = 26
+Item = 193
+Rate = .012
+
+[Drop 322]
+ID = 322
+Mob = 39
+Item = 150
+Rate = .012
+
+[Drop 323]
+ID = 323
+Mob = 39
+Item = 161
+Rate = .012
+
+[Drop 324]
+ID = 324
+Mob = 39
+Item = 55
+Rate = .012
+
+[Drop 325]
+ID = 325
+Mob = 39
+Item = 144
+Rate = .012
+
+[Drop 326]
+ID = 326
+Mob = 39
+Item = 144
+Rate = .012
+
+[Drop 327]
+ID = 327
+Mob = 39
+Item = 462
+Rate = .012
+
+[Drop 328]
+ID = 328
+Mob = 39
+Item = 211
+Rate = .012
+
+[Drop 329]
+ID = 329
+Mob = 39
+Item = 289
+Rate = .012
+
+[Drop 330]
+ID = 330
+Mob = 39
+Item = 288
+Rate = .012
+
+[Drop 331]
+ID = 331
+Mob = 39
+Item = 189
+Rate = .012
+
+[Drop 332]
+ID = 332
+Mob = 39
+Item = 193
+Rate = .012
+
+[Drop 333]
+ID = 333
+Mob = 31
+Item = 150
+Rate = .012
+
+[Drop 334]
+ID = 334
+Mob = 31
+Item = 468
+Rate = .012
+
+[Drop 335]
+ID = 335
+Mob = 31
+Item = 465
+Rate = .012
+
+[Drop 336]
+ID = 336
+Mob = 31
+Item = 439
+Rate = .012
+
+[Drop 337]
+ID = 337
+Mob = 31
+Item = 311
+Rate = .012
+
+[Drop 338]
+ID = 338
+Mob = 31
+Item = 367
+Rate = .012
+
+[Drop 339]
+ID = 339
+Mob = 31
+Item = 327
+Rate = .012
+
+[Drop 340]
+ID = 340
+Mob = 31
+Item = 345
+Rate = .012
+
+[Drop 341]
+ID = 341
+Mob = 31
+Item = 288
+Rate = .012
+
+[Drop 342]
+ID = 342
+Mob = 31
+Item = 289
+Rate = .012
+
+[Drop 343]
+ID = 343
+Mob = 37
+Item = 460
+Rate = .012
+
+[Drop 344]
+ID = 344
+Mob = 37
+Item = 160
+Rate = .012
+
+[Drop 345]
+ID = 345
+Mob = 37
+Item = 60
+Rate = .012
+
+[Drop 346]
+ID = 346
+Mob = 37
+Item = 440
+Rate = .012
+
+[Drop 347]
+ID = 347
+Mob = 37
+Item = 157
+Rate = .012
+
+[Drop 348]
+ID = 348
+Mob = 37
+Item = 468
+Rate = .012
+
+[Drop 349]
+ID = 349
+Mob = 37
+Item = 465
+Rate = .012
+
+[Drop 350]
+ID = 350
+Mob = 37
+Item = 288
+Rate = .012
+
+[Drop 351]
+ID = 351
+Mob = 37
+Item = 190
+Rate = .012
+
+[Drop 352]
+ID = 352
+Mob = 37
+Item = 194
+Rate = .012
+
+[Drop 353]
+ID = 353
+Mob = 54
+Item = 412
+Rate = .012
+
+[Drop 354]
+ID = 354
+Mob = 54
+Item = 440
+Rate = .012
+
+[Drop 355]
+ID = 355
+Mob = 54
+Item = 194
+Rate = .012
+
+[Drop 356]
+ID = 356
+Mob = 54
+Item = 60
+Rate = .012
+
+[Drop 357]
+ID = 357
+Mob = 54
+Item = 181
+Rate = .012
+
+[Drop 358]
+ID = 358
+Mob = 54
+Item = 345
+Rate = .012
+
+[Drop 359]
+ID = 359
+Mob = 54
+Item = 162
+Rate = .012
+
+[Drop 360]
+ID = 360
+Mob = 54
+Item = 327
+Rate = .012
+
+[Drop 361]
+ID = 361
+Mob = 54
+Item = 367
+Rate = .012
+
+[Drop 362]
+ID = 362
+Mob = 54
+Item = 311
+Rate = .012
+
+[Drop 363]
+ID = 363
+Mob = 40
+Item = 212
+Rate = .012
+
+[Drop 364]
+ID = 364
+Mob = 40
+Item = 181
+Rate = .012
+
+[Drop 365]
+ID = 365
+Mob = 40
+Item = 466
+Rate = .012
+
+[Drop 366]
+ID = 366
+Mob = 40
+Item = 440
+Rate = .012
+
+[Drop 367]
+ID = 367
+Mob = 40
+Item = 463
+Rate = .012
+
+[Drop 368]
+ID = 368
+Mob = 40
+Item = 211
+Rate = .012
+
+[Drop 369]
+ID = 369
+Mob = 40
+Item = 466
+Rate = .012
+
+[Drop 370]
+ID = 370
+Mob = 40
+Item = 288
+Rate = .012
+
+[Drop 371]
+ID = 371
+Mob = 40
+Item = 190
+Rate = .012
+
+[Drop 372]
+ID = 372
+Mob = 40
+Item = 194
+Rate = .012
+
+[Drop 373]
+ID = 373
+Mob = 104
+Item = 162
+Rate = .012
+
+[Drop 374]
+ID = 374
+Mob = 104
+Item = 181
+Rate = .012
+
+[Drop 375]
+ID = 375
+Mob = 104
+Item = 467
+Rate = .012
+
+[Drop 376]
+ID = 376
+Mob = 104
+Item = 510
+Rate = .012
+
+[Drop 377]
+ID = 377
+Mob = 104
+Item = 368
+Rate = .012
+
+[Drop 378]
+ID = 378
+Mob = 104
+Item = 373
+Rate = .012
+
+[Drop 379]
+ID = 379
+Mob = 104
+Item = 378
+Rate = .012
+
+[Drop 380]
+ID = 380
+Mob = 104
+Item = 426
+Rate = .012
+
+[Drop 381]
+ID = 381
+Mob = 104
+Item = 158
+Rate = .012
+
+[Drop 382]
+ID = 382
+Mob = 104
+Item = 195
+Rate = .012
+
+[Drop 383]
+ID = 383
+Mob = 41
+Item = 312
+Rate = .012
+
+[Drop 384]
+ID = 384
+Mob = 41
+Item = 317
+Rate = .012
+
+[Drop 385]
+ID = 385
+Mob = 41
+Item = 322
+Rate = .012
+
+[Drop 386]
+ID = 386
+Mob = 41
+Item = 411
+Rate = .012
+
+[Drop 387]
+ID = 387
+Mob = 41
+Item = 328
+Rate = .012
+
+[Drop 388]
+ID = 388
+Mob = 41
+Item = 333
+Rate = .012
+
+[Drop 389]
+ID = 389
+Mob = 41
+Item = 338
+Rate = .012
+
+[Drop 390]
+ID = 390
+Mob = 41
+Item = 416
+Rate = .012
+
+[Drop 391]
+ID = 391
+Mob = 41
+Item = 158
+Rate = .012
+
+[Drop 392]
+ID = 392
+Mob = 41
+Item = 195
+Rate = .012
+
+[Drop 393]
+ID = 393
+Mob = 48
+Item = 151
+Rate = .012
+
+[Drop 394]
+ID = 394
+Mob = 48
+Item = 469
+Rate = .012
+
+[Drop 395]
+ID = 395
+Mob = 48
+Item = 286
+Rate = .012
+
+[Drop 396]
+ID = 396
+Mob = 48
+Item = 411
+Rate = .012
+
+[Drop 397]
+ID = 397
+Mob = 48
+Item = 346
+Rate = .012
+
+[Drop 398]
+ID = 398
+Mob = 48
+Item = 351
+Rate = .012
+
+[Drop 399]
+ID = 399
+Mob = 48
+Item = 356
+Rate = .012
+
+[Drop 400]
+ID = 400
+Mob = 48
+Item = 421
+Rate = .012
+
+[Drop 401]
+ID = 401
+Mob = 48
+Item = 121
+Rate = .012
+
+[Drop 402]
+ID = 402
+Mob = 48
+Item = 213
+Rate = .012
+
+[Drop 403]
+ID = 403
+Mob = 105
+Item = 176
+Rate = .012
+
+[Drop 404]
+ID = 404
+Mob = 105
+Item = 182
+Rate = .012
+
+[Drop 405]
+ID = 405
+Mob = 105
+Item = 61
+Rate = .012
+
+[Drop 406]
+ID = 406
+Mob = 105
+Item = 144
+Rate = .012
+
+[Drop 407]
+ID = 407
+Mob = 105
+Item = 179
+Rate = .012
+
+[Drop 408]
+ID = 408
+Mob = 105
+Item = 469
+Rate = .012
+
+[Drop 409]
+ID = 409
+Mob = 105
+Item = 286
+Rate = .012
+
+[Drop 410]
+ID = 410
+Mob = 105
+Item = 288
+Rate = .012
+
+[Drop 411]
+ID = 411
+Mob = 105
+Item = 121
+Rate = .012
+
+[Drop 412]
+ID = 412
+Mob = 105
+Item = 196
+Rate = .012
+
+[Drop 413]
+ID = 413
+Mob = 107
+Item = 347
+Rate = .012
+
+[Drop 414]
+ID = 414
+Mob = 107
+Item = 352
+Rate = .012
+
+[Drop 415]
+ID = 415
+Mob = 107
+Item = 357
+Rate = .012
+
+[Drop 416]
+ID = 416
+Mob = 107
+Item = 422
+Rate = .012
+
+[Drop 417]
+ID = 417
+Mob = 107
+Item = 369
+Rate = .012
+
+[Drop 418]
+ID = 418
+Mob = 107
+Item = 374
+Rate = .012
+
+[Drop 419]
+ID = 419
+Mob = 107
+Item = 379
+Rate = .012
+
+[Drop 420]
+ID = 420
+Mob = 107
+Item = 427
+Rate = .012
+
+[Drop 421]
+ID = 421
+Mob = 107
+Item = 288
+Rate = .012
+
+[Drop 422]
+ID = 422
+Mob = 107
+Item = 197
+Rate = .012
+
+[Drop 423]
+ID = 423
+Mob = 106
+Item = 313
+Rate = .012
+
+[Drop 424]
+ID = 424
+Mob = 106
+Item = 318
+Rate = .012
+
+[Drop 425]
+ID = 425
+Mob = 106
+Item = 361
+Rate = .012
+
+[Drop 426]
+ID = 426
+Mob = 106
+Item = 412
+Rate = .012
+
+[Drop 427]
+ID = 427
+Mob = 106
+Item = 329
+Rate = .012
+
+[Drop 428]
+ID = 428
+Mob = 106
+Item = 334
+Rate = .012
+
+[Drop 429]
+ID = 429
+Mob = 106
+Item = 339
+Rate = .012
+
+[Drop 430]
+ID = 430
+Mob = 106
+Item = 417
+Rate = .012
+
+[Drop 431]
+ID = 431
+Mob = 106
+Item = 288
+Rate = .012
+
+[Drop 432]
+ID = 432
+Mob = 106
+Item = 197
+Rate = .012
+
+[Drop 433]
+ID = 433
+Mob = 25
+Item = 34
+Rate = .025
+
+[Drop 434]
+ID = 434
+Mob = 25
+Item = 365
+Rate = .055
+
+[Drop 435]
+ID = 435
+Mob = 25
+Item = 343
+Rate = .06
+
+[Drop 436]
+ID = 436
+Mob = 25
+Item = 326
+Rate = .06
+
+[Drop 437]
+ID = 437
+Mob = 25
+Item = 140
+Rate = .2
+
+[Drop 438]
+ID = 438
+Mob = 97
+Item = 146
+Rate = .2
+
+[Drop 439]
+ID = 439
+Mob = 97
+Item = 145
+Rate = .2
+
+[Drop 440]
+ID = 440
+Mob = 97
+Item = 209
+Rate = .2
+
+[Drop 441]
+ID = 441
+Mob = 197
+Item = 471
+Rate = .012
+
+[Drop 442]
+ID = 442
+Mob = 197
+Item = 472
+Rate = .012
+
+[Drop 443]
+ID = 443
+Mob = 197
+Item = 473
+Rate = .012
+
+[Drop 444]
+ID = 444
+Mob = 197
+Item = 474
+Rate = .012
+
+[Drop 445]
+ID = 445
+Mob = 197
+Item = 475
+Rate = .012
+
+[Drop 446]
+ID = 446
+Mob = 197
+Item = 476
+Rate = .012
+
+[Drop 447]
+ID = 447
+Mob = 197
+Item = 477
+Rate = .012
+
+[Drop 448]
+ID = 448
+Mob = 197
+Item = 478
+Rate = .012
+
+[Drop 449]
+ID = 449
+Mob = 197
+Item = 479
+Rate = .012
+
+[Drop 450]
+ID = 450
+Mob = 197
+Item = 480
+Rate = .012
+
+[Drop 451]
+ID = 451
+Mob = 202
+Item = 314
+Rate = .012
+
+[Drop 452]
+ID = 452
+Mob = 202
+Item = 319
+Rate = .012
+
+[Drop 453]
+ID = 453
+Mob = 202
+Item = 362
+Rate = .012
+
+[Drop 454]
+ID = 454
+Mob = 202
+Item = 413
+Rate = .012
+
+[Drop 455]
+ID = 455
+Mob = 202
+Item = 370
+Rate = .012
+
+[Drop 456]
+ID = 456
+Mob = 202
+Item = 375
+Rate = .012
+
+[Drop 457]
+ID = 457
+Mob = 202
+Item = 380
+Rate = .012
+
+[Drop 458]
+ID = 458
+Mob = 202
+Item = 428
+Rate = .012
+
+[Drop 459]
+ID = 459
+Mob = 202
+Item = 180
+Rate = .012
+
+[Drop 460]
+ID = 460
+Mob = 202
+Item = 177
+Rate = .012
+
+[Drop 461]
+ID = 461
+Mob = 203
+Item = 471
+Rate = .012
+
+[Drop 462]
+ID = 462
+Mob = 203
+Item = 472
+Rate = .012
+
+[Drop 463]
+ID = 463
+Mob = 203
+Item = 473
+Rate = .012
+
+[Drop 464]
+ID = 464
+Mob = 203
+Item = 474
+Rate = .012
+
+[Drop 465]
+ID = 465
+Mob = 203
+Item = 475
+Rate = .012
+
+[Drop 466]
+ID = 466
+Mob = 203
+Item = 476
+Rate = .012
+
+[Drop 467]
+ID = 467
+Mob = 203
+Item = 477
+Rate = .012
+
+[Drop 468]
+ID = 468
+Mob = 203
+Item = 478
+Rate = .012
+
+[Drop 469]
+ID = 469
+Mob = 203
+Item = 479
+Rate = .012
+
+[Drop 470]
+ID = 470
+Mob = 203
+Item = 480
+Rate = .012
+
+[Drop 471]
+ID = 471
+Mob = 204
+Item = 471
+Rate = .012
+
+[Drop 472]
+ID = 472
+Mob = 204
+Item = 472
+Rate = .012
+
+[Drop 473]
+ID = 473
+Mob = 204
+Item = 473
+Rate = .012
+
+[Drop 474]
+ID = 474
+Mob = 204
+Item = 474
+Rate = .012
+
+[Drop 475]
+ID = 475
+Mob = 204
+Item = 475
+Rate = .012
+
+[Drop 476]
+ID = 476
+Mob = 204
+Item = 476
+Rate = .012
+
+[Drop 477]
+ID = 477
+Mob = 204
+Item = 477
+Rate = .012
+
+[Drop 478]
+ID = 478
+Mob = 204
+Item = 478
+Rate = .012
+
+[Drop 479]
+ID = 479
+Mob = 204
+Item = 479
+Rate = .012
+
+[Drop 480]
+ID = 480
+Mob = 204
+Item = 480
+Rate = .012
+
+[Drop 481]
+ID = 481
+Mob = 205
+Item = 314
+Rate = .012
+
+[Drop 482]
+ID = 482
+Mob = 205
+Item = 319
+Rate = .012
+
+[Drop 483]
+ID = 483
+Mob = 205
+Item = 362
+Rate = .012
+
+[Drop 484]
+ID = 484
+Mob = 205
+Item = 413
+Rate = .012
+
+[Drop 485]
+ID = 485
+Mob = 205
+Item = 370
+Rate = .012
+
+[Drop 486]
+ID = 486
+Mob = 205
+Item = 375
+Rate = .012
+
+[Drop 487]
+ID = 487
+Mob = 205
+Item = 380
+Rate = .012
+
+[Drop 488]
+ID = 488
+Mob = 205
+Item = 428
+Rate = .012
+
+[Drop 489]
+ID = 489
+Mob = 205
+Item = 180
+Rate = .012
+
+[Drop 490]
+ID = 490
+Mob = 205
+Item = 177
+Rate = .012
+
+[Drop 491]
+ID = 491
+Mob = 193
+Item = 471
+Rate = .012
+
+[Drop 492]
+ID = 492
+Mob = 193
+Item = 472
+Rate = .012
+
+[Drop 493]
+ID = 493
+Mob = 193
+Item = 473
+Rate = .012
+
+[Drop 494]
+ID = 494
+Mob = 193
+Item = 474
+Rate = .012
+
+[Drop 495]
+ID = 495
+Mob = 193
+Item = 475
+Rate = .012
+
+[Drop 496]
+ID = 496
+Mob = 193
+Item = 476
+Rate = .012
+
+[Drop 497]
+ID = 497
+Mob = 193
+Item = 477
+Rate = .012
+
+[Drop 498]
+ID = 498
+Mob = 193
+Item = 478
+Rate = .012
+
+[Drop 499]
+ID = 499
+Mob = 193
+Item = 479
+Rate = .012
+
+[Drop 500]
+ID = 500
+Mob = 193
+Item = 480
+Rate = .012
+
+[Drop 501]
+ID = 501
+Mob = 195
+Item = 471
+Rate = .012
+
+[Drop 502]
+ID = 502
+Mob = 195
+Item = 472
+Rate = .012
+
+[Drop 503]
+ID = 503
+Mob = 195
+Item = 473
+Rate = .012
+
+[Drop 504]
+ID = 504
+Mob = 195
+Item = 474
+Rate = .012
+
+[Drop 505]
+ID = 505
+Mob = 195
+Item = 475
+Rate = .012
+
+[Drop 506]
+ID = 506
+Mob = 195
+Item = 476
+Rate = .012
+
+[Drop 507]
+ID = 507
+Mob = 195
+Item = 477
+Rate = .012
+
+[Drop 508]
+ID = 508
+Mob = 195
+Item = 478
+Rate = .012
+
+[Drop 509]
+ID = 509
+Mob = 195
+Item = 479
+Rate = .012
+
+[Drop 510]
+ID = 510
+Mob = 195
+Item = 480
+Rate = .012
+
+[Drop 511]
+ID = 511
+Mob = 194
+Item = 696
+Rate = .012
+
+[Drop 512]
+ID = 512
+Mob = 194
+Item = 701
+Rate = .012
+
+[Drop 513]
+ID = 513
+Mob = 194
+Item = 706
+Rate = .012
+
+[Drop 514]
+ID = 514
+Mob = 194
+Item = 711
+Rate = .012
+
+[Drop 515]
+ID = 515
+Mob = 194
+Item = 475
+Rate = .012
+
+[Drop 516]
+ID = 516
+Mob = 194
+Item = 476
+Rate = .012
+
+[Drop 517]
+ID = 517
+Mob = 194
+Item = 477
+Rate = .012
+
+[Drop 518]
+ID = 518
+Mob = 194
+Item = 478
+Rate = .012
+
+[Drop 519]
+ID = 519
+Mob = 194
+Item = 479
+Rate = .012
+
+[Drop 520]
+ID = 520
+Mob = 194
+Item = 480
+Rate = .012
+
+[Drop 521]
+ID = 521
+Mob = 206
+Item = 254
+Rate = .012
+
+[Drop 522]
+ID = 522
+Mob = 206
+Item = 410
+Rate = .012
+
+[Drop 523]
+ID = 523
+Mob = 206
+Item = 481
+Rate = .012
+
+[Drop 524]
+ID = 524
+Mob = 206
+Item = 482
+Rate = .012
+
+[Drop 525]
+ID = 525
+Mob = 206
+Item = 483
+Rate = .012
+
+[Drop 526]
+ID = 526
+Mob = 206
+Item = 259
+Rate = .012
+
+[Drop 527]
+ID = 527
+Mob = 209
+Item = 475
+Rate = .012
+
+[Drop 528]
+ID = 528
+Mob = 209
+Item = 476
+Rate = .012
+
+[Drop 529]
+ID = 529
+Mob = 209
+Item = 477
+Rate = .012
+
+[Drop 530]
+ID = 530
+Mob = 209
+Item = 484
+Rate = .012
+
+[Drop 531]
+ID = 531
+Mob = 209
+Item = 485
+Rate = .012
+
+[Drop 532]
+ID = 532
+Mob = 209
+Item = 486
+Rate = .012
+
+[Drop 533]
+ID = 533
+Mob = 209
+Item = 295
+Rate = .012
+
+[Drop 534]
+ID = 534
+Mob = 207
+Item = 624
+Rate = .012
+
+[Drop 535]
+ID = 535
+Mob = 207
+Item = 629
+Rate = .012
+
+[Drop 536]
+ID = 536
+Mob = 207
+Item = 633
+Rate = .012
+
+[Drop 537]
+ID = 537
+Mob = 207
+Item = 634
+Rate = .012
+
+[Drop 538]
+ID = 538
+Mob = 207
+Item = 475
+Rate = .012
+
+[Drop 539]
+ID = 539
+Mob = 207
+Item = 476
+Rate = .012
+
+[Drop 540]
+ID = 540
+Mob = 207
+Item = 477
+Rate = .012
+
+[Drop 541]
+ID = 541
+Mob = 207
+Item = 478
+Rate = .012
+
+[Drop 542]
+ID = 542
+Mob = 207
+Item = 479
+Rate = .012
+
+[Drop 543]
+ID = 543
+Mob = 207
+Item = 480
+Rate = .012
+
+[Drop 544]
+ID = 544
+Mob = 210
+Item = 471
+Rate = .012
+
+[Drop 545]
+ID = 545
+Mob = 210
+Item = 472
+Rate = .012
+
+[Drop 546]
+ID = 546
+Mob = 210
+Item = 473
+Rate = .012
+
+[Drop 547]
+ID = 547
+Mob = 210
+Item = 474
+Rate = .012
+
+[Drop 548]
+ID = 548
+Mob = 210
+Item = 475
+Rate = .012
+
+[Drop 549]
+ID = 549
+Mob = 210
+Item = 476
+Rate = .012
+
+[Drop 550]
+ID = 550
+Mob = 210
+Item = 477
+Rate = .012
+
+[Drop 551]
+ID = 551
+Mob = 210
+Item = 478
+Rate = .012
+
+[Drop 552]
+ID = 552
+Mob = 210
+Item = 479
+Rate = .012
+
+[Drop 553]
+ID = 553
+Mob = 210
+Item = 480
+Rate = .012
+
+[Drop 554]
+ID = 554
+Mob = 281
+Item = 471
+Rate = .012
+
+[Drop 555]
+ID = 555
+Mob = 281
+Item = 472
+Rate = .012
+
+[Drop 556]
+ID = 556
+Mob = 281
+Item = 473
+Rate = .012
+
+[Drop 557]
+ID = 557
+Mob = 281
+Item = 474
+Rate = .012
+
+[Drop 558]
+ID = 558
+Mob = 281
+Item = 475
+Rate = .012
+
+[Drop 559]
+ID = 559
+Mob = 281
+Item = 476
+Rate = .012
+
+[Drop 560]
+ID = 560
+Mob = 281
+Item = 477
+Rate = .012
+
+[Drop 561]
+ID = 561
+Mob = 281
+Item = 478
+Rate = .012
+
+[Drop 562]
+ID = 562
+Mob = 281
+Item = 479
+Rate = .012
+
+[Drop 563]
+ID = 563
+Mob = 281
+Item = 480
+Rate = .012
+
+[Drop 564]
+ID = 564
+Mob = 208
+Item = 471
+Rate = .012
+
+[Drop 565]
+ID = 565
+Mob = 208
+Item = 472
+Rate = .012
+
+[Drop 566]
+ID = 566
+Mob = 208
+Item = 473
+Rate = .012
+
+[Drop 567]
+ID = 567
+Mob = 208
+Item = 474
+Rate = .012
+
+[Drop 568]
+ID = 568
+Mob = 208
+Item = 475
+Rate = .012
+
+[Drop 569]
+ID = 569
+Mob = 208
+Item = 476
+Rate = .012
+
+[Drop 570]
+ID = 570
+Mob = 208
+Item = 477
+Rate = .012
+
+[Drop 571]
+ID = 571
+Mob = 208
+Item = 478
+Rate = .012
+
+[Drop 572]
+ID = 572
+Mob = 208
+Item = 479
+Rate = .012
+
+[Drop 573]
+ID = 573
+Mob = 208
+Item = 480
+Rate = .012
+
+[Drop 574]
+ID = 574
+Mob = 77
+Item = 55
+Rate = .012
+
+[Drop 575]
+ID = 575
+Mob = 77
+Item = 161
+Rate = .012
+
+[Drop 576]
+ID = 576
+Mob = 77
+Item = 156
+Rate = .012
+
+[Drop 577]
+ID = 577
+Mob = 77
+Item = 152
+Rate = .012
+
+[Drop 578]
+ID = 578
+Mob = 77
+Item = 192
+Rate = .012
+
+[Drop 579]
+ID = 579
+Mob = 77
+Item = 439
+Rate = .012
+
+[Drop 580]
+ID = 580
+Mob = 77
+Item = 344
+Rate = .012
+
+[Drop 581]
+ID = 581
+Mob = 77
+Item = 461
+Rate = .012
+
+[Drop 582]
+ID = 582
+Mob = 77
+Item = 325
+Rate = .012
+
+[Drop 583]
+ID = 583
+Mob = 77
+Item = 188
+Rate = .012
+
+[Drop 584]
+ID = 584
+Mob = 78
+Item = 468
+Rate = .012
+
+[Drop 585]
+ID = 585
+Mob = 78
+Item = 193
+Rate = .012
+
+[Drop 586]
+ID = 586
+Mob = 78
+Item = 189
+Rate = .012
+
+[Drop 587]
+ID = 587
+Mob = 78
+Item = 465
+Rate = .012
+
+[Drop 588]
+ID = 588
+Mob = 78
+Item = 161
+Rate = .012
+
+[Drop 589]
+ID = 589
+Mob = 78
+Item = 156
+Rate = .012
+
+[Drop 590]
+ID = 590
+Mob = 78
+Item = 462
+Rate = .012
+
+[Drop 591]
+ID = 591
+Mob = 78
+Item = 188
+Rate = .012
+
+[Drop 592]
+ID = 592
+Mob = 78
+Item = 325
+Rate = .012
+
+[Drop 593]
+ID = 593
+Mob = 78
+Item = 288
+Rate = .012
+
+[Drop 594]
+ID = 594
+Mob = 89
+Item = 160
+Rate = .012
+
+[Drop 595]
+ID = 595
+Mob = 89
+Item = 345
+Rate = .012
+
+[Drop 596]
+ID = 596
+Mob = 89
+Item = 157
+Rate = .012
+
+[Drop 597]
+ID = 597
+Mob = 89
+Item = 327
+Rate = .012
+
+[Drop 598]
+ID = 598
+Mob = 89
+Item = 465
+Rate = .012
+
+[Drop 599]
+ID = 599
+Mob = 89
+Item = 311
+Rate = .012
+
+[Drop 600]
+ID = 600
+Mob = 89
+Item = 150
+Rate = .012
+
+[Drop 601]
+ID = 601
+Mob = 89
+Item = 189
+Rate = .012
+
+[Drop 602]
+ID = 602
+Mob = 89
+Item = 288
+Rate = .012
+
+[Drop 603]
+ID = 603
+Mob = 89
+Item = 289
+Rate = .012
+
+[Drop 604]
+ID = 604
+Mob = 85
+Item = 467
+Rate = .012
+
+[Drop 605]
+ID = 605
+Mob = 85
+Item = 338
+Rate = .012
+
+[Drop 606]
+ID = 606
+Mob = 85
+Item = 416
+Rate = .012
+
+[Drop 607]
+ID = 607
+Mob = 85
+Item = 328
+Rate = .012
+
+[Drop 608]
+ID = 608
+Mob = 85
+Item = 158
+Rate = .012
+
+[Drop 609]
+ID = 609
+Mob = 85
+Item = 195
+Rate = .012
+
+[Drop 610]
+ID = 610
+Mob = 85
+Item = 322
+Rate = .012
+
+[Drop 611]
+ID = 611
+Mob = 85
+Item = 317
+Rate = .012
+
+[Drop 612]
+ID = 612
+Mob = 85
+Item = 312
+Rate = .012
+
+[Drop 613]
+ID = 613
+Mob = 85
+Item = 368
+Rate = .012
+
+[Drop 614]
+ID = 614
+Mob = 80
+Item = 545
+Rate = .012
+
+[Drop 615]
+ID = 615
+Mob = 80
+Item = 339
+Rate = .012
+
+[Drop 616]
+ID = 616
+Mob = 80
+Item = 334
+Rate = .012
+
+[Drop 617]
+ID = 617
+Mob = 80
+Item = 329
+Rate = .012
+
+[Drop 618]
+ID = 618
+Mob = 80
+Item = 197
+Rate = .012
+
+[Drop 619]
+ID = 619
+Mob = 80
+Item = 361
+Rate = .012
+
+[Drop 620]
+ID = 620
+Mob = 80
+Item = 318
+Rate = .012
+
+[Drop 621]
+ID = 621
+Mob = 80
+Item = 313
+Rate = .012
+
+[Drop 622]
+ID = 622
+Mob = 80
+Item = 417
+Rate = .012
+
+[Drop 623]
+ID = 623
+Mob = 80
+Item = 369
+Rate = .012
+
+[Drop 624]
+ID = 624
+Mob = 79
+Item = 339
+Rate = .012
+
+[Drop 625]
+ID = 625
+Mob = 79
+Item = 334
+Rate = .012
+
+[Drop 626]
+ID = 626
+Mob = 79
+Item = 329
+Rate = .012
+
+[Drop 627]
+ID = 627
+Mob = 79
+Item = 197
+Rate = .012
+
+[Drop 628]
+ID = 628
+Mob = 79
+Item = 177
+Rate = .012
+
+[Drop 629]
+ID = 629
+Mob = 79
+Item = 198
+Rate = .012
+
+[Drop 630]
+ID = 630
+Mob = 79
+Item = 284
+Rate = .012
+
+[Drop 631]
+ID = 631
+Mob = 79
+Item = 287
+Rate = .012
+
+[Drop 632]
+ID = 632
+Mob = 79
+Item = 545
+Rate = .012
+
+[Drop 633]
+ID = 633
+Mob = 79
+Item = 347
+Rate = .012
+
+[Drop 634]
+ID = 634
+Mob = 81
+Item = 180
+Rate = .012
+
+[Drop 635]
+ID = 635
+Mob = 81
+Item = 546
+Rate = .012
+
+[Drop 636]
+ID = 636
+Mob = 81
+Item = 358
+Rate = .012
+
+[Drop 637]
+ID = 637
+Mob = 81
+Item = 353
+Rate = .012
+
+[Drop 638]
+ID = 638
+Mob = 81
+Item = 905
+Rate = .012
+
+[Drop 639]
+ID = 639
+Mob = 81
+Item = 340
+Rate = .012
+
+[Drop 640]
+ID = 640
+Mob = 81
+Item = 335
+Rate = .012
+
+[Drop 641]
+ID = 641
+Mob = 81
+Item = 178
+Rate = .012
+
+[Drop 642]
+ID = 642
+Mob = 81
+Item = 375
+Rate = .012
+
+[Drop 643]
+ID = 643
+Mob = 81
+Item = 370
+Rate = .012
+
+[Drop 644]
+ID = 644
+Mob = 84
+Item = 330
+Rate = .012
+
+[Drop 645]
+ID = 645
+Mob = 84
+Item = 380
+Rate = .012
+
+[Drop 646]
+ID = 646
+Mob = 84
+Item = 314
+Rate = .012
+
+[Drop 647]
+ID = 647
+Mob = 84
+Item = 319
+Rate = .012
+
+[Drop 648]
+ID = 648
+Mob = 84
+Item = 362
+Rate = .012
+
+[Drop 649]
+ID = 649
+Mob = 84
+Item = 335
+Rate = .012
+
+[Drop 650]
+ID = 650
+Mob = 84
+Item = 340
+Rate = .012
+
+[Drop 651]
+ID = 651
+Mob = 84
+Item = 353
+Rate = .012
+
+[Drop 652]
+ID = 652
+Mob = 84
+Item = 425
+Rate = .012
+
+[Drop 653]
+ID = 653
+Mob = 84
+Item = 547
+Rate = .012
+
+[Drop 654]
+ID = 654
+Mob = 83
+Item = 359
+Rate = .012
+
+[Drop 655]
+ID = 655
+Mob = 83
+Item = 354
+Rate = .012
+
+[Drop 656]
+ID = 656
+Mob = 83
+Item = 349
+Rate = .012
+
+[Drop 657]
+ID = 657
+Mob = 83
+Item = 200
+Rate = .012
+
+[Drop 658]
+ID = 658
+Mob = 83
+Item = 341
+Rate = .012
+
+[Drop 659]
+ID = 659
+Mob = 83
+Item = 336
+Rate = .012
+
+[Drop 660]
+ID = 660
+Mob = 83
+Item = 331
+Rate = .012
+
+[Drop 661]
+ID = 661
+Mob = 83
+Item = 363
+Rate = .012
+
+[Drop 662]
+ID = 662
+Mob = 83
+Item = 320
+Rate = .012
+
+[Drop 663]
+ID = 663
+Mob = 83
+Item = 547
+Rate = .012
+
+[Drop 664]
+ID = 664
+Mob = 82
+Item = 258
+Rate = .012
+
+[Drop 665]
+ID = 665
+Mob = 82
+Item = 409
+Rate = .012
+
+[Drop 666]
+ID = 666
+Mob = 82
+Item = 253
+Rate = .012
+
+[Drop 667]
+ID = 667
+Mob = 82
+Item = 371
+Rate = .012
+
+[Drop 668]
+ID = 668
+Mob = 82
+Item = 376
+Rate = .012
+
+[Drop 669]
+ID = 669
+Mob = 82
+Item = 419
+Rate = .012
+
+[Drop 670]
+ID = 670
+Mob = 82
+Item = 294
+Rate = .012
+
+[Drop 671]
+ID = 671
+Mob = 82
+Item = 315
+Rate = .012
+
+[Drop 672]
+ID = 672
+Mob = 82
+Item = 320
+Rate = .012
+
+[Drop 673]
+ID = 673
+Mob = 82
+Item = 363
+Rate = .012
+
+[Drop 674]
+ID = 674
+Mob = 88
+Item = 259
+Rate = .012
+
+[Drop 675]
+ID = 675
+Mob = 88
+Item = 254
+Rate = .012
+
+[Drop 676]
+ID = 676
+Mob = 88
+Item = 295
+Rate = .012
+
+[Drop 677]
+ID = 677
+Mob = 88
+Item = 296
+Rate = .012
+
+[Drop 678]
+ID = 678
+Mob = 88
+Item = 410
+Rate = .012
+
+[Drop 679]
+ID = 679
+Mob = 88
+Item = 234
+Rate = .012
+
+[Drop 680]
+ID = 680
+Mob = 88
+Item = 239
+Rate = .012
+
+[Drop 681]
+ID = 681
+Mob = 88
+Item = 244
+Rate = .012
+
+[Drop 682]
+ID = 682
+Mob = 88
+Item = 249
+Rate = .012
+
+[Drop 683]
+ID = 683
+Mob = 88
+Item = 219
+Rate = .012
+
+[Drop 684]
+ID = 684
+Mob = 295
+Item = 978
+Rate = .012
+
+[Drop 685]
+ID = 685
+Mob = 295
+Item = 498
+Rate = .012
+
+[Drop 686]
+ID = 686
+Mob = 295
+Item = 502
+Rate = .012
+
+[Drop 687]
+ID = 687
+Mob = 295
+Item = 506
+Rate = .012
+
+[Drop 688]
+ID = 688
+Mob = 295
+Item = 859
+Rate = .012
+
+[Drop 689]
+ID = 689
+Mob = 298
+Item = 978
+Rate = .012
+
+[Drop 690]
+ID = 690
+Mob = 298
+Item = 696
+Rate = .012
+
+[Drop 691]
+ID = 691
+Mob = 298
+Item = 701
+Rate = .012
+
+[Drop 692]
+ID = 692
+Mob = 298
+Item = 706
+Rate = .012
+
+[Drop 693]
+ID = 693
+Mob = 298
+Item = 711
+Rate = .012
+
+[Drop 694]
+ID = 694
+Mob = 300
+Item = 978
+Rate = .012
+
+[Drop 695]
+ID = 695
+Mob = 300
+Item = 696
+Rate = .012
+
+[Drop 696]
+ID = 696
+Mob = 300
+Item = 701
+Rate = .012
+
+[Drop 697]
+ID = 697
+Mob = 300
+Item = 706
+Rate = .012
+
+[Drop 698]
+ID = 698
+Mob = 300
+Item = 711
+Rate = .012
+
+[Drop 699]
+ID = 699
+Mob = 294
+Item = 899
+Rate = .012
+
+[Drop 700]
+ID = 700
+Mob = 294
+Item = 885
+Rate = .012
+
+[Drop 701]
+ID = 701
+Mob = 294
+Item = 889
+Rate = .012
+
+[Drop 702]
+ID = 702
+Mob = 294
+Item = 881
+Rate = .012
+
+[Drop 703]
+ID = 703
+Mob = 294
+Item = 978
+Rate = .012
+
+[Drop 704]
+ID = 704
+Mob = 297
+Item = 624
+Rate = .012
+
+[Drop 705]
+ID = 705
+Mob = 297
+Item = 978
+Rate = .012
+
+[Drop 706]
+ID = 706
+Mob = 297
+Item = 629
+Rate = .012
+
+[Drop 707]
+ID = 707
+Mob = 297
+Item = 633
+Rate = .012
+
+[Drop 708]
+ID = 708
+Mob = 297
+Item = 880
+Rate = .012
+
+[Drop 709]
+ID = 709
+Mob = 302
+Item = 978
+Rate = .012
+
+[Drop 710]
+ID = 710
+Mob = 302
+Item = 624
+Rate = .012
+
+[Drop 711]
+ID = 711
+Mob = 302
+Item = 629
+Rate = .012
+
+[Drop 712]
+ID = 712
+Mob = 302
+Item = 633
+Rate = .012
+
+[Drop 713]
+ID = 713
+Mob = 302
+Item = 880
+Rate = .012
+
+[Drop 714]
+ID = 714
+Mob = 296
+Item = 978
+Rate = .012
+
+[Drop 715]
+ID = 715
+Mob = 296
+Item = 984
+Rate = .012
+
+[Drop 716]
+ID = 716
+Mob = 296
+Item = 989
+Rate = .012
+
+[Drop 717]
+ID = 717
+Mob = 296
+Item = 994
+Rate = .012
+
+[Drop 718]
+ID = 718
+Mob = 296
+Item = 999
+Rate = .012
+
+[Drop 719]
+ID = 719
+Mob = 299
+Item = 978
+Rate = .012
+
+[Drop 720]
+ID = 720
+Mob = 299
+Item = 984
+Rate = .012
+
+[Drop 721]
+ID = 721
+Mob = 299
+Item = 989
+Rate = .012
+
+[Drop 722]
+ID = 722
+Mob = 299
+Item = 994
+Rate = .012
+
+[Drop 723]
+ID = 723
+Mob = 299
+Item = 999
+Rate = .012
+
+[Drop 724]
+ID = 724
+Mob = 363
+Item = 624
+Rate = .012
+
+[Drop 725]
+ID = 725
+Mob = 363
+Item = 629
+Rate = .012
+
+[Drop 726]
+ID = 726
+Mob = 363
+Item = 633
+Rate = .012
+
+[Drop 727]
+ID = 727
+Mob = 363
+Item = 880
+Rate = .012
+
+[Drop 728]
+ID = 728
+Mob = 58
+Item = 176
+Rate = .012
+
+[Drop 729]
+ID = 729
+Mob = 58
+Item = 284
+Rate = .012
+
+[Drop 730]
+ID = 730
+Mob = 58
+Item = 287
+Rate = .012
+
+[Drop 731]
+ID = 731
+Mob = 58
+Item = 544
+Rate = .012
+
+[Drop 732]
+ID = 732
+Mob = 58
+Item = 180
+Rate = .012
+
+[Drop 733]
+ID = 733
+Mob = 58
+Item = 198
+Rate = .012
+
+[Drop 734]
+ID = 734
+Mob = 61
+Item = 314
+Rate = .012
+
+[Drop 735]
+ID = 735
+Mob = 61
+Item = 319
+Rate = .012
+
+[Drop 736]
+ID = 736
+Mob = 61
+Item = 362
+Rate = .012
+
+[Drop 737]
+ID = 737
+Mob = 61
+Item = 413
+Rate = .012
+
+[Drop 738]
+ID = 738
+Mob = 61
+Item = 370
+Rate = .012
+
+[Drop 739]
+ID = 739
+Mob = 61
+Item = 375
+Rate = .012
+
+[Drop 740]
+ID = 740
+Mob = 61
+Item = 380
+Rate = .012
+
+[Drop 741]
+ID = 741
+Mob = 61
+Item = 428
+Rate = .012
+
+[Drop 742]
+ID = 742
+Mob = 61
+Item = 180
+Rate = .012
+
+[Drop 743]
+ID = 743
+Mob = 61
+Item = 177
+Rate = .012
+
+[Drop 744]
+ID = 744
+Mob = 60
+Item = 178
+Rate = .012
+
+[Drop 745]
+ID = 745
+Mob = 60
+Item = 285
+Rate = .012
+
+[Drop 746]
+ID = 746
+Mob = 60
+Item = 305
+Rate = .012
+
+[Drop 747]
+ID = 747
+Mob = 60
+Item = 176
+Rate = .012
+
+[Drop 748]
+ID = 748
+Mob = 60
+Item = 330
+Rate = .012
+
+[Drop 749]
+ID = 749
+Mob = 60
+Item = 353
+Rate = .012
+
+[Drop 750]
+ID = 750
+Mob = 60
+Item = 340
+Rate = .012
+
+[Drop 751]
+ID = 751
+Mob = 60
+Item = 418
+Rate = .012
+
+[Drop 752]
+ID = 752
+Mob = 60
+Item = 284
+Rate = .012
+
+[Drop 753]
+ID = 753
+Mob = 60
+Item = 287
+Rate = .012
+
+[Drop 754]
+ID = 754
+Mob = 59
+Item = 255
+Rate = .012
+
+[Drop 755]
+ID = 755
+Mob = 59
+Item = 293
+Rate = .012
+
+[Drop 756]
+ID = 756
+Mob = 59
+Item = 306
+Rate = .012
+
+[Drop 757]
+ID = 757
+Mob = 59
+Item = 905
+Rate = .012
+
+[Drop 758]
+ID = 758
+Mob = 59
+Item = 353
+Rate = .012
+
+[Drop 759]
+ID = 759
+Mob = 59
+Item = 358
+Rate = .012
+
+[Drop 760]
+ID = 760
+Mob = 59
+Item = 423
+Rate = .012
+
+[Drop 761]
+ID = 761
+Mob = 59
+Item = 199
+Rate = .012
+
+[Drop 762]
+ID = 762
+Mob = 59
+Item = 250
+Rate = .012
+
+[Drop 763]
+ID = 763
+Mob = 119
+Item = 256
+Rate = .012
+
+[Drop 764]
+ID = 764
+Mob = 119
+Item = 906
+Rate = .012
+
+[Drop 765]
+ID = 765
+Mob = 119
+Item = 331
+Rate = .012
+
+[Drop 766]
+ID = 766
+Mob = 119
+Item = 548
+Rate = .012
+
+[Drop 767]
+ID = 767
+Mob = 119
+Item = 315
+Rate = .012
+
+[Drop 768]
+ID = 768
+Mob = 119
+Item = 359
+Rate = .012
+
+[Drop 769]
+ID = 769
+Mob = 119
+Item = 354
+Rate = .012
+
+[Drop 770]
+ID = 770
+Mob = 119
+Item = 425
+Rate = .012
+
+[Drop 771]
+ID = 771
+Mob = 120
+Item = 251
+Rate = .012
+
+[Drop 772]
+ID = 772
+Mob = 120
+Item = 407
+Rate = .012
+
+[Drop 773]
+ID = 773
+Mob = 120
+Item = 548
+Rate = .012
+
+[Drop 774]
+ID = 774
+Mob = 120
+Item = 256
+Rate = .012
+
+[Drop 775]
+ID = 775
+Mob = 120
+Item = 336
+Rate = .012
+
+[Drop 776]
+ID = 776
+Mob = 120
+Item = 331
+Rate = .012
+
+[Drop 777]
+ID = 777
+Mob = 120
+Item = 320
+Rate = .012
+
+[Drop 778]
+ID = 778
+Mob = 62
+Item = 371
+Rate = .012
+
+[Drop 779]
+ID = 779
+Mob = 62
+Item = 376
+Rate = .012
+
+[Drop 780]
+ID = 780
+Mob = 62
+Item = 381
+Rate = .012
+
+[Drop 781]
+ID = 781
+Mob = 62
+Item = 429
+Rate = .012
+
+[Drop 782]
+ID = 782
+Mob = 62
+Item = 315
+Rate = .012
+
+[Drop 783]
+ID = 783
+Mob = 62
+Item = 320
+Rate = .012
+
+[Drop 784]
+ID = 784
+Mob = 62
+Item = 363
+Rate = .012
+
+[Drop 785]
+ID = 785
+Mob = 62
+Item = 414
+Rate = .012
+
+[Drop 786]
+ID = 786
+Mob = 62
+Item = 200
+Rate = .012
+
+[Drop 787]
+ID = 787
+Mob = 62
+Item = 255
+Rate = .012
+
+[Drop 788]
+ID = 788
+Mob = 121
+Item = 316
+Rate = .012
+
+[Drop 789]
+ID = 789
+Mob = 121
+Item = 321
+Rate = .012
+
+[Drop 790]
+ID = 790
+Mob = 121
+Item = 364
+Rate = .012
+
+[Drop 791]
+ID = 791
+Mob = 121
+Item = 415
+Rate = .012
+
+[Drop 792]
+ID = 792
+Mob = 121
+Item = 372
+Rate = .012
+
+[Drop 793]
+ID = 793
+Mob = 121
+Item = 377
+Rate = .012
+
+[Drop 794]
+ID = 794
+Mob = 121
+Item = 382
+Rate = .012
+
+[Drop 795]
+ID = 795
+Mob = 121
+Item = 430
+Rate = .012
+
+[Drop 796]
+ID = 796
+Mob = 121
+Item = 292
+Rate = .012
+
+[Drop 797]
+ID = 797
+Mob = 121
+Item = 407
+Rate = .012
+
+[Drop 798]
+ID = 798
+Mob = 63
+Item = 331
+Rate = .012
+
+[Drop 799]
+ID = 799
+Mob = 63
+Item = 336
+Rate = .012
+
+[Drop 800]
+ID = 800
+Mob = 63
+Item = 341
+Rate = .012
+
+[Drop 801]
+ID = 801
+Mob = 63
+Item = 419
+Rate = .012
+
+[Drop 802]
+ID = 802
+Mob = 63
+Item = 349
+Rate = .012
+
+[Drop 803]
+ID = 803
+Mob = 63
+Item = 354
+Rate = .012
+
+[Drop 804]
+ID = 804
+Mob = 63
+Item = 359
+Rate = .012
+
+[Drop 805]
+ID = 805
+Mob = 63
+Item = 424
+Rate = .012
+
+[Drop 806]
+ID = 806
+Mob = 63
+Item = 293
+Rate = .012
+
+[Drop 807]
+ID = 807
+Mob = 63
+Item = 306
+Rate = .012
+
+[Drop 808]
+ID = 808
+Mob = 122
+Item = 257
+Rate = .012
+
+[Drop 809]
+ID = 809
+Mob = 122
+Item = 292
+Rate = .012
+
+[Drop 810]
+ID = 810
+Mob = 122
+Item = 408
+Rate = .012
+
+[Drop 811]
+ID = 811
+Mob = 122
+Item = 548
+Rate = .012
+
+[Drop 812]
+ID = 812
+Mob = 122
+Item = 332
+Rate = .012
+
+[Drop 813]
+ID = 813
+Mob = 122
+Item = 337
+Rate = .012
+
+[Drop 814]
+ID = 814
+Mob = 122
+Item = 342
+Rate = .012
+
+[Drop 815]
+ID = 815
+Mob = 122
+Item = 420
+Rate = .012
+
+[Drop 816]
+ID = 816
+Mob = 122
+Item = 252
+Rate = .012
+
+[Drop 817]
+ID = 817
+Mob = 122
+Item = 251
+Rate = .012
+
+[Drop 818]
+ID = 818
+Mob = 123
+Item = 257
+Rate = .012
+
+[Drop 819]
+ID = 819
+Mob = 123
+Item = 294
+Rate = .012
+
+[Drop 820]
+ID = 820
+Mob = 123
+Item = 408
+Rate = .012
+
+[Drop 821]
+ID = 821
+Mob = 123
+Item = 350
+Rate = .012
+
+[Drop 822]
+ID = 822
+Mob = 123
+Item = 355
+Rate = .012
+
+[Drop 823]
+ID = 823
+Mob = 123
+Item = 360
+Rate = .012
+
+[Drop 824]
+ID = 824
+Mob = 123
+Item = 425
+Rate = .012
+
+[Drop 825]
+ID = 825
+Mob = 123
+Item = 252
+Rate = .012
+
+[Drop 826]
+ID = 826
+Mob = 123
+Item = 249
+Rate = .012
+
+[Drop 827]
+ID = 827
+Mob = 124
+Item = 316
+Rate = .012
+
+[Drop 828]
+ID = 828
+Mob = 124
+Item = 321
+Rate = .012
+
+[Drop 829]
+ID = 829
+Mob = 124
+Item = 364
+Rate = .012
+
+[Drop 830]
+ID = 830
+Mob = 124
+Item = 415
+Rate = .012
+
+[Drop 831]
+ID = 831
+Mob = 124
+Item = 372
+Rate = .012
+
+[Drop 832]
+ID = 832
+Mob = 124
+Item = 377
+Rate = .012
+
+[Drop 833]
+ID = 833
+Mob = 124
+Item = 382
+Rate = .012
+
+[Drop 834]
+ID = 834
+Mob = 124
+Item = 430
+Rate = .012
+
+[Drop 835]
+ID = 835
+Mob = 124
+Item = 234
+Rate = .012
+
+[Drop 836]
+ID = 836
+Mob = 124
+Item = 239
+Rate = .012
+
+[Drop 837]
+ID = 837
+Mob = 127
+Item = 253
+Rate = .012
+
+[Drop 838]
+ID = 838
+Mob = 127
+Item = 860
+Rate = .012
+
+[Drop 839]
+ID = 839
+Mob = 127
+Item = 409
+Rate = .012
+
+[Drop 840]
+ID = 840
+Mob = 127
+Item = 907
+Rate = .012
+
+[Drop 841]
+ID = 841
+Mob = 127
+Item = 350
+Rate = .012
+
+[Drop 842]
+ID = 842
+Mob = 127
+Item = 355
+Rate = .012
+
+[Drop 843]
+ID = 843
+Mob = 127
+Item = 360
+Rate = .012
+
+[Drop 844]
+ID = 844
+Mob = 127
+Item = 425
+Rate = .012
+
+[Drop 845]
+ID = 845
+Mob = 127
+Item = 258
+Rate = .012
+
+[Drop 846]
+ID = 846
+Mob = 128
+Item = 475
+Rate = .012
+
+[Drop 847]
+ID = 847
+Mob = 128
+Item = 476
+Rate = .012
+
+[Drop 848]
+ID = 848
+Mob = 128
+Item = 477
+Rate = .012
+
+[Drop 849]
+ID = 849
+Mob = 128
+Item = 712
+Rate = .012
+
+[Drop 850]
+ID = 850
+Mob = 128
+Item = 484
+Rate = .012
+
+[Drop 851]
+ID = 851
+Mob = 128
+Item = 485
+Rate = .012
+
+[Drop 852]
+ID = 852
+Mob = 128
+Item = 486
+Rate = .012
+
+[Drop 853]
+ID = 853
+Mob = 128
+Item = 715
+Rate = .012
+
+[Drop 854]
+ID = 854
+Mob = 128
+Item = 295
+Rate = .012
+
+[Drop 855]
+ID = 855
+Mob = 128
+Item = 907
+Rate = .012
+
+[Drop 856]
+ID = 856
+Mob = 126
+Item = 382
+Rate = .012
+
+[Drop 857]
+ID = 857
+Mob = 126
+Item = 860
+Rate = .012
+
+[Drop 858]
+ID = 858
+Mob = 126
+Item = 410
+Rate = .012
+
+[Drop 859]
+ID = 859
+Mob = 126
+Item = 478
+Rate = .012
+
+[Drop 860]
+ID = 860
+Mob = 126
+Item = 479
+Rate = .012
+
+[Drop 861]
+ID = 861
+Mob = 126
+Item = 480
+Rate = .012
+
+[Drop 862]
+ID = 862
+Mob = 126
+Item = 713
+Rate = .012
+
+[Drop 863]
+ID = 863
+Mob = 126
+Item = 295
+Rate = .012
+
+[Drop 864]
+ID = 864
+Mob = 130
+Item = 860
+Rate = .012
+
+[Drop 865]
+ID = 865
+Mob = 130
+Item = 410
+Rate = .012
+
+[Drop 866]
+ID = 866
+Mob = 130
+Item = 481
+Rate = .012
+
+[Drop 867]
+ID = 867
+Mob = 130
+Item = 482
+Rate = .012
+
+[Drop 868]
+ID = 868
+Mob = 130
+Item = 483
+Rate = .012
+
+[Drop 869]
+ID = 869
+Mob = 130
+Item = 714
+Rate = .012
+
+[Drop 870]
+ID = 870
+Mob = 130
+Item = 259
+Rate = .012
+
+[Drop 871]
+ID = 871
+Mob = 132
+Item = 498
+Rate = .012
+
+[Drop 872]
+ID = 872
+Mob = 132
+Item = 499
+Rate = .012
+
+[Drop 873]
+ID = 873
+Mob = 132
+Item = 500
+Rate = .012
+
+[Drop 874]
+ID = 874
+Mob = 132
+Item = 507
+Rate = .012
+
+[Drop 875]
+ID = 875
+Mob = 132
+Item = 508
+Rate = .012
+
+[Drop 876]
+ID = 876
+Mob = 132
+Item = 509
+Rate = .012
+
+[Drop 877]
+ID = 877
+Mob = 132
+Item = 296
+Rate = .012
+
+[Drop 878]
+ID = 878
+Mob = 133
+Item = 504
+Rate = .012
+
+[Drop 879]
+ID = 879
+Mob = 133
+Item = 505
+Rate = .012
+
+[Drop 880]
+ID = 880
+Mob = 133
+Item = 506
+Rate = .012
+
+[Drop 881]
+ID = 881
+Mob = 133
+Item = 471
+Rate = .012
+
+[Drop 882]
+ID = 882
+Mob = 133
+Item = 929
+Rate = .012
+
+[Drop 883]
+ID = 883
+Mob = 133
+Item = 502
+Rate = .012
+
+[Drop 884]
+ID = 884
+Mob = 133
+Item = 503
+Rate = .012
+
+[Drop 885]
+ID = 885
+Mob = 133
+Item = 472
+Rate = .012
+
+[Drop 886]
+ID = 886
+Mob = 133
+Item = 473
+Rate = .012
+
+[Drop 887]
+ID = 887
+Mob = 133
+Item = 474
+Rate = .012
+
+[Drop 888]
+ID = 888
+Mob = 355
+Item = 1062
+Rate = .012
+
+[Drop 889]
+ID = 889
+Mob = 355
+Item = 1063
+Rate = .012
+
+[Drop 890]
+ID = 890
+Mob = 355
+Item = 1066
+Rate = .012
+
+[Drop 891]
+ID = 891
+Mob = 355
+Item = 1064
+Rate = .012
+
+[Drop 892]
+ID = 892
+Mob = 355
+Item = 1065
+Rate = .012
+
+[Drop 894]
+ID = 894
+Mob = 354
+Item = 1062
+Rate = .012
+
+[Drop 895]
+ID = 895
+Mob = 354
+Item = 1063
+Rate = .012
+
+[Drop 896]
+ID = 896
+Mob = 354
+Item = 1066
+Rate = .012
+
+[Drop 897]
+ID = 897
+Mob = 354
+Item = 1064
+Rate = .012
+
+[Drop 898]
+ID = 898
+Mob = 354
+Item = 1065
+Rate = .012
+
+[Drop 900]
+ID = 900
+Mob = 356
+Item = 1062
+Rate = .012
+
+[Drop 901]
+ID = 901
+Mob = 356
+Item = 1063
+Rate = .012
+
+[Drop 902]
+ID = 902
+Mob = 356
+Item = 1066
+Rate = .012
+
+[Drop 903]
+ID = 903
+Mob = 356
+Item = 1064
+Rate = .012
+
+[Drop 904]
+ID = 904
+Mob = 356
+Item = 1065
+Rate = .012
+
+[Drop 906]
+ID = 906
+Mob = 356
+Item = 1067
+Rate = .012
+
+[Drop 907]
+ID = 907
+Mob = 354
+Item = 1067
+Rate = .012
+
+[Drop 908]
+ID = 908
+Mob = 355
+Item = 1067
+Rate = .012
+
+[Drop 909]
+ID = 909
+Mob = 353
+Item = 1067
+Rate = .012
+
+[Drop 910]
+ID = 910
+Mob = 353
+Item = 1062
+Rate = .012
+
+[Drop 911]
+ID = 911
+Mob = 353
+Item = 1063
+Rate = .012
+
+[Drop 912]
+ID = 912
+Mob = 353
+Item = 1066
+Rate = .012
+
+[Drop 913]
+ID = 913
+Mob = 353
+Item = 1064
+Rate = .012
+
+[Drop 914]
+ID = 914
+Mob = 353
+Item = 1065
+Rate = .012
+
+[Drop 915]
+ID = 915
+Mob = 362
+Item = 624
+Rate = .012
+
+[Drop 916]
+ID = 916
+Mob = 362
+Item = 629
+Rate = .012
+
+[Drop 917]
+ID = 917
+Mob = 362
+Item = 633
+Rate = .012
+
+[Drop 918]
+ID = 918
+Mob = 362
+Item = 880
+Rate = .012
+
+[Drop 919]
+ID = 919
+Mob = 364
+Item = 624
+Rate = .012
+
+[Drop 920]
+ID = 920
+Mob = 364
+Item = 629
+Rate = .012
+
+[Drop 921]
+ID = 921
+Mob = 364
+Item = 633
+Rate = .012
+
+[Drop 922]
+ID = 922
+Mob = 364
+Item = 880
+Rate = .012
