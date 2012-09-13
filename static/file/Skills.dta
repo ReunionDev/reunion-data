@@ -402,7 +402,7 @@ Class = SkillPlaceHolder
 
 [Burning Crash]
 ID = 100
-Class = SkillPlaceHolder
+Class = bulkan.BurningCrash
 
 [Hell-Mastery]
 ID = 101
