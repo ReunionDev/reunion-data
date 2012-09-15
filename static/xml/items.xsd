@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+	<element name="items">
+		<complexType>
+
+			<sequence minOccurs="1" maxOccurs="1">
+				<element name="item" minOccurs="1" maxOccurs="unbounded">
+					<complexType>
+						<attribute name="id" type="integer" use="required"></attribute>
+
+					</complexType>
+
+
+				</element>
+			</sequence>
+
+		</complexType>
+	</element>
+
+
+</schema>
