@@ -3304,6 +3304,22 @@ Exp = 1
 Lime = 10000
 AllowedOnMap = 4,0,3,5,6,2,1,7,8
 
+[Boss War Giant]
+Class = Mob
+ID = 331
+Level = 190
+Hp = 3500000
+Dmg = 1800
+Speed = 42
+AttackType = 0
+DmgType = 0
+Mutant = 0
+NeoProgmare = 0
+Exp = 1
+Lime = 10000
+AllowedOnMap = 4,0,3,5,6,2,1,7,8
+
+
 ##### Castle Gates ######
 
 [Quake Stone]
