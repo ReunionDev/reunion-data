@@ -2,20 +2,16 @@
 <schema xmlns="http://www.w3.org/2001/XMLSchema">
 	<element name="items">
 		<complexType>
-
 			<sequence minOccurs="1" maxOccurs="1">
 				<element name="item" minOccurs="1" maxOccurs="unbounded">
 					<complexType>
 						<attribute name="id" type="integer" use="required"></attribute>
-
+						<attribute name="name" type="string" use="required"></attribute>
+						<attribute name="class" type="string" use="required"></attribute>
+						<attribute name="type" type="string" use="required"></attribute>
 					</complexType>
-
-
 				</element>
 			</sequence>
-
 		</complexType>
 	</element>
-
-
 </schema>
