@@ -29,5 +29,6 @@
   	<groupId>org.reunionemu</groupId>
   	<artifactId>jreunion-parent</artifactId>
   	<version>0.0.1-SNAPSHOT</version>
+  	<relativePath>../reunion/pom.xml</relativePath>
   </parent>
 </project>
