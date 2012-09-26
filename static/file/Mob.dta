@@ -1,12 +1,7 @@
-#########################################################
-#	ENUMS:
-#
-#   Mutant: 
-#		0-Normal; 1-Red; 2-Blue; 3-Green; 4-Yellow
-#							#
-#	Neo-Progmare: 
-#		0-Normal; 1-Shadow; 2-Hard Barrier;3-Fuzzy; 4-Mental			
-#########################################################
+# In this file all the Mob informations are stored
+# ENUMS:
+# Mutant: 0-Normal; 1-Red; 2-Blue; 3-Green; 4-Yellow
+# Neo-Progmare: 0-Normal; 1-Shadow; 2-Hard Barrier;3-Fuzzy; 4-Mental
 
 #################
 #### Options ####
@@ -39,7 +34,7 @@ ID = 23
 Level = 3
 Hp = 50
 Dmg = 3
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -54,7 +49,7 @@ ID = 24
 Level = 12
 Hp = 157
 Dmg = 7
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -66,7 +61,7 @@ AllowedOnMap = 4
 [Lada]
 Class = Mob
 ID = 25
-Level = 5
+Level = 8
 Hp = 71
 Dmg = 5
 Speed = 20
@@ -75,7 +70,7 @@ DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 37
-Lime = 3
+Lime = 4
 AllowedOnMap = 4
 
 [Armored Mouse]
@@ -84,7 +79,7 @@ ID = 97
 Level = 1
 Hp = 30
 Dmg = 2
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -96,10 +91,10 @@ AllowedOnMap = 4
 [Armored Crab]
 Class = Mob
 ID = 98
-Level = 8
+Level = 10
 Hp = 105
 Dmg = 5
-Speed = 20
+Speed = 25
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -114,7 +109,7 @@ ID = 99
 Level = 10
 Hp = 130
 Dmg = 8
-Speed = 20
+Speed = 25
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -129,7 +124,7 @@ ID = 100
 Level = 22
 Hp = 346
 Dmg = 21
-Speed = 20
+Speed = 28
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -144,7 +139,7 @@ ID = 101
 Level = 30
 Hp = 590
 Dmg = 33
-Speed = 20
+Speed = 28
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -159,7 +154,7 @@ ID = 102
 Level = 35
 Hp = 799
 Dmg = 44
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -174,7 +169,7 @@ ID = 108
 Level = 105
 Hp = 29086
 Dmg = 880
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -189,13 +184,13 @@ ID = 109
 Level = 70
 Hp = 4150
 Dmg = 275
-Speed = 20
+Speed = 30
 AttackType = 1
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1852
-Lime = 148
+Lime = 135
 AllowedOnMap = 4
 
 [Skewer Halfer]
@@ -204,7 +199,7 @@ ID = 110
 Level = 65
 Hp = 7514
 Dmg = 318
-Speed = 20
+Speed = 35
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -219,7 +214,7 @@ ID = 111
 Level = 125
 Hp = 249610
 Dmg = 1283
-Speed = 20
+Speed = 40
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -358,135 +353,135 @@ AllowedOnMap = 4
 Class = Mob
 ID = 26
 Level = 25
-Hp = 1
-Dmg = 1
-Speed = 20
+Hp = 426
+Dmg = 25
+Speed = 15
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 14
 AllowedOnMap = 0
 
 [Dino]
 Class = Mob
 ID = 31
 Level = 30
-Hp = 1
-Dmg = 1
-Speed = 20
+Hp = 590
+Dmg = 33
+Speed = 17
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 19
 AllowedOnMap = 0
 
 [Oniam]
 Class = Mob
 ID = 37
 Level = 35
-Hp = 1
-Dmg = 1
-Speed = 20
+Hp = 799
+Dmg = 44
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 25
 AllowedOnMap = 0
 
 [Moke]
 Class = Mob
 ID = 39
 Level = 25
-Hp = 1
-Dmg = 1
+Hp = 426
+Dmg = 25
 Speed = 20
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 14
 AllowedOnMap = 0
 
 [Pro Giant]
 Class = Mob
 ID = 41
 Level = 50
-Hp = 1
-Dmg = 1
-Speed = 20
+Hp = 1770
+Dmg = 115
+Speed = 40
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 56
 AllowedOnMap = 0
 
 [Brain Warrior]
 Class = Mob
 ID = 48
 Level = 55
-Hp = 1
-Dmg = 1
-Speed = 20
+Hp = 2234
+Dmg = 140
+Speed = 40
 AttackType = 2
 DmgType = 2
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 71
 AllowedOnMap = 0
 
 [Dark Soldier]
 Class = Mob
 ID = 104
 Level = 47
-Hp = 1
-Dmg = 1
-Speed = 20
+Hp = 1528
+Dmg = 84
+Speed = 30
 AttackType = 2
 DmgType = 2
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 48
 AllowedOnMap = 0
 
 [Battle Giant]
 Class = Mob
 ID = 106
 Level = 72
-Hp = 1
-Dmg = 1
-Speed = 20
+Hp = 4472
+Dmg = 294
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 146
 AllowedOnMap = 0
 
 [Mad Cyborg]
 Class = Mob
 ID = 107
-Level = 70
-Hp = 1
-Dmg = 1
-Speed = 20
+Level = 72
+Hp = 4150
+Dmg = 275
+Speed = 30
 AttackType = 2
 DmgType = 2
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 135
 AllowedOnMap = 0
 
 ####Quest Monsters####
@@ -526,10 +521,10 @@ AllowedOnMap = 0
 [Zombie]
 Class = Mob
 ID = 58
-Level = 61
+Level = 70
 Hp = 4150
 Dmg = 272
-Speed = 20
+Speed = 35
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -544,7 +539,7 @@ ID = 62
 Level = 110
 Hp = 43290
 Dmg = 914
-Speed = 20
+Speed = 35
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -559,7 +554,7 @@ ID = 63
 Level = 120
 Hp = 92500
 Dmg = 1093
-Speed = 20
+Speed = 40
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -574,7 +569,7 @@ ID = 119
 Level = 105
 Hp = 10594
 Dmg = 682
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -589,7 +584,7 @@ ID = 120
 Level = 107
 Hp = 2724
 Dmg = 1054
-Speed = 20
+Speed = 40
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -619,7 +614,7 @@ ID = 122
 Level = 120
 Hp = 42378
 Dmg = 259
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -634,7 +629,7 @@ ID = 123
 Level = 120
 Hp = 37695
 Dmg = 624
-Speed = 20
+Speed = 15
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -649,7 +644,7 @@ ID = 124
 Level = 120
 Hp = 22976
 Dmg = 977
-Speed = 20
+Speed = 25
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -664,7 +659,7 @@ ID = 126
 Level = 145
 Hp = 39908
 Dmg = 1272
-Speed = 20
+Speed = 25
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -679,7 +674,7 @@ ID = 127
 Level = 120
 Hp = 29215
 Dmg = 1089
-Speed = 20
+Speed = 25
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -694,7 +689,7 @@ ID = 128
 Level = 120
 Hp = 7638
 Dmg = 1537
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -709,7 +704,7 @@ ID = 130
 Level = 150
 Hp = 71033
 Dmg = 821
-Speed = 20
+Speed = 25
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -724,7 +719,7 @@ ID = 132
 Level = 150
 Hp = 166140
 Dmg = 1426
-Speed = 20
+Speed = 25
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -739,7 +734,7 @@ ID = 133
 Level = 170
 Hp = 1368120
 Dmg = 1755
-Speed = 20
+Speed = 25
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -754,10 +749,10 @@ AllowedOnMap = 1
 [Heblossom]
 Class = Mob
 ID = 77
-Level = 32
+Level = 25
 Hp = 426
 Dmg = 25
-Speed = 20
+Speed = 15
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -772,7 +767,7 @@ ID = 78
 Level = 32
 Hp = 668
 Dmg = 37
-Speed = 20
+Speed = 35
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -787,7 +782,7 @@ ID = 79
 Level = 75
 Hp = 4989
 Dmg = 320
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -802,7 +797,7 @@ ID = 80
 Level = 70
 Hp = 4150
 Dmg = 272
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -814,7 +809,7 @@ AllowedOnMap = 2
 [Xpier Kabal]
 Class = Mob
 ID = 81
-Level = 85
+Level = 56
 Hp = 7011
 Dmg = 471
 Speed = 20
@@ -829,151 +824,151 @@ AllowedOnMap = 2
 [Mace Kabal 2]
 Class = Mob
 ID = 82
-Level = 56
-Hp = 1
-Dmg = 1
-Speed = 20
+Level = 135
+Hp = 87258
+Dmg = 896
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 784
 AllowedOnMap = 2
 
 [Hammer Kabal]
 Class = Mob
 ID = 83
-Level = 56
-Hp = 1
-Dmg = 1
-Speed = 20
+Level = 135
+Hp = 87258
+Dmg = 896
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 784
 AllowedOnMap = 2
 
 [Hell Scissor Kabal]
 Class = Mob
 ID = 84
-Level = 56
-Hp = 1
-Dmg = 1
-Speed = 20
+Level = 102
+Hp = 11652
+Dmg = 691
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 397
 AllowedOnMap = 2
 
 [Triple Spear Halfer]
 Class = Mob
 ID = 85
-Level = 56
-Hp = 1
-Dmg = 1
-Speed = 20
+Level = 50
+Hp = 1770
+Dmg = 112
+Speed = 35
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 56
 AllowedOnMap = 2
 
 [Round Saw Halfer]
 Class = Mob
 ID = 86
 Level = 56
-Hp = 1
-Dmg = 1
-Speed = 20
+Hp = 1253
+Dmg = 125
+Speed = 35
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 65
 AllowedOnMap = 2
 
 [Steel Pliers Halfer]
 Class = Mob
 ID = 87
-Level = 56
-Hp = 1
-Dmg = 1
-Speed = 20
+Level = 38
+Hp = 949
+Dmg = 52
+Speed = 35
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 30
 AllowedOnMap = 2
 
 [Dupe Rack Harpoon]
 Class = Mob
 ID = 88
-Level = 56
-Hp = 1
-Dmg = 1
-Speed = 20
+Level = 150
+Hp = 279480
+Dmg = 1391
+Speed = 35
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 2576
 AllowedOnMap = 2
 
 [Iron Bug]
 Class = Mob
 ID = 89
-Level = 56
-Hp = 1
-Dmg = 1
-Speed = 20
+Level = 35
+Hp = 799
+Dmg = 44
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 25
 AllowedOnMap = 2
 
 [Master Kabal]
 Class = Mob
 ID = 253
-Level = 56
-Hp = 1
-Dmg = 1
-Speed = 20
+Level = 85
+Hp = 7011
+Dmg = 471
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 233
 AllowedOnMap = 2
 
 [Guard Halfer]
 Class = Mob
 ID = 254
-Level = 56
-Hp = 1
-Dmg = 1
-Speed = 20
+Level = 55
+Hp = 2234
+Dmg = 142
+Speed = 35
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 71
 AllowedOnMap = 2
 
 #### Shilon ############################################
@@ -1180,7 +1175,7 @@ ID = 150
 Level = 120
 Hp = 180000
 Dmg = 650
-Speed = 20
+Speed = 42
 AttackType = 2
 DmgType = 2
 Mutant = 0
@@ -1222,7 +1217,7 @@ AllowedOnMap = 3
 [Cutter Lizard]
 Class = Mob
 ID = 153
-Level = 0
+Level = 120
 Hp = 4500
 Dmg = 1840
 Speed = 20
@@ -1300,7 +1295,7 @@ ID = 159
 Level = 170
 Hp = 760000
 Dmg = 1240
-Speed = 20
+Speed = 25
 AttackType = 2
 DmgType = 2
 Mutant = 0
@@ -1477,10 +1472,10 @@ AllowedOnMap = 3
 [Jailer Khan]
 Class = Mob
 ID = 227
-Level = 170
-Hp = 1
-Dmg = 1
-Speed = 20
+Level = 1
+Hp = 1368120
+Dmg = 3510
+Speed = 25
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -1543,7 +1538,7 @@ ID = 193
 Level = 174
 Hp = 67600
 Dmg = 1340
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -1558,7 +1553,7 @@ ID = 194
 Level = 190
 Hp = 945471
 Dmg = 697
-Speed = 20
+Speed = 42
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -1586,10 +1581,10 @@ AllowedOnMap = 5
 [Spit worm]
 Class = Mob
 ID = 196
-Level = 0
+Level = 150
 Hp = 5080000
 Dmg = 80
-Speed = 20
+Speed = 42
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -1649,7 +1644,7 @@ ID = 202
 Level = 162
 Hp = 59200
 Dmg = 960
-Speed = 20
+Speed = 35
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -1676,7 +1671,7 @@ AllowedOnMap = 5
 [Volt Rinch]
 Class = Mob
 ID = 204
-Level = 138
+Level = 170
 Hp = 76000
 Dmg = 1240
 Speed = 20
@@ -1754,7 +1749,7 @@ ID = 209
 Level = 190
 Hp = 78800
 Dmg = 1600
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -1769,7 +1764,7 @@ ID = 210
 Level = 194
 Hp = 80300
 Dmg = 1700
-Speed = 20
+Speed = 35
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -1781,25 +1776,10 @@ AllowedOnMap = 5
 [Pitcher]
 Class = Mob
 ID = 258
-Level = 0
-Hp = 1
-Dmg = 1
-Speed = 20
-AttackType = 0
-DmgType = 0
-Mutant = 0
-NeoProgmare = 0
-Exp = 1
-Lime = 1
-AllowedOnMap = 5
-
-[Pitcher 2]
-Class = Mob
-ID = 258
 Level = 142
-Hp = 44300
+Hp = 4430
 Dmg = 1000
-Speed = 20
+Speed = 35
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -1811,31 +1791,31 @@ AllowedOnMap = 5
 [Rinch]
 Class = Mob
 ID = 259
-Level = 0
-Hp = 1
-Dmg = 1
-Speed = 20
+Level = 138
+Hp = 41500
+Dmg = 930
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 275
 AllowedOnMap = 5
 
 [Risk]
 Class = Mob
 ID = 260
-Level = 0
-Hp = 1
-Dmg = 1
-Speed = 20
+Level = 154
+Hp = 54400
+Dmg = 1140
+Speed = 35
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 475
 AllowedOnMap = 5
 
 [Punch]
@@ -1874,7 +1854,7 @@ ID = 263
 Level = 170
 Hp = 65300
 Dmg = 1300
-Speed = 20
+Speed = 35
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -1895,7 +1875,7 @@ DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 1
+Lime = 1950
 AllowedOnMap = 5
 
 [Sickle Reaper]
@@ -1967,7 +1947,7 @@ ID = 220
 Level = 168
 Hp = 64445
 Dmg = 1200
-Speed = 35
+Speed = 20
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -1980,15 +1960,15 @@ AllowedOnMap = 6
 Class = Mob
 ID = 221
 Level = 180
-Hp = 79427
-Dmg = 1100
-Speed = 35
+Hp = 200000
+Dmg = 1300
+Speed = 25
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 27671
-Lime = 458
+Lime = 1783
 AllowedOnMap = 6
 
 [Earth Dragon]
@@ -1997,7 +1977,7 @@ ID = 222
 Level = 200
 Hp = 3000000
 Dmg = 1066
-Speed = 35
+Speed = 20
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -2012,13 +1992,13 @@ ID = 223
 Level = 205
 Hp = 4000000
 Dmg = 2000
-Speed = 35
+Speed = 25
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 2028
+Lime = 4860
 AllowedOnMap = 6
 
 [Mother Dragon]
@@ -2042,13 +2022,13 @@ ID = 243
 Level = 160
 Hp = 34891
 Dmg = 850
-Speed = 35
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 27671
-Lime = 263
+Lime = 2630
 AllowedOnMap = 6
 
 [Raven Valkyrie]
@@ -2099,10 +2079,10 @@ AllowedOnMap = 6
 [Flying Devil King]
 Class = Mob
 ID = 249
-Level = 186
+Level = 195
 Hp = 1800000
 Dmg = 1800
-Speed = 35
+Speed = 25
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -2111,7 +2091,7 @@ Exp = 27671
 Lime = 1200
 AllowedOnMap = 6
 
-[Shadow Armor Dragon]
+[Shadow Armor Dragon] #unconfirmed
 Class = Mob
 ID = 250
 Level = 1
@@ -2132,7 +2112,7 @@ ID = 285
 Level = 92
 Hp = 23000
 Dmg = 400
-Speed = 35
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -2159,7 +2139,7 @@ AllowedOnMap = 6
 [Axe Wing]
 Class = Mob
 ID = 287
-Level = 158
+Level = 114
 Hp = 225000
 Dmg = 500
 Speed = 35
@@ -2189,7 +2169,7 @@ AllowedOnMap = 6
 [Storm Fencer]
 Class = Mob
 ID = 289
-Level = 125
+Level = 136
 Hp = 725000
 Dmg = 700
 Speed = 35
@@ -2204,7 +2184,7 @@ AllowedOnMap = 6
 [Hell Wing]
 Class = Mob
 ID = 290
-Level = 158
+Level = 147
 Hp = 110000
 Dmg = 900
 Speed = 35
@@ -2254,7 +2234,7 @@ ID = 295
 Level = 160
 Hp = 60000
 Dmg = 900
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -2269,7 +2249,7 @@ ID = 298
 Level = 180
 Hp = 100000
 Dmg = 1100
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -2284,9 +2264,9 @@ AllowedOnMap = 7
 Class = Mob
 ID = 300
 Level = 190
-Hp = 130000
-Dmg = 1300
-Speed = 20
+Hp = 160000
+Dmg = 1600
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -2299,15 +2279,15 @@ AllowedOnMap = 7,8
 Class = Mob
 ID = 296
 Level = 200
-Hp = 130000
-Dmg = 1300
-Speed = 20
+Hp = 160000
+Dmg = 1600
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
-Lime = 490
+Exp = 42000
+Lime = 540
 AllowedOnMap = 7,8
 
 [Clay Soul]
@@ -2316,27 +2296,27 @@ ID = 299
 Level = 210
 Hp = 190000
 Dmg = 1700
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 48000
 Lime = 590
 AllowedOnMap = 7,8
 
 [Ice Risk]
 Class = Mob
 ID = 302
-Level = 200
+Level = 220
 Hp = 230000
 Dmg = 2000
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 55000
 Lime = 650
 AllowedOnMap = 7,8
 
@@ -2346,12 +2326,12 @@ ID = 297
 Level = 230
 Hp = 270000
 Dmg = 2300
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 62000
 Lime = 710
 AllowedOnMap = 7,8
 
@@ -2361,12 +2341,12 @@ ID = 294
 Level = 260
 Hp = 410000
 Dmg = 3400
-Speed = 20
+Speed = 30
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 85000
 Lime = 910
 AllowedOnMap = 7,8
 
@@ -2375,19 +2355,19 @@ AllowedOnMap = 7,8
 [Yeti]
 Class = Mob
 ID = 363
-Level = 210
-Hp = 190000
-Dmg = 1700
+Level = 244
+Hp = 330000
+Dmg = 2760
 Speed = 20
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
-Lime = 590
+Exp = 72200
+Lime = 798
 AllowedOnMap = 8
 
-[Garpon Soldier]
+[Garpon Soldier] ### unconfirmed
 Class = Mob
 ID = 364
 Level = 231
@@ -2398,7 +2378,7 @@ AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 85800
 Lime = 716
 AllowedOnMap = 8
 
@@ -2413,7 +2393,7 @@ AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 72200
 Lime = 798
 AllowedOnMap = 8
 
@@ -2428,7 +2408,7 @@ AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 73000
 Lime = 805
 AllowedOnMap = 8
 
@@ -2443,7 +2423,7 @@ AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 75400
 Lime = 826
 AllowedOnMap = 8
 
@@ -2458,7 +2438,7 @@ AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 77000
 Lime = 840
 AllowedOnMap = 8
 
@@ -2473,7 +2453,7 @@ AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 80200
 Lime = 917
 AllowedOnMap = 8
 
@@ -2488,7 +2468,7 @@ AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 80200
 Lime = 868
 AllowedOnMap = 8
 
@@ -2503,7 +2483,7 @@ AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 800730
 Lime = 81375
 AllowedOnMap = 8
 
@@ -2518,7 +2498,7 @@ AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 809340
 Lime = 82250
 AllowedOnMap = 8
 
@@ -2533,7 +2513,7 @@ AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 826560
 Lime = 84000
 AllowedOnMap = 8
 
@@ -2548,7 +2528,7 @@ AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 861000
 Lime = 87500
 AllowedOnMap = 8
 
@@ -2563,7 +2543,7 @@ AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
-Exp = 1
+Exp = 12300000
 Lime = 1
 AllowedOnMap = 8
 
@@ -2619,14 +2599,14 @@ Class = Mob
 ID = 59
 Level = 100
 Hp = 11020
-Dmg = 329
-Speed = 20
+Dmg = 652
+Speed = 40
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 163
+Lime = 375
 AllowedOnMap = 1,2
 
 [Skeleton Soldier]
@@ -2635,7 +2615,7 @@ ID = 60
 Level =75
 Hp = 4989
 Dmg = 329
-Speed = 20
+Speed = 38
 AttackType = 0
 DmgType = 0
 Mutant = 0
@@ -2688,6 +2668,503 @@ NeoProgmare = 0
 Exp = 1
 Lime = 1875
 AllowedOnMap = 3,5
+
+#### Dimitron #########################################
+
+[Bone Worker]
+Class = Mob
+ID = 392
+Level = 280
+Hp = 1
+Dmg = 3150
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 62558
+Lime = 899
+AllowedOnMap = 9
+
+[Specter]
+Class = Mob
+ID = 417
+Level = 250
+Hp = 1
+Dmg = 400
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 2800
+Lime = 210
+AllowedOnMap = 9
+
+[Fist Genter]
+Class = Mob
+ID = 399
+Level = 280
+Hp = 1
+Dmg = 3150
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 62558
+Lime = 899
+AllowedOnMap = 9
+
+[Xpier Genter]
+Class = Mob
+ID = 395
+Level = 280
+Hp = 1
+Dmg = 3150
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 62558
+Lime = 899
+AllowedOnMap = 9
+
+[Spider]
+Class = Mob
+ID = 401
+Level = 288
+Hp = 1
+Dmg = 2218
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 546361
+Lime = 3023
+AllowedOnMap = 9
+
+[Bone Sorcerer]
+Class = Mob
+ID = 393
+Level = 285
+Hp = 1
+Dmg = 3206
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 64812
+Lime = 931
+AllowedOnMap = 9
+
+[Gurmong]
+Class = Mob
+ID = 403
+Level = 285
+Hp = 1
+Dmg = 3170
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 64812
+Lime = 930
+AllowedOnMap = 9
+
+[Hammer Genter]
+Class = Mob
+ID = 396
+Level = 285
+Hp = 1
+Dmg = 3206
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 64812
+Lime = 931
+AllowedOnMap = 9
+
+[Rain Spider]
+Class = Mob
+ID = 402
+Level = 288
+Hp = 1
+Dmg = 2218
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 546361
+Lime = 3023
+AllowedOnMap = 9
+
+[Iron Genter]
+Class = Mob
+ID = 400
+Level = 290
+Hp = 1
+Dmg = 3263
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 67106
+Lime = 964
+AllowedOnMap = 9
+
+[Clay Specter]
+Class = Mob
+ID = 404
+Level = 290
+Hp = 1
+Dmg = 2233
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 553975
+Lime = 3978
+AllowedOnMap = 9
+
+[Bone Master]
+Class = Mob
+ID = 394
+Level = 290
+Hp = 1
+Dmg = 3263
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 67106
+Lime = 964
+AllowedOnMap = 9
+
+[Light Warrior]
+Class = Mob
+ID = 407
+Level = 295
+Hp = 1
+Dmg = 3319
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 69440
+Lime = 997
+AllowedOnMap = 9
+
+[King Anteater]
+Class = Mob
+ID = 411
+Level = 300
+Hp = 1
+Dmg = 3375
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 71813
+Lime = 1031
+AllowedOnMap = 9
+
+[Devil Hood]
+Class = Mob
+ID = 405
+Level = 300
+Hp = 1
+Dmg = 2310
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 592840
+Lime = 3294
+AllowedOnMap = 9
+
+[Hawk Valkyrie]
+Class = Mob
+ID = 408
+Level = 300
+Hp = 1
+Dmg = 3625
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 71813
+Lime = 1031
+AllowedOnMap = 9
+
+[Fury Brute]
+Class = Mob
+ID = 389
+Level = 298
+Hp = 1
+Dmg = 2364
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 620828
+Lime = 3449
+AllowedOnMap = 9
+
+[Brute]
+Class = Mob
+ID = 388
+Level = 307
+Hp = 1
+Dmg = 3353
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 70859
+Lime = 1018
+AllowedOnMap = 9
+
+[Devil Force]
+Class = Mob
+ID = 406
+Level = 309
+Hp = 1
+Dmg = 2379
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 628944
+Lime = 3494
+AllowedOnMap = 9
+
+[Pitros]
+Class = Mob
+ID = 409
+Level = 310
+Hp = 1
+Dmg = 3488
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 76681
+Lime = 1101
+AllowedOnMap = 9
+
+[Faivz]
+Class = Mob
+ID = 312
+Level = 310
+Hp = 1
+Dmg = 3488
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 76681
+Lime = 1101
+AllowedOnMap = 9
+
+[Kiold]
+Class = Mob
+ID = 385
+Level = 310
+Hp = 1
+Dmg = 2387
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 633020
+Lime = 3517
+AllowedOnMap = 9
+
+[Earthkite]
+Class = Mob
+ID = 390
+Level = 310
+Hp = 1
+Dmg = 3544
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 79174
+Lime = 1138
+AllowedOnMap = 9
+
+[Neo Khan]
+Class = Mob
+ID = 397
+Level = 312
+Hp = 1
+Dmg = 2402
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 641215
+Lime = 3562
+AllowedOnMap = 9
+
+[Jr. Demiguard]
+Class = Mob
+ID = 418
+Level = 315
+Hp = 1
+Dmg = 3544
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 79174
+Lime = 1138
+AllowedOnMap = 9
+
+[Lion Cutter]
+Class = Mob
+ID = 413
+Level = 320
+Hp = 1
+Dmg = 2464
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 674520
+Lime = 3747
+AllowedOnMap = 9
+
+[Todd Kiold]
+Class = Mob
+ID = 386
+Level = 330
+Hp = 1
+Dmg = 2541
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 717336
+Lime = 3985
+AllowedOnMap = 9
+
+[Belzer]
+Class = Mob
+ID = 410
+Level = 320
+Hp = 1
+Dmg = 2464
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 674520
+Lime = 3747
+AllowedOnMap = 9
+
+[Bone Kiold]
+Class = Mob
+ID = 387
+Level = 320
+Hp = 1
+Dmg = 2464
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 674520
+Lime = 3747
+AllowedOnMap = 9
+
+[Demiguard]
+Class = Mob
+ID = 414
+Level = 330
+Hp = 1
+Dmg = 2541
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 717336
+Lime = 3985
+AllowedOnMap = 9
+
+[Durant]
+Class = Mob
+ID = 416
+Level = 350
+Hp = 1
+Dmg = 13600
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 4034604
+Lime = 26897
+AllowedOnMap = 9
+
+[Cornu Serpent]
+Class = Mob
+ID = 437
+Level = 350
+Hp = 1
+Dmg = 1
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 79168
+Lime = 1130
+AllowedOnMap = 9
+
+[Serpent Queen]
+Class = Mob
+ID = 438
+Level = 400
+Hp = 1
+Dmg = 1
+Speed = 20
+AttackType = 2
+DmgType = 2
+Mutant = 0
+NeoProgmare = 0
+Exp = 1
+Lime = 26897
+AllowedOnMap = 9
 
 #### All Maps #########################################
 
@@ -2818,14 +3295,30 @@ ID = 38
 Level = 190
 Hp = 3500000
 Dmg = 1800
-Speed = 35
+Speed = 42
 AttackType = 0
 DmgType = 0
 Mutant = 0
 NeoProgmare = 0
 Exp = 1
-Lime = 10
+Lime = 10000
 AllowedOnMap = 4,0,3,5,6,2,1,7,8
+
+[Boss War Giant]
+Class = Mob
+ID = 331
+Level = 190
+Hp = 3500000
+Dmg = 1800
+Speed = 42
+AttackType = 0
+DmgType = 0
+Mutant = 0
+NeoProgmare = 0
+Exp = 1
+Lime = 10000
+AllowedOnMap = 4,0,3,5,6,2,1,7,8
+
 
 ##### Castle Gates ######
 

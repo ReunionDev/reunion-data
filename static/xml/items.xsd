@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+	<element name="items">
+		<complexType>
+			<sequence minOccurs="1" maxOccurs="1">
+				<element name="item" minOccurs="1" maxOccurs="unbounded">
+					<complexType>
+						<attribute name="id" type="positiveInteger"
+							use="required">
+						</attribute>
+						<attribute name="name" type="string"
+							use="required">
+						</attribute>
+						<attribute name="class" type="string"
+							use="required">
+						</attribute>
+						<attribute name="type" type="string"
+							use="required">
+						</attribute>
+						<attribute name="race">
+							<annotation>
+								<documentation>Race: 
+0 = Bulkan
+1 = Kailipton
+2 = Aidia
+3 = Human
+4 = Hybrider
+5 = Pet
+6 = Common</documentation>
+							</annotation>
+							<simpleType>
+								<restriction base="integer">
+									<minInclusive value="0" />
+									<maxInclusive value="6" />
+								</restriction>
+							</simpleType>
+						</attribute>
+						<attribute name="speed">
+						<simpleType>
+					        <annotation>
+					        	<documentation>Speed:
+0 = Very Fast
+1 = Fast
+2 = Normal
+3 = Slow
+4 = Very Slow</documentation>
+					        </annotation>
+					        <restriction base="int">
+								<minInclusive value="0"></minInclusive>
+								<maxInclusive value="4"></maxInclusive>
+							</restriction>
+						</simpleType>
+						
+						</attribute>
+					</complexType>
+				</element>
+			</sequence>
+		</complexType>
+		<unique name="itemKey">
+		    <selector xpath="item"/>
+		    <field xpath="@id"/>
+	  	</unique>
+	</element>
+
+</schema>

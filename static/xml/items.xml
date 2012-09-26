@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="items.xsd">
+	<item type="Slayer" id="724" name="Slayer" class="equipment.SlayerWeapon"></item>
+	<item name="" type="" class="" id="1" speed="4"  race="0" />
+</items>

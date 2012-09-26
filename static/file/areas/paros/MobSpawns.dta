@@ -3988,7 +3988,7 @@ Type = 243
 [Spawn 444]
 ID = 444
 X = 1522
-Y = 1334
+Y = 2334
 Z = 332
 Radius = 50
 RespawnTime = 300

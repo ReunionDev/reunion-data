@@ -125,7 +125,7 @@ Class = Merchant
 [Veterinary]
 ID = 189
 Hp = 100
-Class = PetAssistant
+Class = Veterinary
 
 [Magican] ##
 ID = 140
@@ -205,22 +205,22 @@ Class = NpcPlaceHolder
 [Egg Seller]
 ID = 188
 Hp = 100
-Class = NpcPlaceHolder
+Class = EggSeller
 
 [Pet Researcher]
 ID = 67
 Hp = 100
 Class = NpcPlaceHolder
 
-[Constructer]
+[Assembling Merchant]
 ID = 191
 Hp = 100
-Class = NpcPlaceHolder
+Class = AssemblingMerchant
 
 [Drill Instructor]
 ID = 190
 Hp = 100
-Class = NpcPlaceHolder
+Class = DrillInstructor
 
 [Dekardi GMaster]
 ID = 303
