@@ -3222,6 +3222,7 @@ Handed = 1
 Price = 135000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Saber]
@@ -3237,6 +3238,7 @@ Handed = 2
 Price = 20900
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Saber-1]
@@ -3252,6 +3254,7 @@ Handed = 2
 Price = 209000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Warrior Sword]
@@ -3267,6 +3270,7 @@ Handed = 1
 Price = 324000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Karma Blade]
@@ -3282,6 +3286,7 @@ Handed = 1
 Price = 405000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Expulsion]
@@ -3297,6 +3302,7 @@ Handed = 2
 Price = 49500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Twilight Sword]
@@ -3312,6 +3318,7 @@ Handed = 2
 Price = 500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Jin Teurus]
@@ -3327,6 +3334,7 @@ Handed = 2
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Teurus Sword]
@@ -3342,6 +3350,7 @@ Handed = 2
 Price = 1000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Muramasa Sword]
@@ -3357,6 +3366,7 @@ Handed = 2
 Price = 100000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Jin Defeat]
@@ -3372,6 +3382,7 @@ Handed = 2
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Ascalon]
@@ -3387,6 +3398,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Ascalon-1]
@@ -3402,6 +3414,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [400lv_Sword]
@@ -3417,6 +3430,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Short Sword]
@@ -3432,6 +3446,7 @@ Handed = 1
 Price = 30
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Cyclone Blade_sa]
@@ -3447,6 +3462,7 @@ Handed = 2
 Price = 4
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Long Sword]
@@ -3462,6 +3478,7 @@ Handed = 1
 Price = 110
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Righteous Blade]
@@ -3477,6 +3494,7 @@ Handed = 1
 Price = 310
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Curved Blade]
@@ -3492,6 +3510,7 @@ Handed = 1
 Price = 650
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Victory Blade]
@@ -3507,6 +3526,7 @@ Handed = 1
 Price = 1300
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [B Crystal Sword]
@@ -3522,6 +3542,7 @@ Handed = 1
 Price = 1750
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Golden Sword]
@@ -3537,6 +3558,7 @@ Handed = 2
 Price = 2700
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Wing Sword]
@@ -3552,6 +3574,7 @@ Handed = 2
 Price = 3600
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Sonic Sword]
@@ -3567,6 +3590,7 @@ Handed = 1
 Price = 4400
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Broad Sword]
@@ -3582,6 +3606,7 @@ Handed = 2
 Price = 5400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Great Sword]
@@ -3597,6 +3622,7 @@ Handed = 2
 Price = 7700
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [G Crystal Sword]
@@ -3612,6 +3638,7 @@ Handed = 1
 Price = 11290
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Red Sword]
@@ -3627,6 +3654,7 @@ Handed = 1
 Price = 13500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Darkness Sword]
@@ -3642,6 +3670,7 @@ Handed = 2
 Price = 15910
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Oriental Sword]
@@ -3657,6 +3686,7 @@ Handed = 2
 Price = 26110
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Warrior Sword-1]
@@ -3672,6 +3702,7 @@ Handed = 1
 Price = 32400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Karma Blade-1]
@@ -3687,6 +3718,7 @@ Handed = 1
 Price = 40500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Cyclone Blade]
@@ -3702,6 +3734,7 @@ Handed = 2
 Price = 70000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Twilight Sword-1]
@@ -3717,6 +3750,7 @@ Handed = 2
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Teurus Sword-1]
@@ -3732,6 +3766,7 @@ Handed = 2
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Defeat Sword]
@@ -3747,6 +3782,7 @@ Handed = 2
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Muramasa Sword-1]
@@ -3760,8 +3796,9 @@ Position = 9
 ReqStr = 0
 Handed = 2
 Price = 40
-SizeX = 0
-SizeY = 0
+SizeX = 1
+SizeY = 1
+Upgradable = 1
 Class = equipment.Sword
 
 [Harisen]
@@ -3777,6 +3814,7 @@ Handed = 1
 Price = 30
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Short Sword-1]
@@ -3792,6 +3830,7 @@ Handed = 1
 Price = 30
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Short Sword-2]
@@ -3807,6 +3846,7 @@ Handed = 1
 Price = 30
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Red Fan]
@@ -3822,6 +3862,7 @@ Handed = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Taekukgi]
@@ -3837,6 +3878,7 @@ Handed = 1
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Sword
 
 [heartrod]
@@ -3852,6 +3894,7 @@ Handed = 1
 Price = 777
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Golden Hammer]
@@ -3867,6 +3910,7 @@ Handed = 1
 Price = 12500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Muramasa Sword-2]
@@ -3882,6 +3926,7 @@ Handed = 2
 Price = 410000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Power Axe]
@@ -3897,6 +3942,7 @@ Handed = 2
 Price = 148500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Triple Horn Axe]
@@ -3912,6 +3958,7 @@ Handed = 2
 Price = 19690
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Triple Horn Axe-1]
@@ -3927,6 +3974,7 @@ Handed = 2
 Price = 196900
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Lion Axe]
@@ -3942,6 +3990,7 @@ Handed = 1
 Price = 324000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Battle Axe]
@@ -3957,6 +4006,7 @@ Handed = 2
 Price = 405000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Vampire Axe]
@@ -3972,6 +4022,7 @@ Handed = 2
 Price = 49500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Glorious Axe]
@@ -3987,6 +4038,7 @@ Handed = 2
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Glorious Axe-1]
@@ -4002,6 +4054,7 @@ Handed = 2
 Price = 500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Jin - crash axe]
@@ -4017,6 +4070,7 @@ Handed = 2
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Crash Axe]
@@ -4032,6 +4086,7 @@ Handed = 2
 Price = 1000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Azrael Scythe]
@@ -4047,6 +4102,7 @@ Handed = 2
 Price = 100000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Jin - Havoc axe]
@@ -4062,6 +4118,7 @@ Handed = 2
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [heimdallr Axe]
@@ -4077,6 +4134,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Heimdalrs Axe]
@@ -4092,6 +4150,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [400lv_Axe]
@@ -4107,6 +4166,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Stone Axe]
@@ -4122,6 +4182,7 @@ Handed = 1
 Price = 30
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Bulkan Axe]
@@ -4137,6 +4198,7 @@ Handed = 1
 Price = 200
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Big Bulkan Axe]
@@ -4152,6 +4214,7 @@ Handed = 1
 Price = 500
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Wooden Horn Axe]
@@ -4167,6 +4230,7 @@ Handed = 1
 Price = 900
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Blood Axe]
@@ -4182,6 +4246,7 @@ Handed = 2
 Price = 1400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Double Edge Axe]
@@ -4197,6 +4262,7 @@ Handed = 2
 Price = 1750
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Half Moon Axe]
@@ -4212,6 +4278,7 @@ Handed = 2
 Price = 2400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Warrior Axe]
@@ -4227,6 +4294,7 @@ Handed = 2
 Price = 3010
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Knife Edge Axe]
@@ -4242,6 +4310,7 @@ Handed = 2
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Darkness Axe]
@@ -4257,6 +4326,7 @@ Handed = 2
 Price = 6050
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Star Axe]
@@ -4272,6 +4342,7 @@ Handed = 2
 Price = 7450
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Warrior Axe-1]
@@ -4287,6 +4358,7 @@ Handed = 2
 Price = 9000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Power Axe-1]
@@ -4302,6 +4374,7 @@ Handed = 2
 Price = 14850
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Heavy Axe]
@@ -4317,6 +4390,7 @@ Handed = 2
 Price = 25200
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Lion Axe-1]
@@ -4332,6 +4406,7 @@ Handed = 1
 Price = 32400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Battle Axe-1]
@@ -4347,6 +4422,7 @@ Handed = 2
 Price = 40500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Scream Axe]
@@ -4362,6 +4438,7 @@ Handed = 2
 Price = 70000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Crash Axe-1]
@@ -4377,6 +4454,7 @@ Handed = 2
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Crash Axe-2]
@@ -4392,6 +4470,7 @@ Handed = 2
 Price = 1000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Havoc Axe]
@@ -4407,6 +4486,7 @@ Handed = 2
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Jin - Havoc axe-1]
@@ -4422,6 +4502,7 @@ Handed = 2
 Price = 100000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Heavy Axe-1]
@@ -4437,6 +4518,7 @@ Handed = 2
 Price = 66660
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [GM Axe]
@@ -4452,6 +4534,7 @@ Handed = 2
 Price = 1
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Mystery Staff]
@@ -4470,6 +4553,7 @@ Handed = 2
 Price = 131700
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Ancient Staff]
@@ -4488,6 +4572,7 @@ Handed = 2
 Price = 217300
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Sharp Staff]
@@ -4506,6 +4591,7 @@ Handed = 2
 Price = 299000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Golden Jade Staff]
@@ -4524,6 +4610,7 @@ Handed = 2
 Price = 377000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Silverwing Staff]
@@ -4542,6 +4629,7 @@ Handed = 2
 Price = 500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Jin Soul]
@@ -4560,6 +4648,7 @@ Handed = 2
 Price = 94000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Soul Staff]
@@ -4578,6 +4667,7 @@ Handed = 2
 Price = 940000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Cut Scythe]
@@ -4596,6 +4686,7 @@ Handed = 2
 Price = 100000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Jin Ruin Staff]
@@ -4614,6 +4705,7 @@ Handed = 2
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Gungnir]
@@ -4632,6 +4724,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Gungnir-1]
@@ -4650,6 +4743,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [400lv_Stick]
@@ -4668,6 +4762,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Red Staff]
@@ -4686,6 +4781,7 @@ Handed = 1
 Price = 30
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Falcon Staff_sa]
@@ -4704,6 +4800,7 @@ Handed = 2
 Price = 4
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [God Staff]
@@ -4722,6 +4819,7 @@ Handed = 1
 Price = 200
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Eagle Staff]
@@ -4740,6 +4838,7 @@ Handed = 1
 Price = 500
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [King Staff]
@@ -4758,6 +4857,7 @@ Handed = 2
 Price = 1190
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Skeleton Staff]
@@ -4776,6 +4876,7 @@ Handed = 2
 Price = 1750
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Wiseman Staff]
@@ -4794,6 +4895,7 @@ Handed = 2
 Price = 1750
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [One-eyed Staff]
@@ -4812,6 +4914,7 @@ Handed = 2
 Price = 3500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Evil Staff]
@@ -4830,6 +4933,7 @@ Handed = 2
 Price = 4990
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Crystal Staff]
@@ -4848,6 +4952,7 @@ Handed = 2
 Price = 4990
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Emerald Staff]
@@ -4866,6 +4971,7 @@ Handed = 2
 Price = 9000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Mystery Staff-1]
@@ -4884,6 +4990,7 @@ Handed = 2
 Price = 13170
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Fan Staff]
@@ -4902,6 +5009,7 @@ Handed = 2
 Price = 17000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Ancient Staff-1]
@@ -4920,6 +5028,7 @@ Handed = 2
 Price = 21730
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Sharp Staff-1]
@@ -4938,6 +5047,7 @@ Handed = 2
 Price = 29900
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Gold Jade Staff]
@@ -4956,6 +5066,7 @@ Handed = 2
 Price = 37700
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Ring Staff]
@@ -4974,6 +5085,7 @@ Handed = 2
 Price = 46400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Mighty Staff]
@@ -4992,6 +5104,7 @@ Handed = 2
 Price = 56000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Falcon Staff]
@@ -5010,6 +5123,7 @@ Handed = 2
 Price = 72000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [SilverwingStaff]
@@ -5028,6 +5142,7 @@ Handed = 2
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Soul Staff-1]
@@ -5046,6 +5161,7 @@ Handed = 2
 Price = 94000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Soul Staff-2]
@@ -5064,6 +5180,7 @@ Handed = 2
 Price = 940000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Ruin Staff]
@@ -5082,6 +5199,7 @@ Handed = 2
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Jin - ruin staff]
@@ -5100,6 +5218,7 @@ Handed = 2
 Price = 100000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [strawrod]
@@ -5118,6 +5237,7 @@ Handed = 1
 Price = 5000
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [lemonrod]
@@ -5136,6 +5256,7 @@ Handed = 1
 Price = 5000
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [melonrod]
@@ -5154,6 +5275,7 @@ Handed = 1
 Price = 5000
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [holrod]
@@ -5172,6 +5294,7 @@ Handed = 1
 Price = 5000
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [rainbowrod]
@@ -5190,6 +5313,7 @@ Handed = 1
 Price = 5000
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [loveheartrod]
@@ -5208,6 +5332,7 @@ Handed = 1
 Price = 1000000
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Holy Staff (Hawk)]
@@ -5226,6 +5351,7 @@ Handed = 1
 Price = 15000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Holy Staff (Shiver)]
@@ -5244,6 +5370,7 @@ Handed = 1
 Price = 15000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Flag]
@@ -5262,6 +5389,7 @@ Handed = 2
 Price = 20000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [loveloverod]
@@ -5280,6 +5408,7 @@ Handed = 1
 Price = 7777
 SizeX = 1
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Heavy Axe-2]
@@ -5298,6 +5427,7 @@ Handed = 2
 Price = 6666660
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Holy Hawk Staff]
@@ -5316,6 +5446,7 @@ Handed = 1
 Price = 1500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Holy Staff]
@@ -5334,6 +5465,7 @@ Handed = 1
 Price = 1500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Holy Shiver]
@@ -5352,6 +5484,7 @@ Handed = 1
 Price = 1500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [GM Staff]
@@ -5370,6 +5503,7 @@ Handed = 2
 Price = 1
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.StaffWeapon
 
 [Bee Swarm Ring]
@@ -5387,6 +5521,8 @@ Handed = 1
 Price = 30
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Griffon Ring_sa]
@@ -5404,6 +5540,8 @@ Handed = 1
 Price = 4
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Butterfly Ring]
@@ -5421,6 +5559,8 @@ Handed = 1
 Price = 180
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Purple Ring]
@@ -5438,6 +5578,8 @@ Handed = 1
 Price = 1750
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [PoisonMoth Ring]
@@ -5455,6 +5597,8 @@ Handed = 1
 Price = 3800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Horn Bug Ring]
@@ -5472,6 +5616,8 @@ Handed = 1
 Price = 6000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Silver Fly Ring]
@@ -5489,6 +5635,8 @@ Handed = 1
 Price = 9200
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Raven Ring]
@@ -5506,6 +5654,8 @@ Handed = 1
 Price = 12500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Raven Ring-1]
@@ -5523,6 +5673,8 @@ Handed = 1
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Kynes Ring]
@@ -5540,6 +5692,8 @@ Handed = 1
 Price = 15600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Neosnake Ring]
@@ -5557,6 +5711,8 @@ Handed = 1
 Price = 18690
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Neosnake Ring-1]
@@ -5574,6 +5730,8 @@ Handed = 1
 Price = 186900
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Kaizen Ring]
@@ -5591,6 +5749,8 @@ Handed = 1
 Price = 30050
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Kaizen Ring-1]
@@ -5608,6 +5768,8 @@ Handed = 1
 Price = 300500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Vulcan ring]
@@ -5625,6 +5787,8 @@ Handed = 1
 Price = 36400
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Phoenix Ring]
@@ -5642,6 +5806,8 @@ Handed = 1
 Price = 428000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Phoenix Ring-1]
@@ -5659,6 +5825,8 @@ Handed = 1
 Price = 42800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Griffon Ring]
@@ -5676,6 +5844,8 @@ Handed = 1
 Price = 56000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Sphinx Ring]
@@ -5693,6 +5863,8 @@ Handed = 1
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Sphinx Ring-1]
@@ -5710,6 +5882,8 @@ Handed = 1
 Price = 500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Dragon Ring]
@@ -5727,6 +5901,8 @@ Handed = 1
 Price = 70000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Jin Dragon Ring]
@@ -5744,6 +5920,8 @@ Handed = 1
 Price = 70000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Dragon Ring-1]
@@ -5761,6 +5939,8 @@ Handed = 1
 Price = 700000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Dragon Ring-2]
@@ -5778,6 +5958,8 @@ Handed = 1
 Price = 700000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Vulcan ring-1]
@@ -5795,6 +5977,8 @@ Handed = 1
 Price = 100000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Devil Ring]
@@ -5812,6 +5996,8 @@ Handed = 1
 Price = 10000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Jin Devil Ring]
@@ -5829,6 +6015,8 @@ Handed = 1
 Price = 10000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Jin - Devil Ring]
@@ -5846,6 +6034,8 @@ Handed = 1
 Price = 100000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Sarnga]
@@ -5863,6 +6053,8 @@ Handed = 1
 Price = 150000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Sarnga-1]
@@ -5880,6 +6072,8 @@ Handed = 1
 Price = 150000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [400lv_Ring]
@@ -5897,6 +6091,8 @@ Handed = 1
 Price = 150000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [GM Ring]
@@ -5914,6 +6110,8 @@ Handed = 1
 Price = 40
 SizeX = 2
 SizeY = 2
+Upgradable = 1
+Upgradable = 1
 Class = equipment.RingWeapon
 
 [Electric Gun]
@@ -5931,6 +6129,7 @@ Handed = 2
 Price = 0
 SizeX = 0
 SizeY = 0
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Bio Rifle]
@@ -5948,6 +6147,7 @@ Handed = 2
 Price = 125300
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Pascal Rifle]
@@ -5965,6 +6165,7 @@ Handed = 2
 Price = 204900
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Xylo Gun]
@@ -5982,6 +6183,7 @@ Handed = 2
 Price = 324000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Sigma Rifle]
@@ -5999,6 +6201,7 @@ Handed = 2
 Price = 399300
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Wave Rifle]
@@ -6016,6 +6219,7 @@ Handed = 2
 Price = 500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Jin Matrix]
@@ -6033,6 +6237,7 @@ Handed = 2
 Price = 95000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Matrix Rifle]
@@ -6050,6 +6255,7 @@ Handed = 2
 Price = 950000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [squirtguntow]
@@ -6067,6 +6273,7 @@ Handed = 1
 Price = 100000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Jin Crumble Gun]
@@ -6084,6 +6291,7 @@ Handed = 2
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Brionac]
@@ -6101,6 +6309,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Brionac-1]
@@ -6118,6 +6327,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [400lv_Gun]
@@ -6135,6 +6345,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Shot Gun]
@@ -6152,6 +6363,7 @@ Handed = 1
 Price = 30
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Tornado Rifle_sa]
@@ -6169,6 +6381,7 @@ Handed = 2
 Price = 4
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Air Hand Gun]
@@ -6186,6 +6399,7 @@ Handed = 1
 Price = 650
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Power Gun]
@@ -6203,6 +6417,7 @@ Handed = 1
 Price = 1100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Air Gun]
@@ -6220,6 +6435,7 @@ Handed = 2
 Price = 2000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Ranger]
@@ -6237,6 +6453,7 @@ Handed = 1
 Price = 2950
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Blaster Pistol]
@@ -6254,6 +6471,7 @@ Handed = 1
 Price = 4030
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Laser Shot Gun]
@@ -6271,6 +6489,7 @@ Handed = 2
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Blaster Rifle]
@@ -6288,6 +6507,7 @@ Handed = 2
 Price = 6500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Killer Rifle]
@@ -6305,6 +6525,7 @@ Handed = 2
 Price = 7700
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Machine Gun]
@@ -6322,6 +6543,7 @@ Handed = 1
 Price = 9550
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Bio Rifle-1]
@@ -6339,6 +6561,7 @@ Handed = 2
 Price = 12530
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Plasma Rifle]
@@ -6356,6 +6579,7 @@ Handed = 2
 Price = 16630
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Pascal Rifle-1]
@@ -6373,6 +6597,7 @@ Handed = 2
 Price = 20490
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [M-99]
@@ -6390,6 +6615,7 @@ Handed = 2
 Price = 25650
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Xylo Gun-1]
@@ -6407,6 +6633,7 @@ Handed = 2
 Price = 32400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Sigma Rifle-1]
@@ -6424,6 +6651,7 @@ Handed = 2
 Price = 39930
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Crypto Rifle]
@@ -6441,6 +6669,7 @@ Handed = 2
 Price = 48250
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Tornado Rifle]
@@ -6458,6 +6687,7 @@ Handed = 2
 Price = 68000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Wave Rifle-1]
@@ -6475,6 +6705,7 @@ Handed = 2
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Matrix Rifle-1]
@@ -6492,6 +6723,7 @@ Handed = 2
 Price = 95000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Matrix Rifle-2]
@@ -6509,6 +6741,7 @@ Handed = 2
 Price = 950000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Crumble Gun]
@@ -6526,6 +6759,7 @@ Handed = 2
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Jin - crumble gun]
@@ -6543,6 +6777,7 @@ Handed = 2
 Price = 100000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [SQUIRT GUN]
@@ -6560,6 +6795,7 @@ Handed = 1
 Price = 0
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [squirtguntow-1]
@@ -6577,6 +6813,7 @@ Handed = 1
 Price = 831000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Demi-Crusher]
@@ -6594,6 +6831,7 @@ Handed = 1
 Price = 1000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Demi-crusher-1]
@@ -6611,6 +6849,7 @@ Handed = 1
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [GM Rifle]
@@ -6628,6 +6867,7 @@ Handed = 2
 Price = 1
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.GunWeapon
 
 [Heavy Axe-3]
@@ -6643,6 +6883,7 @@ Handed = 2
 Price = 6666660
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Battle hammer]
@@ -6658,6 +6899,7 @@ Handed = 2
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Battle hammer-1]
@@ -6673,6 +6915,7 @@ Handed = 2
 Price = 500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Reverse hammer]
@@ -6688,6 +6931,7 @@ Handed = 2
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Jin Rev-Hammer]
@@ -6703,6 +6947,7 @@ Handed = 2
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Reverse hammer-1]
@@ -6718,6 +6963,7 @@ Handed = 2
 Price = 1000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Heavy Axe-4]
@@ -6733,6 +6979,7 @@ Handed = 2
 Price = 100000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Spike hammer]
@@ -6748,6 +6995,7 @@ Handed = 2
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Jin Spike]
@@ -6763,6 +7011,7 @@ Handed = 2
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [mjornir]
@@ -6778,6 +7027,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [mjornir-1]
@@ -6793,6 +7043,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [400lv_Hammer]
@@ -6808,6 +7059,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Axe
 
 [Mystical Swords]
@@ -6823,6 +7075,7 @@ Handed = 2
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Mystic dual sword]
@@ -6838,6 +7091,7 @@ Handed = 2
 Price = 500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Grand Swords]
@@ -6853,6 +7107,7 @@ Handed = 2
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Jin Grand Dual]
@@ -6868,6 +7123,7 @@ Handed = 2
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Grand dual sword]
@@ -6883,6 +7139,7 @@ Handed = 2
 Price = 1000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Grand dual sword-1]
@@ -6898,6 +7155,7 @@ Handed = 2
 Price = 1000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Blood Swords]
@@ -6913,6 +7171,7 @@ Handed = 2
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Jin Blood Dual]
@@ -6928,6 +7187,7 @@ Handed = 2
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Jin - blood dual sword]
@@ -6943,6 +7203,7 @@ Handed = 2
 Price = 100000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Vjaya]
@@ -6958,6 +7219,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Vjaya-1]
@@ -6973,6 +7235,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [400lv_Dual Sword]
@@ -6988,6 +7251,7 @@ Handed = 2
 Price = 150000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [GM Dual Sword]
@@ -7003,6 +7267,7 @@ Handed = 2
 Price = 40
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Sword
 
 [Xeno Helmet]
@@ -7015,6 +7280,7 @@ ReqStr = 40
 Price = 3810
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Brino Helmet]
@@ -7027,6 +7293,7 @@ ReqStr = 46
 Price = 6100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Xeno Metal Helmet]
@@ -7039,6 +7306,7 @@ ReqStr = 62
 Price = 10400
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Pahwang Helmet]
@@ -7051,6 +7319,7 @@ ReqStr = 72
 Price = 14880
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Power Metal Helmet]
@@ -7063,6 +7332,7 @@ ReqStr = 84
 Price = 20160
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Blood Helmet]
@@ -7075,6 +7345,7 @@ ReqStr = 90
 Price = 36500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Duke Helmet]
@@ -7087,6 +7358,7 @@ ReqStr = 96
 Price = 56000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K Helmet]
@@ -7100,6 +7372,7 @@ BoltMagicDef = 5
 Price = 60400
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Helm]
@@ -7113,6 +7386,7 @@ VolcanicMagicDef = 6
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bulkan Platinum Helm]
@@ -7126,6 +7400,7 @@ VolcanicMagicDef = 6
 Price = 1000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Teurus Helmet]
@@ -7139,6 +7414,7 @@ StunMagicDef = 7
 Price = 113900
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Meruduke Helmet]
@@ -7152,6 +7428,7 @@ ColdMagicDef = 10
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Franz Helmet]
@@ -7165,6 +7442,7 @@ VolcanicMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Blood Helmet-1]
@@ -7178,6 +7456,7 @@ VolcanicMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [KriegerHelmet]
@@ -7191,6 +7470,7 @@ VolcanicMagicDef = 20
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Infernium Helm]
@@ -7204,6 +7484,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Infernium Helmet]
@@ -7217,6 +7498,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Conic Flame Helmet]
@@ -7230,6 +7512,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Crest Helmet(G)]
@@ -7243,6 +7526,7 @@ VolcanicMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Matis helmet(G)]
@@ -7256,6 +7540,7 @@ VolcanicMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Demios helmet(G)]
@@ -7269,6 +7554,7 @@ VolcanicMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Enpela helmet(G)]
@@ -7282,6 +7568,7 @@ VolcanicMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hurricane Hat]
@@ -7294,6 +7581,7 @@ ReqStr = 16
 Price = 4490
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Cloud Cap]
@@ -7306,6 +7594,7 @@ ReqStr = 18
 Price = 6880
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Tranquility Hat]
@@ -7318,6 +7607,7 @@ ReqStr = 24
 Price = 11070
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Marsh Turban]
@@ -7330,6 +7620,7 @@ ReqStr = 28
 Price = 15000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Flame Crown]
@@ -7342,6 +7633,7 @@ ReqStr = 33
 Price = 19990
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Blizzard Cap]
@@ -7354,6 +7646,7 @@ ReqStr = 38
 Price = 36500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Spell Cap]
@@ -7366,6 +7659,7 @@ ReqStr = 44
 Price = 65990
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K Headset]
@@ -7379,6 +7673,7 @@ BoltMagicDef = 10
 Price = 60400
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Helm-1]
@@ -7392,6 +7687,7 @@ VolcanicMagicDef = 11
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kailipton Platinum Helm]
@@ -7405,6 +7701,7 @@ VolcanicMagicDef = 11
 Price = 1000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Star Soul Mask]
@@ -7418,6 +7715,7 @@ StunMagicDef = 13
 Price = 113900
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Magma Helmet]
@@ -7431,6 +7729,7 @@ ColdMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Luke Helmet]
@@ -7444,6 +7743,7 @@ VolcanicMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mystery Helmet]
@@ -7457,6 +7757,7 @@ VolcanicMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [blazeHelmet]
@@ -7470,6 +7771,7 @@ VolcanicMagicDef = 20
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [conjure Helmet]
@@ -7483,6 +7785,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [conjure Helmet-1]
@@ -7496,6 +7799,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mana Influence Helmet]
@@ -7509,6 +7813,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Purity Hairband]
@@ -7521,6 +7826,7 @@ ReqStr = 15
 Price = 3130
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Prosperity Hat]
@@ -7533,6 +7839,7 @@ ReqStr = 17
 Price = 4900
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mercy Hair Band]
@@ -7545,6 +7852,7 @@ ReqStr = 23
 Price = 8100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hope Hair Band]
@@ -7557,6 +7865,7 @@ ReqStr = 27
 Price = 10780
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Passion Band]
@@ -7569,6 +7878,7 @@ ReqStr = 31
 Price = 14180
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Shadow Helmet]
@@ -7581,6 +7891,7 @@ ReqStr = 33
 Price = 36500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Leopard Helmet]
@@ -7593,6 +7904,7 @@ ReqStr = 35
 Price = 56000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K Headset-1]
@@ -7606,6 +7918,7 @@ BoltMagicDef = 10
 Price = 60400
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Helm-2]
@@ -7619,6 +7932,7 @@ VolcanicMagicDef = 11
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Aidia Platinum Helm]
@@ -7632,6 +7946,7 @@ VolcanicMagicDef = 11
 Price = 1000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Eagle Helmet]
@@ -7645,6 +7960,7 @@ StunMagicDef = 13
 Price = 113900
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Apollo Helmet]
@@ -7658,6 +7974,7 @@ ColdMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bles Helmet]
@@ -7671,6 +7988,7 @@ VolcanicMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Sacred Helmet]
@@ -7684,6 +8002,7 @@ VolcanicMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Isishelmet]
@@ -7697,6 +8016,7 @@ VolcanicMagicDef = 20
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Prairie Helmet]
@@ -7710,6 +8030,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Prairie Helmet-1]
@@ -7723,6 +8044,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Life-Guardian Helmet]
@@ -7736,6 +8058,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Marine Cap]
@@ -7748,6 +8071,7 @@ ReqStr = 20
 Price = 4040
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Scout Helmet]
@@ -7760,6 +8084,7 @@ ReqStr = 23
 Price = 6400
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bulletproof Helmet]
@@ -7772,6 +8097,7 @@ ReqStr = 31
 Price = 10690
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Infantry Helmet]
@@ -7784,6 +8110,7 @@ ReqStr = 36
 Price = 14790
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Heavy Helmet]
@@ -7796,6 +8123,7 @@ ReqStr = 42
 Price = 19870
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bionic Helmet]
@@ -7808,6 +8136,7 @@ ReqStr = 46
 Price = 36500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Aqua Helmet]
@@ -7820,6 +8149,7 @@ ReqStr = 50
 Price = 80100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K Helmet-1]
@@ -7833,6 +8163,7 @@ BoltMagicDef = 12
 Price = 92000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Helm-3]
@@ -7846,6 +8177,7 @@ VolcanicMagicDef = 6
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Human Platinum Helm]
@@ -7859,6 +8191,7 @@ VolcanicMagicDef = 6
 Price = 1000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fire Helmet]
@@ -7872,6 +8205,7 @@ StunMagicDef = 15
 Price = 113900
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Salvation Helm]
@@ -7885,6 +8219,7 @@ ColdMagicDef = 10
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Harces Helmet]
@@ -7898,6 +8233,7 @@ VolcanicMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Harces Helmet-1]
@@ -7911,6 +8247,7 @@ VolcanicMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [VanquishHelmet]
@@ -7924,6 +8261,7 @@ VolcanicMagicDef = 20
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Akat Helmet]
@@ -7937,6 +8275,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Akat Helmet-1]
@@ -7950,6 +8289,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Aegis Helmet]
@@ -7963,6 +8303,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Iron Helmet]
@@ -7975,6 +8316,7 @@ ReqStr = 10
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hair Band]
@@ -7987,6 +8329,7 @@ ReqStr = 6
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Cowl Hat]
@@ -7999,6 +8342,7 @@ ReqStr = 1
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Taeguk Headband]
@@ -8011,6 +8355,7 @@ ReqStr = 1
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Training Band]
@@ -8023,6 +8368,7 @@ ReqStr = 6
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Brince Helmet]
@@ -8035,6 +8381,7 @@ ReqStr = 23
 Price = 300
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Force Cap]
@@ -8047,6 +8394,7 @@ ReqStr = 10
 Price = 350
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Monk Cap]
@@ -8059,6 +8407,7 @@ ReqStr = 10
 Price = 380
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Xeno Helmet-1]
@@ -8071,6 +8420,7 @@ ReqStr = 31
 Price = 800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Warrior Helmet]
@@ -8083,6 +8433,7 @@ ReqStr = 14
 Price = 630
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Skull Helmet]
@@ -8095,6 +8446,7 @@ ReqStr = 26
 Price = 2000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Battle Helmet]
@@ -8107,6 +8459,7 @@ ReqStr = 26
 Price = 3500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fur Cap]
@@ -8119,6 +8472,7 @@ ReqStr = 14
 Price = 1700
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Marine Cap-1]
@@ -8131,6 +8485,7 @@ ReqStr = 10
 Price = 1800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Iron Helmet-1]
@@ -8143,6 +8498,7 @@ ReqStr = 22
 Price = 2090
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hell Helmet]
@@ -8155,6 +8511,7 @@ ReqStr = 38
 Price = 4000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Silk Cap]
@@ -8167,6 +8524,7 @@ ReqStr = 15
 Price = 3900
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bulletproof Helmet-1]
@@ -8179,6 +8537,7 @@ ReqStr = 29
 Price = 10500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Golden Helmet]
@@ -8191,6 +8550,7 @@ ReqStr = 41
 Price = 8700
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Brino Helmet-1]
@@ -8203,6 +8563,7 @@ ReqStr = 44
 Price = 11000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Xeno Helmet-2]
@@ -8215,6 +8576,7 @@ ReqStr = 46
 Price = 12000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Pahwang Helmet-1]
@@ -8227,6 +8589,7 @@ ReqStr = 52
 Price = 20000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [KwangPoc Helmet]
@@ -8239,6 +8602,7 @@ ReqStr = 58
 Price = 32000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Power Helmet]
@@ -8251,6 +8615,7 @@ ReqStr = 65
 Price = 49000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Black K. Helmet]
@@ -8263,6 +8628,7 @@ ReqStr = 37
 Price = 26200
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Leather Band]
@@ -8276,6 +8642,7 @@ BoltMagicDef = 5
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bress helmet]
@@ -8289,6 +8656,7 @@ VolcanicMagicDef = 6
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Death Helmet]
@@ -8302,6 +8670,7 @@ VolcanicMagicDef = 6
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Death Bress helmet]
@@ -8315,6 +8684,7 @@ VolcanicMagicDef = 6
 Price = 1000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hyper helmet]
@@ -8328,6 +8698,7 @@ StunMagicDef = 7
 Price = 113900
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Luminous Helm]
@@ -8341,6 +8712,7 @@ StunMagicDef = 7
 Price = 113900
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Vengeance Helm]
@@ -8354,6 +8726,7 @@ ColdMagicDef = 10
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Vengence helmet]
@@ -8367,6 +8740,7 @@ ColdMagicDef = 10
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Splendor Helmet]
@@ -8380,6 +8754,7 @@ VolcanicMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Jin S-Helmet]
@@ -8393,6 +8768,7 @@ VolcanicMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [FletaHelmet]
@@ -8406,6 +8782,7 @@ VolcanicMagicDef = 20
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [dryad Helmet]
@@ -8419,6 +8796,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [dryad Helmet-1]
@@ -8432,6 +8810,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [BeastSoul Helmet]
@@ -8445,6 +8824,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Human Mask(M)]
@@ -8457,6 +8837,7 @@ ReqStr = 0
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Human Mask(F)]
@@ -8469,6 +8850,7 @@ ReqStr = 0
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Aidia Mask(M)]
@@ -8481,6 +8863,7 @@ ReqStr = 0
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Aidia Mask(F)]
@@ -8493,6 +8876,7 @@ ReqStr = 0
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kailipton Mask(M)]
@@ -8505,6 +8889,7 @@ ReqStr = 0
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kailipton Mask(F)]
@@ -8517,6 +8902,7 @@ ReqStr = 0
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bulkan Mask(M)]
@@ -8529,6 +8915,7 @@ ReqStr = 0
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bulkan Mask(F)]
@@ -8541,6 +8928,7 @@ ReqStr = 0
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Santa Cap]
@@ -8553,6 +8941,7 @@ ReqStr = 8
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K Helmet-2]
@@ -8565,6 +8954,7 @@ ReqStr = 1
 Price = 1
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ninja Mask]
@@ -8577,6 +8967,7 @@ ReqStr = 1
 Price = 1
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Pary Mask]
@@ -8589,6 +8980,7 @@ ReqStr = 1
 Price = 1
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Taekuk Hood]
@@ -8601,6 +8993,7 @@ ReqStr = 1
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Summer Sunnies]
@@ -8613,6 +9006,7 @@ ReqStr = 1
 Price = 1000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Crown]
@@ -8625,6 +9019,7 @@ ReqStr = 1
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Devil Mask]
@@ -8637,6 +9032,7 @@ ReqStr = 0
 Price = 15000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Demon Mask]
@@ -8649,6 +9045,7 @@ ReqStr = 0
 Price = 15000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Skull Mask]
@@ -8661,6 +9058,7 @@ ReqStr = 0
 Price = 15000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Santa Cap-1]
@@ -8673,6 +9071,7 @@ ReqStr = 8
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Antler]
@@ -8685,6 +9084,7 @@ ReqStr = 0
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [B Santa Cap]
@@ -8697,6 +9097,7 @@ ReqStr = 8
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [G Santa Cap]
@@ -8709,6 +9110,7 @@ ReqStr = 8
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Chinese Mask]
@@ -8721,6 +9123,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Cheer Headcloth]
@@ -8733,6 +9136,7 @@ ReqStr = 1
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Pierrot Cap]
@@ -8745,6 +9149,7 @@ ReqStr = 1
 Price = 1
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Crown-1]
@@ -8757,6 +9162,7 @@ ReqStr = 0
 Price = 100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Santa Cap-2]
@@ -8769,6 +9175,7 @@ ReqStr = 8
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid Hair Band]
@@ -8781,6 +9188,7 @@ ReqStr = 5
 Price = 52600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid M-Hair Band]
@@ -8793,6 +9201,7 @@ ReqStr = 5
 Price = 52600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Baseball helmet]
@@ -8805,6 +9214,7 @@ ReqStr = 15
 Price = 1000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Baseball helmet-1]
@@ -8817,6 +9227,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Taekuk Hempen Hood]
@@ -8829,6 +9240,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Penguin_Helmet]
@@ -8841,6 +9253,7 @@ ReqStr = 15
 Price = 30000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Penguin_Helmet-1]
@@ -8853,6 +9266,7 @@ ReqStr = 15
 Price = 30000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Penguin_Helmet-2]
@@ -8865,6 +9279,7 @@ ReqStr = 15
 Price = 30000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Penguin_Helmet-3]
@@ -8877,6 +9292,7 @@ ReqStr = 15
 Price = 30000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Penguin_Helmet-4]
@@ -8889,6 +9305,7 @@ ReqStr = 15
 Price = 30000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Penguin_Helmet-5]
@@ -8901,6 +9318,7 @@ ReqStr = 15
 Price = 30000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Witch Hat]
@@ -8913,6 +9331,7 @@ ReqStr = 10
 Price = 10310
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [pumpkinhead]
@@ -8925,6 +9344,7 @@ ReqStr = 10
 Price = 10310
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [pumpkinhead(G)]
@@ -8937,6 +9357,7 @@ ReqStr = 10
 Price = 10310
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Pink nurse cap]
@@ -8949,6 +9370,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Rabbit Mask(W)]
@@ -8961,6 +9383,7 @@ ReqStr = 5
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Rabbit Mask(B)]
@@ -8973,6 +9396,7 @@ ReqStr = 5
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Rabbit Mask(P)]
@@ -8985,6 +9409,7 @@ ReqStr = 5
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Afro hair]
@@ -8997,6 +9422,7 @@ ReqStr = 5
 Price = 330
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Afro hair-1]
@@ -9009,6 +9435,7 @@ ReqStr = 5
 Price = 3300
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Afro hair-2]
@@ -9021,6 +9448,7 @@ ReqStr = 5
 Price = 3300
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Afro hair-3]
@@ -9033,6 +9461,7 @@ ReqStr = 5
 Price = 3300
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Uniform]
@@ -9045,6 +9474,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Uniform-1]
@@ -9057,6 +9487,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Uniform-2]
@@ -9069,6 +9500,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Taekuk Cloak]
@@ -9081,6 +9513,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Cat s Ear(B)]
@@ -9093,6 +9526,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Cat s Ear(W)]
@@ -9105,6 +9539,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Rudolph Helmet]
@@ -9117,6 +9552,7 @@ ReqStr = 15
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Rudolph Helmet-1]
@@ -9129,6 +9565,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Uniform-3]
@@ -9141,6 +9578,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Panda Helmet(B)]
@@ -9153,6 +9591,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Panda Helmet(P)]
@@ -9165,6 +9604,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Panda Helmet(Y)]
@@ -9177,6 +9617,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Helmet(B)]
@@ -9189,6 +9630,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Helmet(G)]
@@ -9201,6 +9643,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Helmet(P)]
@@ -9213,6 +9656,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Helmet(R)]
@@ -9225,6 +9669,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Helmet(Y)]
@@ -9237,6 +9682,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Panda Helmet(D)]
@@ -9249,6 +9695,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Helmet(B)]
@@ -9261,6 +9708,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Helmet(G)]
@@ -9273,6 +9721,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Helmet(P)]
@@ -9285,6 +9734,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Helmet(Y)]
@@ -9297,6 +9747,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Helmet(D)]
@@ -9309,6 +9760,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Rudolph Helmet-2]
@@ -9321,6 +9773,7 @@ ReqStr = 15
 Price = 3000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White Knight Helmet]
@@ -9333,6 +9786,7 @@ ReqStr = 37
 Price = 26200
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Uniform-4]
@@ -9345,6 +9799,7 @@ ReqStr = 5
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Uniform-5]
@@ -9357,6 +9812,7 @@ ReqStr = 5
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Uniform-6]
@@ -9369,6 +9825,7 @@ ReqStr = 5
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Uniform-7]
@@ -9381,6 +9838,7 @@ ReqStr = 5
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Skull Helmet-1]
@@ -9393,6 +9851,7 @@ ReqStr = 20
 Price = 252500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Skull Helmet-2]
@@ -9405,6 +9864,7 @@ ReqStr = 20
 Price = 252500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Blue K Helmet]
@@ -9417,6 +9877,7 @@ ReqStr = 37
 Price = 262000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Uniform-8]
@@ -9429,6 +9890,7 @@ ReqStr = 5
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bronze Helmet]
@@ -9441,6 +9903,7 @@ ReqStr = 41
 Price = 288200
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Uniform-9]
@@ -9453,6 +9916,7 @@ ReqStr = 55
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Crown-2]
@@ -9465,6 +9929,7 @@ ReqStr = 55
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Silver Helmet]
@@ -9477,6 +9942,7 @@ ReqStr = 46
 Price = 327500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Golden Helmet-1]
@@ -9489,6 +9955,7 @@ ReqStr = 56
 Price = 393000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Skull Helmet-3]
@@ -9501,6 +9968,7 @@ ReqStr = 20
 Price = 1000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Skull Helmet-4]
@@ -9513,6 +9981,7 @@ ReqStr = 20
 Price = 1000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Skull Helmet-5]
@@ -9525,6 +9994,7 @@ ReqStr = 20
 Price = 1000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Skull Helmet-6]
@@ -9537,6 +10007,7 @@ ReqStr = 20
 Price = 1000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Skull Helmet-7]
@@ -9549,6 +10020,7 @@ ReqStr = 20
 Price = 1000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Skull Helmet-8]
@@ -9561,6 +10033,7 @@ ReqStr = 20
 Price = 1000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks helmet]
@@ -9574,6 +10047,7 @@ VolcanicMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks helmet-1]
@@ -9587,6 +10061,7 @@ VolcanicMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Crest Helmet]
@@ -9600,6 +10075,7 @@ VolcanicMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Matis helmet]
@@ -9613,6 +10089,7 @@ VolcanicMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Demios helmet]
@@ -9626,6 +10103,7 @@ VolcanicMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Enpela helmet]
@@ -9639,6 +10117,7 @@ VolcanicMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hero_Helmet]
@@ -9652,6 +10131,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hero_Helmet-1]
@@ -9665,6 +10145,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [DarkHero_Helmet]
@@ -9678,6 +10159,7 @@ VolcanicMagicDef = 25
 Price = 2350000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks helmet(G)]
@@ -9691,6 +10173,7 @@ VolcanicMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks helmet(G)-1]
@@ -9704,6 +10187,7 @@ VolcanicMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Xeno Armor]
@@ -9716,6 +10200,7 @@ ReqStr = 45
 Price = 4450
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Brino Armor]
@@ -9728,6 +10213,7 @@ ReqStr = 52
 Price = 7140
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Xeno Metal Armor]
@@ -9740,6 +10226,7 @@ ReqStr = 70
 Price = 12000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Pahwang Armor]
@@ -9752,6 +10239,7 @@ ReqStr = 81
 Price = 17140
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Power Metal Armor]
@@ -9764,6 +10252,7 @@ ReqStr = 65
 Price = 23180
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Blood Armor]
@@ -9776,6 +10265,7 @@ ReqStr = 109
 Price = 46150
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Duke Armor]
@@ -9788,6 +10278,7 @@ ReqStr = 116
 Price = 47550
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K. Armor]
@@ -9801,6 +10292,7 @@ VolcanicMagicDef = 5
 Price = 78400
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Armor]
@@ -9814,6 +10306,7 @@ ColdMagicDef = 6
 Price = 130000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bulkan Platinum Armor]
@@ -9827,6 +10320,7 @@ ColdMagicDef = 6
 Price = 1300000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Teurus Armor]
@@ -9840,6 +10334,7 @@ BoltMagicDef = 7
 Price = 147800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Meruduke Armor]
@@ -9853,6 +10348,7 @@ StunMagicDef = 10
 Price = 162000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Franz Armor]
@@ -9866,6 +10362,7 @@ ColdMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Blood F Armor]
@@ -9879,6 +10376,7 @@ ColdMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [KriegerArmor]
@@ -9892,6 +10390,7 @@ ColdMagicDef = 20
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Infernium Armor]
@@ -9905,6 +10404,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Infernium Armor-1]
@@ -9918,6 +10418,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Conic Flame Armor]
@@ -9931,6 +10432,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Crest Armor(G)]
@@ -9944,6 +10446,7 @@ ColdMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [matis Armor(G)]
@@ -9957,6 +10460,7 @@ ColdMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Demios Armor(G)]
@@ -9970,6 +10474,7 @@ ColdMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Enpela Armor(G)]
@@ -9983,6 +10488,7 @@ ColdMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hurricane Armor]
@@ -9995,6 +10501,7 @@ ReqStr = 18
 Price = 5100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Cloud Ware]
@@ -10007,6 +10514,7 @@ ReqStr = 20
 Price = 7650
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Tranquil Shirt]
@@ -10019,6 +10527,7 @@ ReqStr = 27
 Price = 12400
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Marsh Ware]
@@ -10031,6 +10540,7 @@ ReqStr = 32
 Price = 17430
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Flame Shirt]
@@ -10043,6 +10553,7 @@ ReqStr = 37
 Price = 22810
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Blizzard Shirt]
@@ -10055,6 +10566,7 @@ ReqStr = 38
 Price = 46150
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Spell Shirt]
@@ -10067,6 +10579,7 @@ ReqStr = 49
 Price = 79880
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K Armor]
@@ -10080,6 +10593,7 @@ VolcanicMagicDef = 10
 Price = 78400
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Armor-1]
@@ -10093,6 +10607,7 @@ ColdMagicDef = 11
 Price = 130000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kailipton Platinum Armor]
@@ -10106,6 +10621,7 @@ ColdMagicDef = 11
 Price = 1300000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Star Soul Suit]
@@ -10119,6 +10635,7 @@ BoltMagicDef = 13
 Price = 147800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Magma Armor]
@@ -10132,6 +10649,7 @@ StunMagicDef = 15
 Price = 162000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Luke Armor]
@@ -10145,6 +10663,7 @@ ColdMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mystery L Armor]
@@ -10158,6 +10677,7 @@ ColdMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [BlazeArmor]
@@ -10171,6 +10691,7 @@ ColdMagicDef = 20
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [conjure Armor]
@@ -10184,6 +10705,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [conjure Armor-1]
@@ -10197,6 +10719,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mana Influence Armor]
@@ -10210,6 +10733,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Purity Shirt]
@@ -10222,6 +10746,7 @@ ReqStr = 17
 Price = 3590
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Shirt of Wealth]
@@ -10234,6 +10759,7 @@ ReqStr = 19
 Price = 5500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mercy Shirt]
@@ -10246,6 +10772,7 @@ ReqStr = 26
 Price = 9130
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hope Shirt]
@@ -10258,6 +10785,7 @@ ReqStr = 30
 Price = 12660
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Passion Shirt]
@@ -10270,6 +10798,7 @@ ReqStr = 35
 Price = 16380
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Shadow Armor]
@@ -10282,6 +10811,7 @@ ReqStr = 39
 Price = 46150
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Leopard Armor]
@@ -10294,6 +10824,7 @@ ReqStr = 41
 Price = 47550
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K. Armor-1]
@@ -10307,6 +10838,7 @@ VolcanicMagicDef = 10
 Price = 78400
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Armor-2]
@@ -10320,6 +10852,7 @@ ColdMagicDef = 11
 Price = 130000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Aidia Platinum Armor]
@@ -10333,6 +10866,7 @@ ColdMagicDef = 11
 Price = 1300000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Eagle Armor]
@@ -10346,6 +10880,7 @@ BoltMagicDef = 13
 Price = 147800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Apollo Armor]
@@ -10359,6 +10894,7 @@ StunMagicDef = 15
 Price = 162000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bles Armor]
@@ -10372,6 +10908,7 @@ ColdMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Sacred Armor]
@@ -10385,6 +10922,7 @@ ColdMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [IsisArmor]
@@ -10398,6 +10936,7 @@ ColdMagicDef = 20
 Price = 2750000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Prairie Armor]
@@ -10411,6 +10950,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Prairie Armor-1]
@@ -10424,6 +10964,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Life-Guardian Armor]
@@ -10437,6 +10978,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Marine Suit]
@@ -10449,6 +10991,7 @@ ReqStr = 22
 Price = 4540
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Scout Suit]
@@ -10461,6 +11004,7 @@ ReqStr = 26
 Price = 7250
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kevlar Suit]
@@ -10473,6 +11017,7 @@ ReqStr = 35
 Price = 12050
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Infantry Suit]
@@ -10485,6 +11030,7 @@ ReqStr = 40
 Price = 17090
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Heavy Suit]
@@ -10497,6 +11043,7 @@ ReqStr = 47
 Price = 22580
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bionic Armor]
@@ -10509,6 +11056,7 @@ ReqStr = 48
 Price = 46150
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Aqua Armor]
@@ -10521,6 +11069,7 @@ ReqStr = 52
 Price = 89000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K. Amour]
@@ -10534,6 +11083,7 @@ VolcanicMagicDef = 5
 Price = 120000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Armor-3]
@@ -10547,6 +11097,7 @@ ColdMagicDef = 6
 Price = 130000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Human Platinum Armor]
@@ -10560,6 +11111,7 @@ ColdMagicDef = 6
 Price = 1300000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fire Armor]
@@ -10573,6 +11125,7 @@ BoltMagicDef = 15
 Price = 147800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Salvation Armor]
@@ -10586,6 +11139,7 @@ StunMagicDef = 18
 Price = 162000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Harces Armor]
@@ -10599,6 +11153,7 @@ ColdMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Harces Armor-1]
@@ -10612,6 +11167,7 @@ ColdMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [VanquishArmor]
@@ -10625,6 +11181,7 @@ ColdMagicDef = 20
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Akat Armor]
@@ -10638,6 +11195,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Akat Armor-1]
@@ -10651,6 +11209,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Aegis Armor]
@@ -10664,6 +11223,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Iron Armor]
@@ -10676,6 +11236,7 @@ ReqStr = 17
 Price = 180
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Brassiere]
@@ -10688,6 +11249,7 @@ ReqStr = 10
 Price = 1
 SizeX = 2
 SizeY = 1
+Upgradable = 1
 Class = equipment.Armor
 
 [Leather Jacket]
@@ -10700,6 +11262,7 @@ ReqStr = 7
 Price = 6
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [training Jacket]
@@ -10712,6 +11275,7 @@ ReqStr = 7
 Price = 60
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Brince Armor]
@@ -10724,6 +11288,7 @@ ReqStr = 26
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Monk Shirt]
@@ -10736,6 +11301,7 @@ ReqStr = 18
 Price = 550
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Force Wear]
@@ -10748,6 +11314,7 @@ ReqStr = 18
 Price = 600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Xeno Armor-1]
@@ -10760,6 +11327,7 @@ ReqStr = 40
 Price = 1600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Warrior Armor]
@@ -10772,6 +11340,7 @@ ReqStr = 16
 Price = 820
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Battle Jacket]
@@ -10784,6 +11353,7 @@ ReqStr = 14
 Price = 1800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bone Armor]
@@ -10796,6 +11366,7 @@ ReqStr = 36
 Price = 2500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fur Shirt]
@@ -10808,6 +11379,7 @@ ReqStr = 18
 Price = 3250
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Marine Suit-1]
@@ -10820,6 +11392,7 @@ ReqStr = 23
 Price = 3900
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Iron Armor-1]
@@ -10832,6 +11405,7 @@ ReqStr = 25
 Price = 2370
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hell Armor]
@@ -10844,6 +11418,7 @@ ReqStr = 50
 Price = 4700
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Silk Wear]
@@ -10856,6 +11431,7 @@ ReqStr = 28
 Price = 7500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kevlar Shirt]
@@ -10868,6 +11444,7 @@ ReqStr = 30
 Price = 8500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Golden Armor]
@@ -10880,6 +11457,7 @@ ReqStr = 52
 Price = 12000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Brino Armor-1]
@@ -10892,6 +11470,7 @@ ReqStr = 55
 Price = 17000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Xeno Armor-2]
@@ -10904,6 +11483,7 @@ ReqStr = 58
 Price = 20000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Pahwang Armor-1]
@@ -10916,6 +11496,7 @@ ReqStr = 68
 Price = 31500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kwangpoc Armor]
@@ -10928,6 +11509,7 @@ ReqStr = 78
 Price = 49000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Power Armor]
@@ -10940,6 +11522,7 @@ ReqStr = 88
 Price = 73000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Black K. Helmet-1]
@@ -10952,6 +11535,7 @@ ReqStr = 42
 Price = 29920
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [kungfu shirt]
@@ -10964,6 +11548,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [chipao shirt(man)]
@@ -10976,6 +11561,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Chipao Shirt(M)]
@@ -10988,6 +11574,7 @@ ReqStr = 5
 Price = 20000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants]
@@ -11000,6 +11587,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [chipao shirt(man)-1]
@@ -11012,6 +11600,7 @@ ReqStr = 5
 Price = 5300
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [chipao shirt(man)-2]
@@ -11024,6 +11613,7 @@ ReqStr = 5
 Price = 53000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-1]
@@ -11036,6 +11626,7 @@ ReqStr = 5
 Price = 7800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Chipao Shirt]
@@ -11048,6 +11639,7 @@ ReqStr = 100
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [W. Bikini Wear]
@@ -11060,6 +11652,7 @@ ReqStr = 5
 Price = 1000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [B. Bikini Wear]
@@ -11072,6 +11665,7 @@ ReqStr = 5
 Price = 1000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-2]
@@ -11084,6 +11678,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Chinese Dress]
@@ -11096,6 +11691,7 @@ ReqStr = 5
 Price = 20000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Suit(W)]
@@ -11108,6 +11704,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Suit(B)]
@@ -11120,6 +11717,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Suit(P)]
@@ -11132,6 +11730,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Suit(S)]
@@ -11144,6 +11743,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Suit(Y)]
@@ -11156,6 +11756,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Suit(W)]
@@ -11168,6 +11769,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Suit(B)]
@@ -11180,6 +11782,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Suit(P)]
@@ -11192,6 +11795,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Suit(S)]
@@ -11204,6 +11808,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Suit(Y)]
@@ -11216,6 +11821,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Nurse Jacket]
@@ -11228,6 +11834,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Taekuk Wing]
@@ -11240,6 +11847,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-3]
@@ -11252,6 +11860,7 @@ ReqStr = 5
 Price = 5300
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-4]
@@ -11264,6 +11873,7 @@ ReqStr = 5
 Price = 53000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-5]
@@ -11276,6 +11886,7 @@ ReqStr = 5
 Price = 7800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [chinese Dress(S)]
@@ -11288,6 +11899,7 @@ ReqStr = 100
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [kungfu shirt-1]
@@ -11300,6 +11912,7 @@ ReqStr = 100
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Leather armor]
@@ -11313,6 +11926,7 @@ VolcanicMagicDef = 5
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bress armor]
@@ -11326,6 +11940,7 @@ ColdMagicDef = 6
 Price = 130000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Death B Armor]
@@ -11339,6 +11954,7 @@ ColdMagicDef = 6
 Price = 130000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Death Bress armor]
@@ -11352,6 +11968,7 @@ ColdMagicDef = 6
 Price = 1300000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hyper armor]
@@ -11365,6 +11982,7 @@ BoltMagicDef = 7
 Price = 147800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Luminous Armor]
@@ -11378,6 +11996,7 @@ BoltMagicDef = 7
 Price = 147800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Vengeance Armor]
@@ -11391,6 +12010,7 @@ StunMagicDef = 10
 Price = 162000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Vengence armor]
@@ -11404,6 +12024,7 @@ StunMagicDef = 10
 Price = 162000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Splendor Armor]
@@ -11417,6 +12038,7 @@ ColdMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Jin S-Armor]
@@ -11430,6 +12052,7 @@ ColdMagicDef = 15
 Price = 125000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [FletaArmor]
@@ -11443,6 +12066,7 @@ ColdMagicDef = 20
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [dryad Armor]
@@ -11456,6 +12080,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [dryad Armor-1]
@@ -11469,6 +12094,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [BeastSoul Armor]
@@ -11482,6 +12108,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Korean Wear]
@@ -11494,6 +12121,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Santa Wear]
@@ -11506,6 +12134,7 @@ ReqStr = 10
 Price = 60
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Korean Wear-1]
@@ -11518,6 +12147,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K Armor-1]
@@ -11530,6 +12160,7 @@ ReqStr = 1
 Price = 1
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kimono Wear]
@@ -11542,6 +12173,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ninja Wear]
@@ -11554,6 +12186,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Party Wear]
@@ -11566,6 +12199,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Tai Shirts]
@@ -11578,6 +12212,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [School Shirts]
@@ -11590,6 +12225,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kimono Wear-1]
@@ -11602,6 +12238,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Summer Shirt]
@@ -11614,6 +12251,7 @@ ReqStr = 5
 Price = 1000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Santa Wear-1]
@@ -11626,6 +12264,7 @@ ReqStr = 10
 Price = 60
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ninja Wear-1]
@@ -11638,6 +12277,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [B Santa Costume]
@@ -11650,6 +12290,7 @@ ReqStr = 10
 Price = 60
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [G Santa Costume]
@@ -11662,6 +12303,7 @@ ReqStr = 10
 Price = 60
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Santa Boots]
@@ -11674,6 +12316,7 @@ ReqStr = 10
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Pierrot Wear]
@@ -11686,6 +12329,7 @@ ReqStr = 1
 Price = 1
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Yellow T-Shirts]
@@ -11698,6 +12342,7 @@ ReqStr = 10
 Price = 600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Santa Wear-2]
@@ -11710,6 +12355,7 @@ ReqStr = 10
 Price = 600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid Costume(D)]
@@ -11722,6 +12368,7 @@ ReqStr = 5
 Price = 59600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid M-Costume(D)]
@@ -11734,6 +12381,7 @@ ReqStr = 5
 Price = 59600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Penguin_Wear]
@@ -11746,6 +12394,7 @@ ReqStr = 15
 Price = 30000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Penguin_Wear-1]
@@ -11758,6 +12407,7 @@ ReqStr = 15
 Price = 30000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Penguin_Wear-2]
@@ -11770,6 +12420,7 @@ ReqStr = 15
 Price = 30000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Penguin_Wear-3]
@@ -11782,6 +12433,7 @@ ReqStr = 15
 Price = 30000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Penguin_Wear-4]
@@ -11794,6 +12446,7 @@ ReqStr = 15
 Price = 30000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Suit(W)-1]
@@ -11806,6 +12459,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Suit(B)-1]
@@ -11818,6 +12472,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Suit(P)-1]
@@ -11830,6 +12485,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Suit(S)-1]
@@ -11842,6 +12498,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Suit(Y)-1]
@@ -11854,6 +12511,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Suit(W)-1]
@@ -11866,6 +12524,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Suit(B)-1]
@@ -11878,6 +12537,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Suit(P)-1]
@@ -11890,6 +12550,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Suit(S)-1]
@@ -11902,6 +12563,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Suit(Y)-1]
@@ -11914,6 +12576,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Rabbit Suit(W)]
@@ -11926,6 +12589,7 @@ ReqStr = 5
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Rabbit Suit(B)]
@@ -11938,6 +12602,7 @@ ReqStr = 5
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Rabbit Suit(P)]
@@ -11950,6 +12615,7 @@ ReqStr = 5
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Suit Shirts]
@@ -11962,6 +12628,7 @@ ReqStr = 10
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Suit]
@@ -11974,6 +12641,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Uniform-10]
@@ -11986,6 +12654,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Uniform-11]
@@ -11998,6 +12667,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-6]
@@ -12010,6 +12680,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-7]
@@ -12022,6 +12693,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [blues lee Pants]
@@ -12034,6 +12706,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Soccer Uniform(KR)]
@@ -12046,6 +12719,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Soccer Uniform(GE)]
@@ -12058,6 +12732,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Soccer Uniform(JP)]
@@ -12070,6 +12745,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Soccer Uniform(BR)]
@@ -12082,6 +12758,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Cheer Shirts]
@@ -12094,6 +12771,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Rudolph Wear]
@@ -12106,6 +12784,7 @@ ReqStr = 15
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Rudolph Costume]
@@ -12118,6 +12797,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Suit(W)]
@@ -12130,6 +12810,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Suit(B)]
@@ -12142,6 +12823,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Suit(P)]
@@ -12154,6 +12836,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Suit(S)]
@@ -12166,6 +12849,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Suit(Y)]
@@ -12178,6 +12862,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Suit(W)-1]
@@ -12190,6 +12875,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Suit(B)-1]
@@ -12202,6 +12888,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Suit(P)-1]
@@ -12214,6 +12901,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Suit(S)-1]
@@ -12226,6 +12914,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Suit(Y)-1]
@@ -12238,6 +12927,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Judo Shirt]
@@ -12250,6 +12940,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [R Judo Shirt]
@@ -12262,6 +12953,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Panda Costume(B)]
@@ -12274,6 +12966,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Panda Costume(P)]
@@ -12286,6 +12979,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Panda Costume(Y)]
@@ -12298,6 +12992,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Costume(B)]
@@ -12310,6 +13005,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Costume(G)]
@@ -12322,6 +13018,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Costume(P)]
@@ -12334,6 +13031,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Costume(R)]
@@ -12346,6 +13044,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Costume(Y)]
@@ -12358,6 +13057,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Panda Costume(D)]
@@ -12370,6 +13070,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Costume(B)]
@@ -12382,6 +13083,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Costume(G)]
@@ -12394,6 +13096,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Costume(P)]
@@ -12406,6 +13109,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Costume(Y)]
@@ -12418,6 +13122,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Costume(D)]
@@ -12430,6 +13135,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Taekwondo Shirt]
@@ -12442,6 +13148,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Lux Cheer Shirt]
@@ -12454,6 +13161,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Rudolph Costume-1]
@@ -12466,6 +13174,7 @@ ReqStr = 15
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid Costume(S)]
@@ -12478,6 +13187,7 @@ ReqStr = 10
 Price = 59600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid Costume(R)]
@@ -12490,6 +13200,7 @@ ReqStr = 10
 Price = 59600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid Costume(P)]
@@ -12502,6 +13213,7 @@ ReqStr = 10
 Price = 59600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid Costume(B)]
@@ -12514,6 +13226,7 @@ ReqStr = 10
 Price = 59600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid M-Costume(S)]
@@ -12526,6 +13239,7 @@ ReqStr = 10
 Price = 59600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid M-Costume(R)]
@@ -12538,6 +13252,7 @@ ReqStr = 10
 Price = 59600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid M-Costume(P)]
@@ -12550,6 +13265,7 @@ ReqStr = 10
 Price = 59600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid M-Costume(B)]
@@ -12562,6 +13278,7 @@ ReqStr = 10
 Price = 59600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White Bikini Wear(female)]
@@ -12574,6 +13291,7 @@ ReqStr = 5
 Price = 30000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White Bikini Wear(female)-1]
@@ -12586,6 +13304,7 @@ ReqStr = 5
 Price = 30000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White Bikini Wear(female)-2]
@@ -12598,6 +13317,7 @@ ReqStr = 5
 Price = 30000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White Knight Armor]
@@ -12610,6 +13330,7 @@ ReqStr = 42
 Price = 29920
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Blue K Armor]
@@ -12622,6 +13343,7 @@ ReqStr = 42
 Price = 299200
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bronze Armor]
@@ -12634,6 +13356,7 @@ ReqStr = 46
 Price = 329100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Uniform-12]
@@ -12646,6 +13369,7 @@ ReqStr = 55
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Silver Armor]
@@ -12658,6 +13382,7 @@ ReqStr = 53
 Price = 421900
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Gold K Armor]
@@ -12670,6 +13395,7 @@ ReqStr = 63
 Price = 448800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks Armor]
@@ -12683,6 +13409,7 @@ ColdMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks Armor-1]
@@ -12696,6 +13423,7 @@ ColdMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Crest Armor]
@@ -12709,6 +13437,7 @@ ColdMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Matis Armor]
@@ -12722,6 +13451,7 @@ ColdMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Demios Armor]
@@ -12735,6 +13465,7 @@ ColdMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Enpela Armor]
@@ -12748,6 +13479,7 @@ ColdMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hero_Armor]
@@ -12761,6 +13493,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hero_Armor-1]
@@ -12774,6 +13507,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [DarkHero_Armor]
@@ -12787,6 +13521,7 @@ ColdMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks Armor(G)]
@@ -12800,6 +13535,7 @@ ColdMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks Armor(G)-1]
@@ -12813,6 +13549,7 @@ ColdMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Xeno Pants]
@@ -12825,6 +13562,7 @@ ReqStr = 50
 Price = 5280
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Brino Pants]
@@ -12837,6 +13575,7 @@ ReqStr = 58
 Price = 7350
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Xeno Metal Pants]
@@ -12849,6 +13588,7 @@ ReqStr = 78
 Price = 13670
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Pahwang Pants]
@@ -12861,6 +13601,7 @@ ReqStr = 91
 Price = 19470
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Power Metal Pants]
@@ -12873,6 +13614,7 @@ ReqStr = 106
 Price = 26750
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Blood Pants]
@@ -12885,6 +13627,7 @@ ReqStr = 123
 Price = 52000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Duke Pants]
@@ -12897,6 +13640,7 @@ ReqStr = 129
 Price = 63520
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [White K. Pants]
@@ -12910,6 +13654,7 @@ ColdMagicDef = 5
 Price = 87200
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Legs]
@@ -12923,6 +13668,7 @@ StunMagicDef = 6
 Price = 150000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Bulkan Platinum Trouser]
@@ -12936,6 +13682,7 @@ StunMagicDef = 6
 Price = 1500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Teurus Pants]
@@ -12949,6 +13696,7 @@ VolcanicMagicDef = 7
 Price = 164400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Meruduke Pants]
@@ -12962,6 +13710,7 @@ BoltMagicDef = 10
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Franz Pants]
@@ -12975,6 +13724,7 @@ StunMagicDef = 15
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Blood F Pants]
@@ -12988,6 +13738,7 @@ StunMagicDef = 15
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [KriegerPants]
@@ -13001,6 +13752,7 @@ StunMagicDef = 20
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Infernium Pants]
@@ -13014,6 +13766,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Infernium Pants-1]
@@ -13027,6 +13780,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Conic Flame Pants]
@@ -13040,6 +13794,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Crest Pants(G)]
@@ -13053,6 +13808,7 @@ StunMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Matis Pants(G)]
@@ -13066,6 +13822,7 @@ StunMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Demios Pants(G)]
@@ -13079,6 +13836,7 @@ StunMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Enpela Pants(G)]
@@ -13092,6 +13850,7 @@ StunMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Hurricane Skirt]
@@ -13104,6 +13863,7 @@ ReqStr = 20
 Price = 5960
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Cloud Pants]
@@ -13116,6 +13876,7 @@ ReqStr = 23
 Price = 7880
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Tranquil Skirt]
@@ -13128,6 +13889,7 @@ ReqStr = 31
 Price = 14140
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Marsh Skirt]
@@ -13140,6 +13902,7 @@ ReqStr = 36
 Price = 19500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Flame Skirt]
@@ -13152,6 +13915,7 @@ ReqStr = 42
 Price = 26140
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Blizzard Pants]
@@ -13164,6 +13928,7 @@ ReqStr = 48
 Price = 52000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Spell Pants]
@@ -13176,6 +13941,7 @@ ReqStr = 54
 Price = 85090
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [White K Pants]
@@ -13189,6 +13955,7 @@ ColdMagicDef = 10
 Price = 87200
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Legs-1]
@@ -13202,6 +13969,7 @@ StunMagicDef = 11
 Price = 150000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Kailipton Platinum Trouser]
@@ -13215,6 +13983,7 @@ StunMagicDef = 11
 Price = 1500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Star Soul Pants]
@@ -13228,6 +13997,7 @@ VolcanicMagicDef = 13
 Price = 164400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Magma Pants]
@@ -13241,6 +14011,7 @@ BoltMagicDef = 15
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Luke Pants]
@@ -13254,6 +14025,7 @@ StunMagicDef = 15
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Myster L Pants]
@@ -13267,6 +14039,7 @@ StunMagicDef = 15
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [BlazePants]
@@ -13280,6 +14053,7 @@ StunMagicDef = 20
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [conjure Pants]
@@ -13293,6 +14067,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [conjure Pants-1]
@@ -13306,6 +14081,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Mana Influence Pants]
@@ -13319,6 +14095,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Purity Pants]
@@ -13331,6 +14108,7 @@ ReqStr = 19
 Price = 4250
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Pants of Wealth]
@@ -13343,6 +14121,7 @@ ReqStr = 22
 Price = 5690
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Mercy Pants]
@@ -13355,6 +14134,7 @@ ReqStr = 30
 Price = 10200
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Hope Pants]
@@ -13367,6 +14147,7 @@ ReqStr = 34
 Price = 14280
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Passion Pants]
@@ -13379,6 +14160,7 @@ ReqStr = 40
 Price = 18950
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Shadow Pants]
@@ -13391,6 +14173,7 @@ ReqStr = 42
 Price = 52000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Leopard Pants]
@@ -13403,6 +14186,7 @@ ReqStr = 44
 Price = 63520
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [White K. Pants-1]
@@ -13416,6 +14200,7 @@ ColdMagicDef = 10
 Price = 87200
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Legs-2]
@@ -13429,6 +14214,7 @@ StunMagicDef = 11
 Price = 150000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Aidia Platinum Trouser]
@@ -13442,6 +14228,7 @@ StunMagicDef = 11
 Price = 1500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Eagle Pants]
@@ -13455,6 +14242,7 @@ VolcanicMagicDef = 13
 Price = 164400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Apollo Pants]
@@ -13468,6 +14256,7 @@ BoltMagicDef = 15
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Bles Pants]
@@ -13481,6 +14270,7 @@ StunMagicDef = 15
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Sacred Pants]
@@ -13494,6 +14284,7 @@ StunMagicDef = 15
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [IsislPants]
@@ -13507,6 +14298,7 @@ StunMagicDef = 20
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Prairie Pants]
@@ -13520,6 +14312,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Prairie Pants-1]
@@ -13533,6 +14326,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Life-Guardian Pants]
@@ -13546,6 +14340,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Xeno Pants-1]
@@ -13558,6 +14353,7 @@ ReqStr = 35
 Price = 1200
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Marine Pants]
@@ -13570,6 +14366,7 @@ ReqStr = 25
 Price = 5380
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Scout Pants]
@@ -13582,6 +14379,7 @@ ReqStr = 29
 Price = 7380
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Bulletproof Pants]
@@ -13594,6 +14392,7 @@ ReqStr = 39
 Price = 13480
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Infantry Pants]
@@ -13606,6 +14405,7 @@ ReqStr = 45
 Price = 19140
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Heavy Pants]
@@ -13618,6 +14418,7 @@ ReqStr = 53
 Price = 25830
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Bionic Pants]
@@ -13630,6 +14431,7 @@ ReqStr = 55
 Price = 52000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Aqua Pants]
@@ -13642,6 +14444,7 @@ ReqStr = 59
 Price = 93000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [White K. Pants-2]
@@ -13655,6 +14458,7 @@ ColdMagicDef = 5
 Price = 140000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Legs-3]
@@ -13668,6 +14472,7 @@ StunMagicDef = 13
 Price = 150000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Human Platinum Trouser]
@@ -13681,6 +14486,7 @@ StunMagicDef = 13
 Price = 1500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Fire Pants]
@@ -13694,6 +14500,7 @@ VolcanicMagicDef = 7
 Price = 164400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Salvation Pants]
@@ -13707,6 +14514,7 @@ BoltMagicDef = 18
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Harces Pants]
@@ -13720,6 +14528,7 @@ StunMagicDef = 15
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Harces Pants-1]
@@ -13733,6 +14542,7 @@ StunMagicDef = 15
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [VanquishPants]
@@ -13746,6 +14556,7 @@ StunMagicDef = 20
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Akat Pants]
@@ -13759,6 +14570,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Akat Pants-1]
@@ -13772,6 +14584,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Aegis Pants]
@@ -13785,6 +14598,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Iron Pants]
@@ -13797,6 +14611,7 @@ ReqStr = 12
 Price = 150
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Leather Pants]
@@ -13809,6 +14624,7 @@ ReqStr = 8
 Price = 7
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Taeguk Skirt]
@@ -13821,6 +14637,7 @@ ReqStr = 1
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Training Pants]
@@ -13833,6 +14650,7 @@ ReqStr = 8
 Price = 70
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Monk Pants]
@@ -13845,6 +14663,7 @@ ReqStr = 12
 Price = 250
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Force Trousers]
@@ -13857,6 +14676,7 @@ ReqStr = 15
 Price = 250
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Brince Pants]
@@ -13869,6 +14689,7 @@ ReqStr = 20
 Price = 400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Warrior Pants]
@@ -13881,6 +14702,7 @@ ReqStr = 18
 Price = 1050
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Battle Pants]
@@ -13893,6 +14715,7 @@ ReqStr = 15
 Price = 1600
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Fur Pants]
@@ -13905,6 +14728,7 @@ ReqStr = 15
 Price = 2500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Bone Protector]
@@ -13917,6 +14741,7 @@ ReqStr = 32
 Price = 2800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Marine Pants-1]
@@ -13929,6 +14754,7 @@ ReqStr = 15
 Price = 3200
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Iron Pants-1]
@@ -13941,6 +14767,7 @@ ReqStr = 28
 Price = 2860
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Hell Pants]
@@ -13953,6 +14780,7 @@ ReqStr = 45
 Price = 4400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Silk Legs]
@@ -13965,6 +14793,7 @@ ReqStr = 15
 Price = 6000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Kevlar Legs]
@@ -13977,6 +14806,7 @@ ReqStr = 18
 Price = 7500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Golden Pants]
@@ -13989,6 +14819,7 @@ ReqStr = 46
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Brino Pants-1]
@@ -14001,6 +14832,7 @@ ReqStr = 49
 Price = 15000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Xeno Pants-2]
@@ -14013,6 +14845,7 @@ ReqStr = 50
 Price = 18000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Pahwang Pants-1]
@@ -14025,6 +14858,7 @@ ReqStr = 54
 Price = 20000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Kwangpoc Pants]
@@ -14037,6 +14871,7 @@ ReqStr = 61
 Price = 37000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Power Pants]
@@ -14049,6 +14884,7 @@ ReqStr = 68
 Price = 46000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Black K. Pants]
@@ -14061,6 +14897,7 @@ ReqStr = 47
 Price = 33750
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Swimming Trunks]
@@ -14073,6 +14910,7 @@ ReqStr = 5
 Price = 1000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Speedo Pants]
@@ -14085,6 +14923,7 @@ ReqStr = 5
 Price = 1000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [kungfu pants]
@@ -14097,6 +14936,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-8]
@@ -14109,6 +14949,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Chipao Pants(M)]
@@ -14121,6 +14962,7 @@ ReqStr = 5
 Price = 20000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-9]
@@ -14133,6 +14975,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-10]
@@ -14145,6 +14988,7 @@ ReqStr = 5
 Price = 6500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-11]
@@ -14157,6 +15001,7 @@ ReqStr = 5
 Price = 65000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-12]
@@ -14169,6 +15014,7 @@ ReqStr = 5
 Price = 8200
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Chipao pants]
@@ -14181,6 +15027,7 @@ ReqStr = 100
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [W. Bikini Pants]
@@ -14193,6 +15040,7 @@ ReqStr = 5
 Price = 1000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [B. Bikini Pants]
@@ -14205,6 +15053,7 @@ ReqStr = 5
 Price = 1000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-13]
@@ -14217,6 +15066,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Chinese Skirt]
@@ -14229,6 +15079,7 @@ ReqStr = 5
 Price = 20000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Pants(W)]
@@ -14241,6 +15092,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Pants(B)]
@@ -14253,6 +15105,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Pants(P)]
@@ -14265,6 +15118,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Pants(S)]
@@ -14277,6 +15131,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Pants(Y)]
@@ -14289,6 +15144,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Pants(W)]
@@ -14301,6 +15157,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Pants(B)]
@@ -14313,6 +15170,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Pants(P)]
@@ -14325,6 +15183,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Pants(S)]
@@ -14337,6 +15196,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Pants(Y)]
@@ -14349,6 +15209,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Nurse Pants]
@@ -14361,6 +15222,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Taeguk Kite Shield]
@@ -14373,6 +15235,7 @@ ReqStr = 1
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-14]
@@ -14385,6 +15248,7 @@ ReqStr = 5
 Price = 6500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-15]
@@ -14397,6 +15261,7 @@ ReqStr = 5
 Price = 65000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-16]
@@ -14409,6 +15274,7 @@ ReqStr = 5
 Price = 8200
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Chinese Dress(P)]
@@ -14421,6 +15287,7 @@ ReqStr = 100
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [kungfu pants-1]
@@ -14433,6 +15300,7 @@ ReqStr = 100
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Leather pants-1]
@@ -14446,6 +15314,7 @@ ColdMagicDef = 5
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Bress pants]
@@ -14459,6 +15328,7 @@ StunMagicDef = 6
 Price = 150000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Death B Pants]
@@ -14472,6 +15342,7 @@ StunMagicDef = 6
 Price = 150000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Death Bress pants]
@@ -14485,6 +15356,7 @@ StunMagicDef = 6
 Price = 1500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Hyper pants]
@@ -14498,6 +15370,7 @@ VolcanicMagicDef = 7
 Price = 164400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Luminous Pants]
@@ -14511,6 +15384,7 @@ VolcanicMagicDef = 7
 Price = 164400
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Vengeance Pants]
@@ -14524,6 +15398,7 @@ BoltMagicDef = 10
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Vengence pants]
@@ -14537,6 +15412,7 @@ BoltMagicDef = 10
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Splendor Pants]
@@ -14550,6 +15426,7 @@ StunMagicDef = 15
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Jin S-Pants]
@@ -14563,6 +15440,7 @@ StunMagicDef = 15
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [FletaPants]
@@ -14576,6 +15454,7 @@ StunMagicDef = 20
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [dryad Pants]
@@ -14589,6 +15468,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [dryad Pants-1]
@@ -14602,6 +15482,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [BeastSoul Pants]
@@ -14615,6 +15496,7 @@ StunMagicDef = 25
 Price = 3000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Korean Pants]
@@ -14627,6 +15509,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Santa Pants]
@@ -14639,6 +15522,7 @@ ReqStr = 9
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Korean Pants-1]
@@ -14651,6 +15535,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [White K Pants-1]
@@ -14663,6 +15548,7 @@ ReqStr = 1
 Price = 1
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Kimono Pants]
@@ -14675,6 +15561,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Ninja Pants]
@@ -14687,6 +15574,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Party Pants]
@@ -14699,6 +15587,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [School Pants]
@@ -14711,6 +15600,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Tai Pants]
@@ -14723,6 +15613,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Taekuk Skirt]
@@ -14735,6 +15626,7 @@ ReqStr = 1
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Kimono Pants-1]
@@ -14747,6 +15639,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Summer Pants]
@@ -14759,6 +15652,7 @@ ReqStr = 5
 Price = 1000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Santa Pants-1]
@@ -14771,6 +15665,7 @@ ReqStr = 9
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Ninja Pants-1]
@@ -14783,6 +15678,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [B Santa Pants]
@@ -14795,6 +15691,7 @@ ReqStr = 9
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [G Santa Pants]
@@ -14807,6 +15704,7 @@ ReqStr = 9
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [redsanta_skirt]
@@ -14819,6 +15717,7 @@ ReqStr = 10
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Pierrot Pants]
@@ -14831,6 +15730,7 @@ ReqStr = 1
 Price = 1
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Santa Pants-2]
@@ -14843,6 +15743,7 @@ ReqStr = 9
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid Pants(D)]
@@ -14855,6 +15756,7 @@ ReqStr = 5
 Price = 55600
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid M-Pants(D)]
@@ -14867,6 +15769,7 @@ ReqStr = 5
 Price = 55600
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Penguin_Pants]
@@ -14879,6 +15782,7 @@ ReqStr = 15
 Price = 30000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Pants(W)-1]
@@ -14891,6 +15795,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Pants(B)-1]
@@ -14903,6 +15808,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Pants(P)-1]
@@ -14915,6 +15821,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Pants(S)-1]
@@ -14927,6 +15834,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [G-Fish Pants(Y)-1]
@@ -14939,6 +15847,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Pants(W)-1]
@@ -14951,6 +15860,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Pants(B)-1]
@@ -14963,6 +15873,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Pants(P)-1]
@@ -14975,6 +15886,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Pants(S)-1]
@@ -14987,6 +15899,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Fan Pants(Y)-1]
@@ -14999,6 +15912,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [pumpkinpants]
@@ -15011,6 +15925,7 @@ ReqStr = 20
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [pumpkinpants(G)]
@@ -15023,6 +15938,7 @@ ReqStr = 20
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Rabbit Pants(W)]
@@ -15035,6 +15951,7 @@ ReqStr = 5
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Rabbit Pants(B)]
@@ -15047,6 +15964,7 @@ ReqStr = 5
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Rabbit Pants(P)]
@@ -15059,6 +15977,7 @@ ReqStr = 5
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Suit Pants]
@@ -15071,6 +15990,7 @@ ReqStr = 10
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-17]
@@ -15083,6 +16003,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-18]
@@ -15095,6 +16016,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-19]
@@ -15107,6 +16029,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-20]
@@ -15119,6 +16042,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-21]
@@ -15131,6 +16055,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [blues lee Pants-1]
@@ -15143,6 +16068,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Soccer Pants(KR)]
@@ -15155,6 +16081,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Soccer Pants(GE)]
@@ -15167,6 +16094,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Soccer Pants(JP)]
@@ -15179,6 +16107,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Soccer Pants(BR)]
@@ -15191,6 +16120,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Cheer Pants]
@@ -15203,6 +16133,7 @@ ReqStr = 5
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Rudolph Pants]
@@ -15215,6 +16146,7 @@ ReqStr = 15
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Rudolph Pants-1]
@@ -15227,6 +16159,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Judo Pants]
@@ -15239,6 +16172,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [R Judo Pants]
@@ -15251,6 +16185,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Panda Pants(B)]
@@ -15263,6 +16198,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Panda Pants(P)]
@@ -15275,6 +16211,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Panda Pants(Y)]
@@ -15287,6 +16224,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Pants(B)]
@@ -15299,6 +16237,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Pants(G)]
@@ -15311,6 +16250,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Pants(P)]
@@ -15323,6 +16263,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Pants(R)]
@@ -15335,6 +16276,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Snowman Pants(Y)]
@@ -15347,6 +16289,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Panda Pants(D)]
@@ -15359,6 +16302,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Pants(B)]
@@ -15371,6 +16315,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Pants(G)]
@@ -15383,6 +16328,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Pants(P)]
@@ -15395,6 +16341,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Pants(Y)]
@@ -15407,6 +16354,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Kappa Pants(D)]
@@ -15419,6 +16367,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Taekwondo Pants]
@@ -15431,6 +16380,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Luxury Jeans]
@@ -15443,6 +16393,7 @@ ReqStr = 5
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Rudolph Pants-2]
@@ -15455,6 +16406,7 @@ ReqStr = 15
 Price = 2500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Pants(W)]
@@ -15467,6 +16419,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Pants(B)]
@@ -15479,6 +16432,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Pants(P)]
@@ -15491,6 +16445,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Pants(S)]
@@ -15503,6 +16458,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Pants(Y)]
@@ -15515,6 +16471,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Pants(W)-1]
@@ -15527,6 +16484,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Pants(B)-1]
@@ -15539,6 +16497,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Pants(P)-1]
@@ -15551,6 +16510,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Pants(S)-1]
@@ -15563,6 +16523,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Mini Pants(Y)-1]
@@ -15575,6 +16536,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid Pants(S)]
@@ -15587,6 +16549,7 @@ ReqStr = 10
 Price = 55600
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid Pants(P)]
@@ -15599,6 +16562,7 @@ ReqStr = 10
 Price = 55600
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid Pants(B)]
@@ -15611,6 +16575,7 @@ ReqStr = 10
 Price = 55600
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid Pants(R)]
@@ -15623,6 +16588,7 @@ ReqStr = 10
 Price = 55600
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid M-Pants(S)]
@@ -15635,6 +16601,7 @@ ReqStr = 10
 Price = 55600
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid M-Pants(R)]
@@ -15647,6 +16614,7 @@ ReqStr = 10
 Price = 55600
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid M-Pants(P)]
@@ -15659,6 +16627,7 @@ ReqStr = 10
 Price = 55600
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid M-Pants(B)]
@@ -15671,6 +16640,7 @@ ReqStr = 10
 Price = 55600
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [White Bikini Pants(female)]
@@ -15683,6 +16653,7 @@ ReqStr = 5
 Price = 300000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [White Bikini Pants(female)-1]
@@ -15695,6 +16666,7 @@ ReqStr = 5
 Price = 300000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [White Bikini Pants(female)-2]
@@ -15707,6 +16679,7 @@ ReqStr = 5
 Price = 300000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [White Knight Pants]
@@ -15719,6 +16692,7 @@ ReqStr = 47
 Price = 33750
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Blue K Pants]
@@ -15731,6 +16705,7 @@ ReqStr = 47
 Price = 337500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Bronze Pants]
@@ -15743,6 +16718,7 @@ ReqStr = 52
 Price = 371300
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-22]
@@ -15755,6 +16731,7 @@ ReqStr = 55
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Silver Pants]
@@ -15767,6 +16744,7 @@ ReqStr = 59
 Price = 421900
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Gold K Pants]
@@ -15779,6 +16757,7 @@ ReqStr = 71
 Price = 506300
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks Pants]
@@ -15792,6 +16771,7 @@ StunMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks Pants-1]
@@ -15805,6 +16785,7 @@ StunMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Crest Pants]
@@ -15818,6 +16799,7 @@ StunMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Matis Pants]
@@ -15831,6 +16813,7 @@ StunMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Demios Pants]
@@ -15844,6 +16827,7 @@ StunMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Enpela Pants]
@@ -15857,6 +16841,7 @@ StunMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Hero_Legs]
@@ -15870,6 +16855,7 @@ StunMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Hero_Legs-1]
@@ -15883,6 +16869,7 @@ StunMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [DarkHero_Legs]
@@ -15896,6 +16883,7 @@ StunMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks Pants(G)]
@@ -15909,6 +16897,7 @@ StunMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks Pants(G)-1]
@@ -15922,6 +16911,7 @@ StunMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Armor
 
 [Meta Cape]
@@ -15934,6 +16924,7 @@ ReqStr = 20
 Price = 1000000
 SizeX = 2
 SizeY = 3
+Upgradable = 0
 Class = equipment.Mantle
 
 [Hi-Meta Cape]
@@ -15946,6 +16937,7 @@ ReqStr = 20
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 0
 Class = equipment.Mantle
 
 [Taekuk Wing-1]
@@ -15958,6 +16950,7 @@ ReqStr = 5
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Basic Wing]
@@ -15970,6 +16963,7 @@ ReqStr = 0
 Price = 0
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Taeguk Wing]
@@ -15982,6 +16976,7 @@ ReqStr = 5
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [USA Wing]
@@ -15994,6 +16989,7 @@ ReqStr = 1
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [africa_sul wing]
@@ -16006,6 +17002,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [alemanha wing]
@@ -16018,6 +17015,7 @@ ReqStr = 1
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [A-Saudita Wing]
@@ -16030,6 +17028,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [argentina wing]
@@ -16042,6 +17041,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [australia wing]
@@ -16054,6 +17054,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [belgica wing]
@@ -16066,6 +17067,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [bolivia wing]
@@ -16078,6 +17080,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [brazil wing]
@@ -16090,6 +17093,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [bulgaria wing]
@@ -16102,6 +17106,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [canada wing]
@@ -16114,6 +17119,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [chile wing]
@@ -16126,6 +17132,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [china wing]
@@ -16138,6 +17145,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [colombia wing]
@@ -16150,6 +17158,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [croacia wing]
@@ -16162,6 +17171,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [dinamarca wing]
@@ -16174,6 +17184,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [egito wing]
@@ -16186,6 +17197,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [equador wing]
@@ -16198,6 +17210,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [escocia wing]
@@ -16210,6 +17223,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [espanha wing]
@@ -16222,6 +17236,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [franca wing]
@@ -16234,6 +17249,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [gales wing]
@@ -16246,6 +17262,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Bretan Wing]
@@ -16258,6 +17275,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [holanda wing]
@@ -16270,6 +17288,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [hungria wing]
@@ -16282,6 +17301,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [italia wing]
@@ -16294,6 +17314,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [iugoslavia wing]
@@ -16306,6 +17327,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [japan wing]
@@ -16318,6 +17340,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [kaos_b wing]
@@ -16330,6 +17353,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [kaos_w wing]
@@ -16342,6 +17366,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [marrocos wing]
@@ -16354,6 +17379,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [mexico wing]
@@ -16366,6 +17392,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [nigeria wing]
@@ -16378,6 +17405,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [noruega wing]
@@ -16390,6 +17418,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [paraguai wing]
@@ -16402,6 +17431,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [peru wing]
@@ -16414,6 +17444,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [polonia wing]
@@ -16426,6 +17457,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [portugal wing]
@@ -16438,6 +17470,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [rep_theca wing]
@@ -16450,6 +17483,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [romenia wing]
@@ -16462,6 +17496,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [russia wing]
@@ -16474,6 +17509,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [servia wing]
@@ -16486,6 +17522,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [suecia wing]
@@ -16498,6 +17535,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [suica wing]
@@ -16510,6 +17548,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [suriname wing]
@@ -16522,6 +17561,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [turkia wing]
@@ -16534,6 +17574,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [ukrania wing]
@@ -16546,6 +17587,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [uruguai wing]
@@ -16558,6 +17600,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [usa wing-1]
@@ -16570,6 +17613,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [venezuela wing]
@@ -16582,6 +17626,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Spirit Wing]
@@ -16594,6 +17639,7 @@ ReqStr = 5
 Price = 1000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Wing of Hero]
@@ -16606,6 +17652,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Lake Wing]
@@ -16618,6 +17665,7 @@ ReqStr = 7
 Price = 1400
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Purity Wing]
@@ -16630,6 +17678,7 @@ ReqStr = 10
 Price = 1800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Prosperity Wing]
@@ -16642,6 +17691,7 @@ ReqStr = 11
 Price = 2000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Mercy Wing]
@@ -16654,6 +17704,7 @@ ReqStr = 15
 Price = 4000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Hope Wing]
@@ -16666,6 +17717,7 @@ ReqStr = 17
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Passion Wing]
@@ -16678,6 +17730,7 @@ ReqStr = 20
 Price = 6600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Cape of yellow dragon]
@@ -16690,6 +17743,7 @@ ReqStr = 5
 Price = 35000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Cape of yellow dragon-1]
@@ -16702,6 +17756,7 @@ ReqStr = 5
 Price = 5000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [2009 Cape]
@@ -16714,6 +17769,7 @@ ReqStr = 65
 Price = 1800000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Darkness Wing]
@@ -16726,6 +17782,7 @@ ReqStr = 21
 Price = 18000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Sky Wing]
@@ -16738,6 +17795,7 @@ ReqStr = 23
 Price = 29000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Haeven Wing]
@@ -16750,6 +17808,7 @@ ReqStr = 24
 Price = 55000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Cape of yellow dragon-2]
@@ -16762,6 +17821,7 @@ ReqStr = 35
 Price = 93500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Aidia Meta Wing]
@@ -16774,6 +17834,7 @@ ReqStr = 20
 Price = 1000000
 SizeX = 2
 SizeY = 3
+Upgradable = 0
 Class = equipment.Wing
 
 [Cape of yellow dragon-3]
@@ -16786,6 +17847,7 @@ ReqStr = 65
 Price = 180000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Wing
 
 [Hi-Light Wing]
@@ -16798,6 +17860,7 @@ ReqStr = 20
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 0
 Class = equipment.Wing
 
 [Human Meta Cape]
@@ -16810,6 +17873,7 @@ ReqStr = 20
 Price = 1000000
 SizeX = 2
 SizeY = 3
+Upgradable = 0
 Class = equipment.Mantle
 
 [Taeguk Cloak]
@@ -16822,6 +17886,7 @@ ReqStr = 5
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Hybrid Muffler]
@@ -16834,6 +17899,7 @@ ReqStr = 59
 Price = 1000000
 SizeX = 2
 SizeY = 3
+Upgradable = 0
 Class = equipment.Mantle
 
 [Hybrid Muffler-1]
@@ -16846,6 +17912,7 @@ ReqStr = 59
 Price = 10000000
 SizeX = 2
 SizeY = 3
+Upgradable = 0
 Class = equipment.Mantle
 
 [Meta Cape-1]
@@ -16858,6 +17925,7 @@ ReqStr = 20
 Price = 1000000
 SizeX = 2
 SizeY = 3
+Upgradable = 0
 Class = equipment.Mantle
 
 [Red Cloak]
@@ -16870,6 +17938,7 @@ ReqStr = 2
 Price = 1000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Red Dragon Cape]
@@ -16882,6 +17951,7 @@ ReqStr = 2
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Dragon Cape (Y)]
@@ -16894,6 +17964,7 @@ ReqStr = 2
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Taekuk Cloak-1]
@@ -16906,6 +17977,7 @@ ReqStr = 5
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Bulkan Cloak]
@@ -16918,6 +17990,7 @@ ReqStr = 5
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Green Cloak]
@@ -16930,6 +18003,7 @@ ReqStr = 2
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Blue Cloak]
@@ -16942,6 +18016,7 @@ ReqStr = 2
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Yellow Cloak]
@@ -16954,6 +18029,7 @@ ReqStr = 2
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [USA Cloak]
@@ -16966,6 +18042,7 @@ ReqStr = 1
 Price = 50
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [africa_sul]
@@ -16978,6 +18055,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [alemanha cape]
@@ -16990,6 +18068,7 @@ ReqStr = 1
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [A-Saudita Cape]
@@ -17002,6 +18081,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [argentina cape]
@@ -17014,6 +18094,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [australia cape]
@@ -17026,6 +18107,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [belgica cape]
@@ -17038,6 +18120,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [bolivia cape]
@@ -17050,6 +18133,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [brazil cape]
@@ -17062,6 +18146,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [bulgaria cape]
@@ -17074,6 +18159,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [canada cape]
@@ -17086,6 +18172,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [chile cape]
@@ -17098,6 +18185,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [china cape]
@@ -17110,6 +18198,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [colombia cape]
@@ -17122,6 +18211,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [croacia cape]
@@ -17134,6 +18224,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [dinamarca cape]
@@ -17146,6 +18237,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [egito cape]
@@ -17158,6 +18250,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [equador cape]
@@ -17170,6 +18263,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [escocia cape]
@@ -17182,6 +18276,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [espanha cape]
@@ -17194,6 +18289,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [franca cape]
@@ -17206,6 +18302,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [gales cape]
@@ -17218,6 +18315,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Bretan Cape]
@@ -17230,6 +18328,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [holanda cape]
@@ -17242,6 +18341,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [hungria cape]
@@ -17254,6 +18354,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [italia cape]
@@ -17266,6 +18367,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [iugoslavia cape]
@@ -17278,6 +18380,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [japan cape]
@@ -17290,6 +18393,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [kaos_b cape]
@@ -17302,6 +18406,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [kaos_w cape]
@@ -17314,6 +18419,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [marrocos cape]
@@ -17326,6 +18432,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [mexico cape]
@@ -17338,6 +18445,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [nigeria cape]
@@ -17350,6 +18458,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [noruega cape]
@@ -17362,6 +18471,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [paraguai cape]
@@ -17374,6 +18484,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [peru cape]
@@ -17386,6 +18497,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [polonia cape]
@@ -17398,6 +18510,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [portugal cape]
@@ -17410,6 +18523,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [rep_theca cape]
@@ -17422,6 +18536,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [romenia cape]
@@ -17434,6 +18549,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [russia cape]
@@ -17446,6 +18562,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [servia cape]
@@ -17458,6 +18575,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [suecia cape]
@@ -17470,6 +18588,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [suica cape]
@@ -17482,6 +18601,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [suriname cape]
@@ -17494,6 +18614,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [turkia cape]
@@ -17506,6 +18627,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [ukrania cape]
@@ -17518,6 +18640,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [uruguai cape]
@@ -17530,6 +18653,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [usa cape]
@@ -17542,6 +18666,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [venezuela cape]
@@ -17554,6 +18679,7 @@ ReqStr = 1
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Tiger Mantle]
@@ -17566,6 +18692,7 @@ ReqStr = 10
 Price = 800
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Mantle of Hero]
@@ -17578,6 +18705,7 @@ ReqStr = 5
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Hurricane Cloak]
@@ -17590,6 +18718,7 @@ ReqStr = 10
 Price = 3000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Peace Mantle]
@@ -17602,6 +18731,7 @@ ReqStr = 10
 Price = 4500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Wiseman Mantle]
@@ -17614,6 +18744,7 @@ ReqStr = 10
 Price = 6000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Darkness Mantle]
@@ -17626,6 +18757,7 @@ ReqStr = 12
 Price = 10000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Ancient Mantle]
@@ -17638,6 +18770,7 @@ ReqStr = 10
 Price = 12000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Ancient Mantle-1]
@@ -17650,6 +18783,7 @@ ReqStr = 10
 Price = 120000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Blood Mantle]
@@ -17662,6 +18796,7 @@ ReqStr = 12
 Price = 15000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Sun Mantle]
@@ -17674,6 +18809,7 @@ ReqStr = 13
 Price = 20000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Veteran Mantle]
@@ -17686,6 +18822,7 @@ ReqStr = 15
 Price = 25000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Golden Mantle]
@@ -17698,6 +18835,7 @@ ReqStr = 19
 Price = 30000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Cape of yellow dragon-4]
@@ -17710,6 +18848,7 @@ ReqStr = 5
 Price = 35000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Cape of yellow dragon-5]
@@ -17722,6 +18861,7 @@ ReqStr = 5
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [2009 Wing]
@@ -17734,6 +18874,7 @@ ReqStr = 65
 Price = 1800000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Blizzard Cloak]
@@ -17746,6 +18887,7 @@ ReqStr = 22
 Price = 45000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [White K. Cloak]
@@ -17758,6 +18900,7 @@ ReqStr = 24
 Price = 55000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Cape of yellow dragon-6]
@@ -17770,6 +18913,7 @@ ReqStr = 35
 Price = 93500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Cape of yellow dragon-7]
@@ -17782,6 +18926,7 @@ ReqStr = 65
 Price = 180000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Flag (Coolrain)]
@@ -18058,6 +19203,7 @@ ReqStr = 2
 Price = 200
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [W. Japan Cloak]
@@ -18070,6 +19216,7 @@ ReqStr = 5
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [B. Japan Cloak]
@@ -18082,6 +19229,7 @@ ReqStr = 5
 Price = 500
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [8th Anniv. Cape]
@@ -18094,6 +19242,7 @@ ReqStr = 2
 Price = 200
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [8th Anniversary cape]
@@ -18106,6 +19255,7 @@ ReqStr = 2
 Price = 200
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Phone]
@@ -18118,6 +19268,7 @@ ReqStr = 1
 Price = 10
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Cape of yellow dragon-8]
@@ -18130,6 +19281,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Cape of yellow dragon-9]
@@ -18142,6 +19294,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Cape of yellow dragon-10]
@@ -18154,6 +19307,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Kappa_Cape]
@@ -18166,6 +19320,7 @@ ReqStr = 15
 Price = 50000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [thunder drum]
@@ -18178,6 +19333,7 @@ ReqStr = 25
 Price = 3500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Mantle
 
 [Vampire Cape]
@@ -18190,6 +19346,7 @@ ReqStr = 12
 Price = 99990
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Cape of yellow dragon-11]
@@ -18202,6 +19359,7 @@ ReqStr = 5
 Price = 300000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Cape of yellow dragon-12]
@@ -18214,6 +19372,7 @@ ReqStr = 5
 Price = 222000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Cape of yellow dragon-13]
@@ -18226,6 +19385,7 @@ ReqStr = 5
 Price = 222000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Cape of yellow dragon-14]
@@ -18238,6 +19398,7 @@ ReqStr = 5
 Price = 222000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Mantle
 
 [Xeno Shoes]
@@ -18250,6 +19411,7 @@ ReqStr = 35
 Price = 3300
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Brino Shoes]
@@ -18262,6 +19424,7 @@ ReqStr = 40
 Price = 5200
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Xeno Metal Boots]
@@ -18274,6 +19437,7 @@ ReqStr = 54
 Price = 8980
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Pahwang Boots]
@@ -18286,6 +19450,7 @@ ReqStr = 63
 Price = 12850
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Power Metal Boots]
@@ -18298,6 +19463,7 @@ ReqStr = 74
 Price = 17390
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Blood Boots]
@@ -18310,6 +19476,7 @@ ReqStr = 80
 Price = 36500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Duke Shoes]
@@ -18322,6 +19489,7 @@ ReqStr = 86
 Price = 46200
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K. Boots]
@@ -18335,6 +19503,7 @@ StunMagicDef = 5
 Price = 50600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Boots]
@@ -18348,6 +19517,7 @@ BoltMagicDef = 6
 Price = 85000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bulkan Platinum Boots]
@@ -18361,6 +19531,7 @@ BoltMagicDef = 6
 Price = 850000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Teurus Boots]
@@ -18374,6 +19545,7 @@ ColdMagicDef = 7
 Price = 93500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Meruduke Boots]
@@ -18387,6 +19559,7 @@ VolcanicMagicDef = 10
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Franz Boots]
@@ -18400,6 +19573,7 @@ BoltMagicDef = 15
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Blood F Boots]
@@ -18413,6 +19587,7 @@ BoltMagicDef = 15
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [KriegerBoots]
@@ -18426,6 +19601,7 @@ BoltMagicDef = 20
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Infernium Boots]
@@ -18439,6 +19615,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Infernium Boots-1]
@@ -18452,6 +19629,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Conic Flame Boots]
@@ -18465,6 +19643,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Crest Boots(G)]
@@ -18478,6 +19657,7 @@ BoltMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Matis Boots(G)]
@@ -18491,6 +19671,7 @@ BoltMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Demios Boots(G)]
@@ -18504,6 +19685,7 @@ BoltMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Enpela Boots(G)]
@@ -18517,6 +19699,7 @@ BoltMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hurricane Shoes]
@@ -18529,6 +19712,7 @@ ReqStr = 14
 Price = 4000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Cloud Shoes]
@@ -18541,6 +19725,7 @@ ReqStr = 16
 Price = 5960
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Tranquil Shoes]
@@ -18553,6 +19738,7 @@ ReqStr = 21
 Price = 9570
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Marsh Shoes]
@@ -18565,6 +19751,7 @@ ReqStr = 25
 Price = 13200
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Flame Shoes]
@@ -18577,6 +19764,7 @@ ReqStr = 29
 Price = 17400
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Blizzard Shoes]
@@ -18589,6 +19777,7 @@ ReqStr = 34
 Price = 36500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Spell Shoes]
@@ -18601,6 +19790,7 @@ ReqStr = 40
 Price = 65790
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K Boots]
@@ -18614,6 +19804,7 @@ StunMagicDef = 10
 Price = 50600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Boots-1]
@@ -18627,6 +19818,7 @@ BoltMagicDef = 11
 Price = 85000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kailipton Platinum Boots]
@@ -18640,6 +19832,7 @@ BoltMagicDef = 11
 Price = 850000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Star Soul Boots]
@@ -18653,6 +19846,7 @@ ColdMagicDef = 13
 Price = 93500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Magma Boots]
@@ -18666,6 +19860,7 @@ VolcanicMagicDef = 15
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Luke Boots]
@@ -18679,6 +19874,7 @@ BoltMagicDef = 15
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mystery L Boots]
@@ -18692,6 +19888,7 @@ BoltMagicDef = 15
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [BlazeBoots]
@@ -18705,6 +19902,7 @@ BoltMagicDef = 20
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [conjure Boots]
@@ -18718,6 +19916,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [conjure Boots-1]
@@ -18731,6 +19930,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mana Influence Boots]
@@ -18744,6 +19944,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Purity Shoes]
@@ -18756,6 +19957,7 @@ ReqStr = 13
 Price = 2760
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Shoes of Wealth]
@@ -18768,6 +19970,7 @@ ReqStr = 15
 Price = 4200
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Mercy Shoes]
@@ -18780,6 +19983,7 @@ ReqStr = 20
 Price = 6930
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hope Shoes]
@@ -18792,6 +19996,7 @@ ReqStr = 24
 Price = 9370
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Passion Shoes]
@@ -18804,6 +20009,7 @@ ReqStr = 27
 Price = 12160
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Shadow Boots]
@@ -18816,6 +20022,7 @@ ReqStr = 29
 Price = 36500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Leopard Boots]
@@ -18828,6 +20035,7 @@ ReqStr = 31
 Price = 46200
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K. Boots-1]
@@ -18841,6 +20049,7 @@ StunMagicDef = 10
 Price = 50600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Boots-2]
@@ -18854,6 +20063,7 @@ BoltMagicDef = 11
 Price = 85000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Aidia Platinum Boots]
@@ -18867,6 +20077,7 @@ BoltMagicDef = 11
 Price = 850000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Eagle Boots]
@@ -18880,6 +20091,7 @@ ColdMagicDef = 13
 Price = 93500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Apollo Boots]
@@ -18893,6 +20105,7 @@ VolcanicMagicDef = 15
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bles Boots]
@@ -18906,6 +20119,7 @@ BoltMagicDef = 15
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Sacred Boots]
@@ -18919,6 +20133,7 @@ BoltMagicDef = 15
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [IsisBoots]
@@ -18932,6 +20147,7 @@ BoltMagicDef = 20
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Prairie Boots]
@@ -18945,6 +20161,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Prairie Boots-1]
@@ -18958,6 +20175,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Life-Guardian Boots]
@@ -18971,6 +20189,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Marine Shoes]
@@ -18983,6 +20202,7 @@ ReqStr = 17
 Price = 3530
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Scout Shoes]
@@ -18995,6 +20215,7 @@ ReqStr = 20
 Price = 5700
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kevlar Boots]
@@ -19007,6 +20228,7 @@ ReqStr = 27
 Price = 9260
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Infantry Boots]
@@ -19019,6 +20241,7 @@ ReqStr = 31
 Price = 13030
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Heavy Boots]
@@ -19031,6 +20254,7 @@ ReqStr = 37
 Price = 17410
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bionic Boots]
@@ -19043,6 +20267,7 @@ ReqStr = 45
 Price = 36500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Aqua Boots]
@@ -19055,6 +20280,7 @@ ReqStr = 49
 Price = 78040
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K. Boots-2]
@@ -19068,6 +20294,7 @@ StunMagicDef = 12
 Price = 80000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Platinum Boots-3]
@@ -19081,6 +20308,7 @@ BoltMagicDef = 13
 Price = 85000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Human Platinum Boots]
@@ -19094,6 +20322,7 @@ BoltMagicDef = 13
 Price = 850000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fire Boots]
@@ -19107,6 +20336,7 @@ ColdMagicDef = 7
 Price = 93500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Salvation Boots]
@@ -19120,6 +20350,7 @@ VolcanicMagicDef = 10
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Harces Boots]
@@ -19133,6 +20364,7 @@ BoltMagicDef = 15
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Harces Boots-1]
@@ -19146,6 +20378,7 @@ BoltMagicDef = 15
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [VanquishBoots]
@@ -19159,6 +20392,7 @@ BoltMagicDef = 20
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Akat Boots]
@@ -19172,6 +20406,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Akat Boots-1]
@@ -19185,6 +20420,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Aegis Boots]
@@ -19198,6 +20434,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Iron Boots]
@@ -19210,6 +20447,7 @@ ReqStr = 10
 Price = 30
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Leather Boots]
@@ -19222,6 +20460,7 @@ ReqStr = 5
 Price = 40
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Training Boots]
@@ -19234,6 +20473,7 @@ ReqStr = 5
 Price = 400
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Brince Shoes]
@@ -19246,6 +20486,7 @@ ReqStr = 16
 Price = 200
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Monk Shoes]
@@ -19258,6 +20499,7 @@ ReqStr = 12
 Price = 200
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Force Shoes]
@@ -19270,6 +20512,7 @@ ReqStr = 13
 Price = 370
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Xeno Shoes-1]
@@ -19282,6 +20525,7 @@ ReqStr = 26
 Price = 600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Warrior Boots]
@@ -19294,6 +20538,7 @@ ReqStr = 12
 Price = 490
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Battle Boots]
@@ -19306,6 +20551,7 @@ ReqStr = 15
 Price = 1500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bone Boots]
@@ -19318,6 +20564,7 @@ ReqStr = 23
 Price = 1800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Fur Shoes]
@@ -19330,6 +20577,7 @@ ReqStr = 15
 Price = 1700
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Marine Shoes-1]
@@ -19342,6 +20590,7 @@ ReqStr = 18
 Price = 2000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Iron Boots-1]
@@ -19354,6 +20603,7 @@ ReqStr = 19
 Price = 1770
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hell Boots]
@@ -19366,6 +20616,7 @@ ReqStr = 31
 Price = 3600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Silk Shoes]
@@ -19378,6 +20629,7 @@ ReqStr = 18
 Price = 3300
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kevlar Shoes]
@@ -19390,6 +20642,7 @@ ReqStr = 20
 Price = 3900
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Golden Boots]
@@ -19402,6 +20655,7 @@ ReqStr = 33
 Price = 7000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Brino Boots]
@@ -19414,6 +20668,7 @@ ReqStr = 35
 Price = 8000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Xene Boots]
@@ -19426,6 +20681,7 @@ ReqStr = 36
 Price = 10000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Pahwang Boots-1]
@@ -19438,6 +20694,7 @@ ReqStr = 41
 Price = 13000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Kwangpoc Boots]
@@ -19450,6 +20707,7 @@ ReqStr = 45
 Price = 15000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Power Boots]
@@ -19462,6 +20720,7 @@ ReqStr = 50
 Price = 18000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Black K. Boots]
@@ -19474,6 +20733,7 @@ ReqStr = 32
 Price = 22180
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Leather boots-1]
@@ -19487,6 +20747,7 @@ StunMagicDef = 5
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bress boots]
@@ -19500,6 +20761,7 @@ BoltMagicDef = 6
 Price = 85000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Death B Boots]
@@ -19513,6 +20775,7 @@ BoltMagicDef = 6
 Price = 85000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Death Bress boots]
@@ -19526,6 +20789,7 @@ BoltMagicDef = 6
 Price = 850000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hyper boots]
@@ -19539,6 +20803,7 @@ ColdMagicDef = 7
 Price = 93500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Luminous Boots]
@@ -19552,6 +20817,7 @@ ColdMagicDef = 7
 Price = 93500
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Vengeance Boots]
@@ -19565,6 +20831,7 @@ VolcanicMagicDef = 10
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Vengence boots]
@@ -19578,6 +20845,7 @@ VolcanicMagicDef = 10
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Splendor Boots]
@@ -19591,6 +20859,7 @@ BoltMagicDef = 15
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Jin S-Boots]
@@ -19604,6 +20873,7 @@ BoltMagicDef = 15
 Price = 102000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [FletaBoots]
@@ -19617,6 +20887,7 @@ BoltMagicDef = 20
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [dryad Boots]
@@ -19630,6 +20901,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [dryad Boots-1]
@@ -19643,6 +20915,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [BeastSoul Boots]
@@ -19656,6 +20929,7 @@ BoltMagicDef = 25
 Price = 2000000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White K Boots-1]
@@ -19668,6 +20942,7 @@ ReqStr = 1
 Price = 1
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Summer Sandals]
@@ -19680,6 +20955,7 @@ ReqStr = 20
 Price = 1000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Santa Costume]
@@ -19692,6 +20968,7 @@ ReqStr = 9
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Pierrot Boots]
@@ -19704,6 +20981,7 @@ ReqStr = 1
 Price = 1
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid Boots(D)]
@@ -19716,6 +20994,7 @@ ReqStr = 5
 Price = 52600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid M-Boots(D)]
@@ -19728,6 +21007,7 @@ ReqStr = 5
 Price = 52600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Shoes]
@@ -19740,6 +21020,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Shoes-1]
@@ -19752,6 +21033,7 @@ ReqStr = 5
 Price = 100
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid Boots(W)]
@@ -19764,6 +21046,7 @@ ReqStr = 10
 Price = 52600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Maid M-Boots(W)]
@@ -19776,6 +21059,7 @@ ReqStr = 10
 Price = 52600
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [White Knight Boots]
@@ -19788,6 +21072,7 @@ ReqStr = 32
 Price = 22180
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Blue K Boots]
@@ -19800,6 +21085,7 @@ ReqStr = 32
 Price = 221800
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Bronze Boots]
@@ -19812,6 +21098,7 @@ ReqStr = 35
 Price = 244000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Red Angel Pants-23]
@@ -19824,6 +21111,7 @@ ReqStr = 55
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Silver Boots]
@@ -19836,6 +21124,7 @@ ReqStr = 40
 Price = 277000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Gold K Boots]
@@ -19848,6 +21137,7 @@ ReqStr = 48
 Price = 332700
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks Boots]
@@ -19861,6 +21151,7 @@ BoltMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks Boots-1]
@@ -19874,6 +21165,7 @@ BoltMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Crest Boots]
@@ -19887,6 +21179,7 @@ BoltMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Matis Boots]
@@ -19900,6 +21193,7 @@ BoltMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Demios Boots]
@@ -19913,6 +21207,7 @@ BoltMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Enpela Boots]
@@ -19926,6 +21221,7 @@ BoltMagicDef = 16
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hero_Boots]
@@ -19939,6 +21235,7 @@ BoltMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Hero_Boots-1]
@@ -19952,6 +21249,7 @@ BoltMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [DarkHero_Boots]
@@ -19965,6 +21263,7 @@ BoltMagicDef = 25
 Price = 2500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks Boots(G)]
@@ -19978,6 +21277,7 @@ BoltMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Ecriks Boots(G)-1]
@@ -19991,6 +21291,7 @@ BoltMagicDef = 25
 Price = 100000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Armor
 
 [Meta Shield]
@@ -20005,6 +21306,7 @@ ResistenceAll = 0.05	# value in %
 Price = 1000000
 SizeX = 2
 SizeY = 2
+Upgradable = 0
 Class = equipment.Shield
 
 [Hi-Meta Shield]
@@ -20020,6 +21322,7 @@ MagicDef = 0.04	# value in %
 Price = 10000000
 SizeX = 2
 SizeY = 2
+Upgradable = 0
 Class = equipment.Shield
 
 [Meta Shield-1]
@@ -20034,6 +21337,7 @@ MagicDef = 0.10	# value in %
 Price = 1000000
 SizeX = 2
 SizeY = 2
+Upgradable = 0
 Class = equipment.Shield
 
 [Hi-Meta Shield-1]
@@ -20048,6 +21352,7 @@ MagicDef = 0.10	# value in %
 Price = 10000000
 SizeX = 2
 SizeY = 2
+Upgradable = 0
 Class = equipment.Shield
 
 [Hybrid Shield]
@@ -20061,6 +21366,7 @@ ResistenceAll = 0.05	# value in %
 Price = 1000000
 SizeX = 2
 SizeY = 2
+Upgradable = 0
 Class = equipment.Shield
 
 [Hybrid Shield-1]
@@ -20075,6 +21381,7 @@ MagicDef = 0.04	# value in %
 Price = 10000000
 SizeX = 2
 SizeY = 2
+Upgradable = 0
 Class = equipment.Shield
 
 [Aegis of Wind]
@@ -20088,6 +21395,7 @@ MagicDef = 0.80	# value in %
 Price = 100000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Shield
 
 [Aegis of Earth]
@@ -20101,6 +21409,7 @@ MagicDef = 0.80	# value in %
 Price = 100000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Shield
 
 [Aegis of Fire]
@@ -20114,6 +21423,7 @@ MagicDef = 0.80	# value in %
 Price = 100000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Shield
 
 [Aegis of Seas]
@@ -20127,6 +21437,7 @@ MagicDef = 0.80	# value in %
 Price = 100000000
 SizeX = 2
 SizeY = 3
+Upgradable = 1
 Class = equipment.Shield
 
 [Taeguk Shield]
@@ -20140,6 +21451,7 @@ MagicDef = 0.01	# value in %
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Shield
 
 [Taeguk Shield-1]
@@ -20153,6 +21465,7 @@ MagicDef = 0.01	# value in %
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Shield
 
 [Iron Shield]
@@ -20165,6 +21478,7 @@ ReqStr = 19
 Price = 320
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Shield
 
 [Brince Shield]
@@ -20177,6 +21491,7 @@ ReqStr = 27
 Price = 660
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Shield
 
 [Xeno Shield]
@@ -20189,6 +21504,7 @@ ReqStr = 36
 Price = 1730
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Shield
 
 [Skull Shield]
@@ -20201,6 +21517,7 @@ ReqStr = 28
 Price = 4210
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Shield
 
 [Hell Shield]
@@ -20213,6 +21530,7 @@ ReqStr = 53
 Price = 8110
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Shield
 
 [Golden Shield]
@@ -20225,6 +21543,7 @@ ReqStr = 59
 Price = 15090
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Shield
 
 [USA Shield]
@@ -20238,6 +21557,7 @@ MagicDef = 0.01	# value in %
 Price = 50
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Shield
 
 [hanging lantern]
@@ -20251,6 +21571,7 @@ ResistenceAll = 0.05	# value in %
 Price = 54000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Shield
 
 [Kourinn Shield]
@@ -20264,6 +21585,7 @@ ResistenceAll = 0.05	# value in %
 Price = 500000
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Shield
 
 [Crusader Shield]
@@ -20278,6 +21600,7 @@ MagicDef = 0.07	# value in %
 Price = 10
 SizeX = 2
 SizeY = 2
+Upgradable = 1
 Class = equipment.Shield
 
 [2K Day Pendant]
@@ -20290,6 +21613,7 @@ ReqStr = 1
 Price = 500000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Tensi Necklace]
@@ -20302,6 +21626,7 @@ ReqStr = 1
 Price = 500
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Tency Necklace]
@@ -20314,6 +21639,7 @@ ReqStr = 1
 Price = 60000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Life Amulet]
@@ -20326,6 +21652,7 @@ ReqStr = 1
 Price = 1000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Magic Amulet]
@@ -20338,6 +21665,7 @@ ReqStr = 1
 Price = 1000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Stamina Amulet]
@@ -20350,6 +21678,7 @@ ReqStr = 1
 Price = 1000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Electric Amulet]
@@ -20362,6 +21691,7 @@ ReqStr = 1
 Price = 1000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Life Necklace]
@@ -20374,6 +21704,7 @@ ReqStr = 1
 Price = 1000000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Necklace of Des]
@@ -20386,6 +21717,7 @@ ReqStr = 1
 Price = 1000000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Adult Necklace]
@@ -20398,6 +21730,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Life Amulet-1]
@@ -20410,6 +21743,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Magic Amulet(G)]
@@ -20422,6 +21756,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Electric Amulet-1]
@@ -20434,6 +21769,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [8th An. Pendant]
@@ -20446,6 +21782,7 @@ ReqStr = 1
 Price = 500000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Alpha Necklace]
@@ -20458,6 +21795,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [8th pendant]
@@ -20470,6 +21808,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Hero necklace]
@@ -20482,6 +21821,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Life Amulet-2]
@@ -20494,6 +21834,7 @@ ReqStr = 1
 Price = 2000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Stamina Amulet-1]
@@ -20506,6 +21847,7 @@ ReqStr = 1
 Price = 2000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Hero s necklace]
@@ -20518,6 +21860,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Necklace
 
 [Tency Blessing]
@@ -20530,6 +21873,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Titan Ring]
@@ -20542,6 +21886,7 @@ ReqStr = 1
 Price = 1000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Athens Ring]
@@ -20554,6 +21899,7 @@ ReqStr = 1
 Price = 1000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Hercules Ring]
@@ -20566,6 +21912,7 @@ ReqStr = 1
 Price = 1000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Artemis Ring]
@@ -20578,6 +21925,7 @@ ReqStr = 1
 Price = 1000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Zues Ring]
@@ -20590,6 +21938,7 @@ ReqStr = 1
 Price = 10
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Love Ring]
@@ -20602,6 +21951,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Ring of Age]
@@ -20614,6 +21964,7 @@ ReqStr = 1
 Price = 500
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Warrior Ring]
@@ -20626,6 +21977,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Ring of Life]
@@ -20638,6 +21990,7 @@ ReqStr = 1
 Price = 1000000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Ring of Destr.]
@@ -20650,6 +22003,7 @@ ReqStr = 1
 Price = 1000000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Zeus Finger Ring]
@@ -20662,6 +22016,7 @@ ReqStr = 1
 Price = 100
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Titan Finger Ring]
@@ -20674,6 +22029,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Artemis Finger Ring]
@@ -20686,6 +22042,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Athens Ring-1]
@@ -20698,6 +22055,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Hercules Ring-1]
@@ -20710,6 +22068,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Ring of Artemis]
@@ -20722,6 +22081,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Shiny Ring]
@@ -20734,6 +22094,7 @@ ReqStr = 10
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Shadow Ring]
@@ -20746,6 +22107,7 @@ ReqStr = 10
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Bright Red Ring]
@@ -20758,6 +22120,7 @@ ReqStr = 10
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Bright Blue Ring]
@@ -20770,6 +22133,7 @@ ReqStr = 10
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Bright Green Ring]
@@ -20782,6 +22146,7 @@ ReqStr = 10
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Champions Ring]
@@ -20794,6 +22159,7 @@ ReqStr = 1
 Price = 1000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Shiny Ring-1]
@@ -20806,6 +22172,7 @@ ReqStr = 10
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Blue Ring]
@@ -20818,6 +22185,7 @@ ReqStr = 10
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Shiny Ring-2]
@@ -20830,6 +22198,7 @@ ReqStr = 10
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Hercules Finger Ring]
@@ -20842,6 +22211,7 @@ ReqStr = 1
 Price = 2000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Zeus Finger Ring-1]
@@ -20854,6 +22224,7 @@ ReqStr = 1
 Price = 2000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Bright Red Ring-1]
@@ -20866,6 +22237,7 @@ ReqStr = 10
 Price = 100000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Ring Relic Lv.1]
@@ -20878,6 +22250,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Ring Relic Lv.2]
@@ -20890,6 +22263,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Lords Ring]
@@ -20902,6 +22276,7 @@ ReqStr = 1
 Price = 1000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Ring Relic Lv.3]
@@ -20914,6 +22289,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Green Ring]
@@ -20926,6 +22302,7 @@ ReqStr = 10
 Price = 200000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Ring Relic Lv.4]
@@ -20938,6 +22315,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Shadow Ring-1]
@@ -20950,6 +22328,7 @@ ReqStr = 10
 Price = 300000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Ring Relic Lv.5]
@@ -20962,6 +22341,7 @@ ReqStr = 1
 Price = 10000
 SizeX = 1
 SizeY = 1
+Upgradable = 1
 Class = equipment.Ring
 
 [Alchemy Bracelet]
@@ -21851,6 +23231,33 @@ SizeX = 1
 SizeY = 1
 Price = 0
 Class = etc.Lime
+
+[Low level personal shop certificate]
+ID = 1348
+MainType = 26
+ReqStr = 1
+SizeX = 1
+SizeY = 1
+Price = 1000
+Class = etc.PersonalShopCertificate
+
+[Middle level personal shop certificate]
+ID = 1349
+MainType = 26
+ReqStr = 1
+SizeX = 1
+SizeY = 1
+Price = 1500
+Class = etc.PersonalShopCertificate
+
+[High level personal shop certificate]
+ID = 1350
+MainType = 26
+ReqStr = 1
+SizeX = 1
+SizeY = 1
+Price = 2000
+Class = etc.PersonalShopCertificate
 
 #######################
 ###### PET ITEMS ######
