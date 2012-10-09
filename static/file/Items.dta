@@ -7,33 +7,6 @@
 #  	      5-Shield; 6-Necklace; 7-Ring; 8-Bracelet; 9-Weapon    #
 #################################################################
 
-[Low level personal shop certificate]
-ID = 1348
-MainType = 26
-ReqStr = 1
-SizeX = 1
-SizeY = 1
-Price = 1000
-Class = etc.PersonalShopCertificate
-
-[Middle level personal shop certificate]
-ID = 1349
-MainType = 26
-ReqStr = 1
-SizeX = 1
-SizeY = 1
-Price = 1500
-Class = etc.PersonalShopCertificate
-
-[High level personal shop certificate]
-ID = 1350
-MainType = 26
-ReqStr = 1
-SizeX = 1
-SizeY = 1
-Price = 2000
-Class = etc.PersonalShopCertificate
-
 [Gem Cutting Kit]
 ID = 229
 Type = 23
