@@ -1,0 +1,654 @@
+#DropList
+
+######### Laglamia #################################
+
+#-- Armored Mouse --------------------------------------------------------------------------
+#Kurzschwert, Steinaxt, Bienenschwarmring, Haarreif, Lederhose, Lederstiefel
+
+[Armored Mouse Short Sword]
+ID = 1
+Mob = 97
+Item = 168
+Rate = .01
+
+[Armored Mouse Stone Axe]
+ID = 2
+Mob = 97
+Item = 48
+Rate = .02
+
+[Armored Mouse Bee Swarm Ring]
+ID = 3
+Mob = 97
+Item = 431
+Rate = .03
+
+[Armored Mouse Hair Band]
+ID = 4
+Mob = 97
+Item = 309
+Rate = .04
+
+[Armored Mouse Leather Pants]
+ID = 5
+Mob = 97
+Item = 343
+Rate = .05
+
+[Armored Mouse Leather Boots]
+ID = 6
+Mob = 97
+Item = 365
+Rate = .06
+
+#-- Wolf --------------------------------------------------------------------------
+
+[Wolf Short Sword]
+ID = 7
+Mob = 23
+Item = 168
+Rate = .01
+
+[Wolf Long Sword]
+ID = 8
+Mob = 23
+Item = 37
+Rate = .02
+
+[Wolf Bee Swarm Ring]
+ID = 9
+Mob = 23
+Item = 431
+Rate = .03
+
+[Wolf Hair Band]
+ID = 10
+Mob = 23
+Item = 309
+Rate = .04
+
+[Wolf Leather Jacket]
+ID = 11
+Mob = 23
+Item = 326
+Rate = .05
+
+[Wolf Leather Pants]
+ID = 12
+Mob = 23
+Item = 343
+Rate = .06
+
+[Wolf Leather Boots]
+ID = 13
+Mob = 23
+Item = 365
+Rate =.07
+
+#-- Lada -------------------------------------------------------------------
+[Lada Long Sword]
+ID = 14
+Mob = 25
+Item = 37
+Rate = .01
+
+[Lada Righteouseness Blade]
+ID = 15
+Mob = 25
+Item = 154
+Rate = .02
+
+[Lada Bulkan Axe]
+ID = 16
+Mob = 25
+Item = 49
+Rate = .03
+
+[Lada God Staff]
+ID = 17
+Mob = 25
+Item = 170
+Rate = .04
+
+[Lada Eagle Staff]
+ID = 18
+Mob = 25
+Item = 169
+Rate = .05
+
+[Lada Air Hand Gun]
+ID = 19
+Mob = 25
+Item = 204
+Rate = .06
+
+[Lada Tiger Mantle]
+ID = 20
+Mob = 25
+Item = 191
+Rate = .07
+
+[Lada Brince Shield]
+ID = 21
+Mob = 25
+Item = 187
+Rate = .08
+
+#[Lada ]
+#ID = 22
+#Mob = 25
+#Item = 
+#Rate = .07
+
+#[Lada ]
+#ID = 23
+#Mob = 25
+#Item = 
+#Rate = .06
+
+#[Lada ]
+#ID = 24
+#Mob = 25
+#Item = 
+#Rate = .10
+
+#[Lada ]
+#ID = 25
+#Mob = 25
+#Item = 
+#Rate = .10
+
+#-- Armored Crab ------------------------------------------------------
+
+[Armored Crab Bulkan Axe]
+ID = 26
+Mob = 98
+Item = 49
+Rate = .01
+
+[Armored Crab Big Bulkan Axe]
+ID = 27
+Mob = 98
+Item = 155
+Rate = .02
+
+[Armored Crab God Staff]
+ID = 28
+Mob = 98
+Item = 170
+Rate = .03
+
+[Armored Crab Eagle Staff]
+ID = 29
+Mob = 98
+Item = 169
+Rate = .04
+
+[Armored Crab Air Hand Gun]
+ID = 30
+Mob = 98
+Item = 204
+Rate = .05
+
+[Armored Crab Tiger Mantle]
+ID = 31
+Mob = 98
+Item = 191
+Rate = .06
+
+[Armored Crab Brince Shield]
+ID = 32
+Mob = 98
+Item = 187
+Rate = .07
+
+#[Armored Crab ]
+#ID = 33
+#Mob = 98
+#Item = 
+#Rate = .08
+
+#[Armored Crab ]
+#ID = 34
+#Mob = 98
+#Item = 
+#Rate = .10
+
+#[Armored Crab ]
+#ID = 35
+#Mob = 98
+#Item = 
+#Rate = .10
+
+#[Armored Crab ]
+#ID = 36
+#Mob = 98
+#Item = 
+#Rate = .10
+
+#[Armored Crab ]
+#ID = 37
+#Mob = 98
+#Item = 
+#Rate = .10
+
+#[Armored Crab ]
+#ID = 38
+#Mob = 98
+#Item = 
+#Rate = .10
+
+#[Armored Crab ]
+#ID = 39
+#Mob = 98
+#Item = 
+#Rate = .10
+
+#[Armored Crab ]
+#ID = 40
+#Mob = 98
+#Item = 
+#Rate = .10
+
+#-- Poison Crab ------------------------------------------------------------
+[Poison Crab Righteouseness Blade]
+ID = 41
+Mob = 99
+Item = 154
+Rate = .01
+
+[Poison Crab Curved Blade]
+ID = 42
+Mob = 99
+Item = 163
+Rate = .02
+
+[Poison Crab Big Bulkan Axe]
+ID = 43
+Mob = 99
+Item = 155
+Rate = .03
+
+[Poison Crab Air Hand Gun]
+ID = 44
+Mob = 99
+Item = 204
+Rate = .04
+
+[Poison Crab Tiger Mantle]
+ID = 45
+Mob = 99
+Item = 191
+Rate = .05
+
+[Poison Crab Brince Shield]
+ID = 46
+Mob = 99
+Item = 187
+Rate = .06
+
+#[Poison Crab ]
+#ID = 47
+#Mob = 99
+#Item = 
+#Rate = .10
+
+#[Poison Crab ]
+#ID = 48
+#Mob = 99
+#Item = 
+#Rate = .10
+
+#[Poison Crab ]
+#ID = 49
+#Mob = 99
+#Item = 
+#Rate = .10
+
+#[Poison Crab ]
+#ID = 50
+#Mob = 99
+#Item = 
+#Rate = .10
+
+#[Poison Crab ]
+#ID = 51
+#Mob = 99
+#Item = 
+#Rate = .10
+
+#[Poison Crab ]
+#ID = 52
+#Mob = 99
+#Item = 
+#Rate = .10
+
+#-- White Tiger-----------------------------------------
+
+[White Tiger Woodern Horn Axe]
+ID = 53
+Mob = 24
+Item = 167
+Rate = .01
+
+[White Tiger Air Hand Gun]
+ID = 54
+Mob = 24
+Item = 204
+Rate = .02
+
+[White Tiger Butterfly Ring]
+ID = 55
+Mob = 24
+Item = 432
+Rate = .03
+
+[White Tiger Warrior Helmet]
+ID = 56
+Mob = 24
+Item = 310
+Rate = .04
+
+[White Tiger Warrior Armor]
+ID = 57
+Mob = 24
+Item = 325
+Rate = .05
+
+[White Tiger Warrior Boots]
+ID = 58
+Mob = 24
+Item = 366
+Rate = .06
+
+#[White Tiger Geisterflügel]
+#ID = 59
+#Mob = 24
+#Item = 
+#Rate = .07
+
+[White Tiger Iron Shield]
+ID = 60
+Mob = 24
+Item = 34
+Rate = .08
+
+[White Tiger Xeno Shield]
+ID = 61
+Mob = 24
+Item = 188
+Rate = .09
+
+#[White Tiger ]
+#ID = 62
+#Mob = 24
+#Item = 
+#Rate = .10
+
+#[White Tiger ]
+#ID = 63
+#Mob = 24
+#Item = 
+#Rate = .10
+
+#[White Tiger ]
+#ID = 64
+#Mob = 24
+#Item = 
+#Rate = .10
+
+#[White Tiger ]
+#ID = 65
+#Mob = 24
+#Item = 
+#Rate = .10
+
+#[White Tiger ]
+#ID = 66
+#Mob = 24
+#Item = 
+#Rate = .10
+
+#[White Tiger ]
+#ID = 67
+#Mob = 24
+#Item = 
+#Rate = .10
+
+#[White Tiger ]
+#ID = 68
+#Mob = 24
+#Item = 
+#Rate = .10
+
+#[White Tiger ]
+#ID = 69
+#Mob = 24
+#Item = 
+#Rate = .10
+
+
+######### Pharos #################################
+
+#-- Mother Dragon -----------------------------------------
+
+[Mother Dragon Rough Regent Diamond]
+ID = 70
+Mob = 224
+Item = 1067
+Rate = .01
+
+
+#Rough Regent Diamond
+#Rough Diamond
+#Apollo Boots
+#Apollo Helmet
+#Apollo Pants
+#Blizzard Wand
+#Charging Cannon-MK1
+#Charging Cannon-MK1
+#Charging Cannon-MK2
+#Charging Cannon-MK2
+#Confusing Storm Wand
+#Crash Axe
+#Dragon Ring
+#Eagle Armor
+#Eagle Boots
+#Eagle Helmet
+#Eagle Pants
+#Fire Marine Armor
+#Fire Marine Boots
+#Fire Marine Helmet
+#Fire Marine Pants
+#Flame Thrower-MK1
+#Flame Thrower-MK1 BP
+#Flame Thrower-MK2
+#Flame Thrower-MK2 SP
+#Haeven Wing
+#Heavy Chakuram(paralysis)
+#Heavy Chakuram(petrifaction)
+#Hidden Square Warp Device
+#Laser Weapon-MK1
+#Laser Weapon-MK1 BP
+#Laser Weapon-MK2
+#Laser Weapon-MK2 SP
+#Magic Chakuram
+#Magic Sword Wand
+#Magic Sword Wand
+#Magma Armor
+#Magma Boots
+#Magma Helmet
+#Magma Pants
+#Mammoth Demolition
+#Mammoth Slayer
+#Matrix Rifle
+#Meruduke Armor
+#Meruduke Boots
+#Meruduke Helmet
+#Meruduke Pants
+#Mine Layer-MK1
+#Mine Layer-MK2
+#Power Chakuram(paralysis)
+#Power Chakuram(petrifaction)
+#Power Demolition
+#Power Slayer
+#Protection Lv.6
+#Rocket Gun-MK1
+#Rocket Gun-MK2
+#Salvation Armor
+#Salvation Boots
+#Salvation Helmet
+#Salvation Pants
+#Sky Wing
+#Soul Staff
+#Star Soul Boots
+#Star Soul Mask
+#Star Soul Pants
+#Star Soul Suit
+#Teurus Armor
+#Teurus Boots
+#Teurus Helmet
+#Teurus Pants
+#Teurus Sword
+#Time Lift Zone Warp Device
+#Underland Warp Device
+#White Knight Cloak
+#Zone Warp Device
+
+
+#-- Mother Dragon -----------------------------------------
+
+[Flying Devil King Rough Diamond]
+ID = 71
+Mob = 249
+Item = 221
+Rate = .01
+
+#Rough Diamond
+#Aidia White Knight Armor
+#Aidia White Knight Boots
+#Aidia White Knight Helmet
+#Aidia White Knight Pants
+#Apollo Boots
+#Apollo Helmet
+#Apollo Pants
+#Blackhole Lv.1
+#Blackhole Lv.3
+#Blackhole Lv.5
+#Blizzard Cloak
+#Blizzard Wand
+#Bulkan White Knight Armor
+#Bulkan White Knight Boots
+#Bulkan White Knight Helmet
+#Bulkan White Knight Pants
+#Chain Lightning Wand
+#Chakuram Grindstone(1000)
+#Chakuram Grindstone(500)
+#Chakuram(paralysis)
+#Chakuram(petrifaction)
+#Charging Cannon
+#Charging Cannon-MK1
+#Charging Cannon-MK1
+#Charging Cannon-MK2
+#Charging Cannon-MK2
+#Charging Shell Set
+#Confusing Storm Wand
+#Crash Axe
+#Demolition
+#Dragon Ring
+#Eagle Armor
+#Eagle Boots
+#Eagle Helmet
+#Eagle Pants
+#Fire Marine Armor
+#Fire Marine Boots
+#Fire Marine Helmet
+#Fire Marine Pants
+#Flame Capsule Set
+#Flame Thrower
+#Flame Thrower-MK1
+#Flame Thrower-MK1 BP
+#Flame Thrower-MK2
+#Flame Thrower-MK2 SP
+#Grindstone(1000)
+#Haeven Wing
+#Heavy Chakuram(paralysis)
+#Heavy Chakuram(petrifaction)
+#Heavy Demolition
+#Heavy Slayer
+#Hidden Square Warp Device
+#Human White Knight Armor
+#Human White Knight Boots
+#Human White Knight Helmet
+#Human White Knight Pants
+#Kailipton White Knight Armor
+#Kailipton White Knight Boots
+#Kailipton White Knight Helmet
+#Kailipton White Knight Pants
+#Laser Capsule Set
+#Laser Weapon
+#Laser Weapon-MK1
+#Laser Weapon-MK1 BP
+#Laser Weapon-MK2
+#Laser Weapon-MK2 SP
+#Magic Arrow Wand
+#Magic Bullet Wand
+#Magic Sword Wand
+#Magic Sword Wand
+#Magma Armor
+#Magma Boots
+#Magma Helmet
+#Magma Pants
+#Mammoth Demolition
+#Mammoth Slayer
+#Matrix Rifle
+#Meruduke Armor
+#Meruduke Boots
+#Meruduke Helmet
+#Meruduke Pants
+#Meteorite Wand
+#Mine Layer
+#Mine Layer-MK1
+#Mine Layer-MK2
+#Mini Mine Set
+#Mini Rocket Set
+#Normal Book(1~4)
+#Normal Book(5)
+#Normal Book(6)
+#Power Chakuram(paralysis)
+#Power Chakuram(petrifaction)
+#Power Demolition
+#Power Slayer
+#Protection Lv.4
+#Protection Lv.5
+#Protection Lv.6
+#Red Book(1~4)
+#Red Book(5)
+#Red Book(6)
+#Rocket Gun
+#Rocket Gun-MK1
+#Rocket Gun-MK2
+#Salvation Armor
+#Salvation Boots
+#Salvation Helmet
+#Salvation Pants
+#Sky Wing
+#Slayer
+#Soul Staff
+#Star Soul Boots
+#Star Soul Mask
+#Star Soul Pants
+#Star Soul Suit
+#Super Dra Summon Stone
+#Teurus Armor
+#Teurus Boots
+#Teurus Helmet
+#Teurus Pants
+#Teurus Sword
+#Time Lift Zone Warp Device
+#Underland Warp Device
+#wand charger Lv.2
+#wand charger Lv.3
+#wand charger Lv.4
+#White Knight Cloak
+#Zone Warp Device
