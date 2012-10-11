@@ -20,18 +20,19 @@ CREATE TABLE IF NOT EXISTS `quests` (
   `typeid` int(11) NOT NULL DEFAULT '0',
   `minlevel` int(11) NOT NULL DEFAULT '0',
   `maxlevel` int(11) NOT NULL DEFAULT '0',
+  `repeatable` int(11) NOT NULL DEFAULT '1',
   `name` varchar(256) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=31 ;
 
 
-INSERT INTO `quests` (`id`, `typeid`, `minlevel`, `maxlevel`, `name`) VALUES
-(1, 2, 20, 25, 'S.King Chmero'),
-(25, 1, 35, 40, 'S. King Pro Giant'),
-(26, 1, 50, 55, 'S. Battle Giant'),
-(27, 2, 50, 100, 'S. Dekadun Bracelet'),
-(29, 2, 26, 30, 'S.Life Amulet'),
-(30, 2, 40, 45, 'S.Seeking Strength Ring');
+INSERT INTO `quests` (`id`, `typeid`, `minlevel`, `maxlevel`, `repeatable`, `name`) VALUES
+(1, 2, 20, 25, 0, 'S.King Chmero'),
+(25, 1, 35, 40, 0, 'S. King Pro Giant'),
+(26, 1, 50, 55, 0, 'S. Battle Giant'),
+(27, 2, 50, 100, 0, 'S. Dekadun Bracelet'),
+(29, 2, 26, 30, 0, 'S.Life Amulet'),
+(30, 2, 40, 45, 0, 'S.Seeking Strength Ring');
 
 
 
