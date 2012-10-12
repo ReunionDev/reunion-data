@@ -18,12 +18,12 @@ USE `reunion`;
 DROP TABLE IF EXISTS `accounts`;
 
 CREATE TABLE `accounts` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `id` bigint(11) NOT NULL AUTO_INCREMENT,
   `username` varchar(28) NOT NULL,
   `password` varchar(28) NOT NULL,
   `email` varchar(256) NOT NULL,
   `level` int(11) NOT NULL default '0',
-  `realname` varchar(256) NOT NULL,
+  `name` varchar(256) NOT NULL,
   PRIMARY KEY  (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
