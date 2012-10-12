@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quests xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quests.xsd">
+	<quest id="1" type="2" name="S.King Chmero">
+		<rewards>
+			<item type="222"/>
+		</rewards>
+		<objectives>
+			<kill type="228"/>
+		</objectives>
+		<restrictions>
+			<level min="20" max="25"/>
+			<race>0</race>
+		
+		</restrictions>
+	</quest>
+</quests>
