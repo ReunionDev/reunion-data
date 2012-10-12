@@ -5,7 +5,7 @@
 			<item type="222"/>
 		</rewards>
 		<objectives>
-			<kill type="228"/>
+			<mob type="228"/>
 		</objectives>
 		<restrictions>
 			<level min="20" max="25"/>

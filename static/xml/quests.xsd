@@ -32,10 +32,10 @@
 				</xs:documentation>
 			</xs:annotation>
 			<xs:simpleType>
-				<restriction base="xs:integer">
+				<xs:restriction base="xs:integer">
 					<xs:minInclusive value="1" />
 					<xs:maxInclusive value="4" />
-				</restriction>
+				</xs:restriction>
 			</xs:simpleType>
 		</xs:attribute>
 	</xs:complexType>
@@ -60,11 +60,11 @@
 	</xs:complexType>
 	<xs:complexType name="objective">
 		<xs:choice>
-			<xs:element name="kill" maxOccurs="unbounded" minOccurs="0">
+			<xs:element name="mob" maxOccurs="unbounded" minOccurs="0">
 				<xs:complexType>
 					<xs:attribute name="type" type="xs:positiveInteger"
 						use="required" />
-					<xs:attribute name="count" type="xs:positiveInteger"
+					<xs:attribute name="amount" type="xs:positiveInteger"
 						default="1" />
 				</xs:complexType>
 			</xs:element>
@@ -92,10 +92,10 @@
 					</xs:documentation>
 				</xs:annotation>
 				<xs:simpleType>
-					<restriction base="xs:integer">
+					<xs:restriction base="xs:integer">
 						<xs:minInclusive value="0" />
 						<xs:maxInclusive value="4" />
-					</restriction>
+					</xs:restriction>
 				</xs:simpleType>
 			</xs:element>
 		</xs:choice>
