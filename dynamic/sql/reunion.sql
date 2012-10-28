@@ -1,14 +1,12 @@
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
+CREATE DATABASE `reunion`;
 
+USE `reunion`;
 
 DROP TABLE IF EXISTS `accounts`;
-CREATE TABLE IF NOT EXISTS `accounts` (
+CREATE TABLE `accounts` (
   `id` bigint(20) NOT NULL AUTO_INCREMENT,
   `email` varchar(255) NOT NULL,
   `level` int(11) NOT NULL,
@@ -19,12 +17,8 @@ CREATE TABLE IF NOT EXISTS `accounts` (
   UNIQUE KEY `username` (`username`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1;
 
-INSERT INTO `accounts` (`id`, `email`, `level`, `name`, `password`, `username`) VALUES
-(1, 'admin@admin.com', 260, 'AdminUser', 'admin', 'admin'),
-(2, 'test@test.com', 0, 'TestUser', 'test', 'test');
-
 DROP TABLE IF EXISTS `characters`;
-CREATE TABLE IF NOT EXISTS `characters` (
+CREATE TABLE `characters` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `accountid` int(11) DEFAULT NULL,
   `name` varchar(32) DEFAULT NULL,
@@ -51,10 +45,10 @@ CREATE TABLE IF NOT EXISTS `characters` (
   `petid` int(11) NOT NULL DEFAULT '-1',
   PRIMARY KEY (`id`),
   UNIQUE KEY `name_UNIQUE` (`name`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `counterobjectivestate`;
-CREATE TABLE IF NOT EXISTS `counterobjectivestate` (
+CREATE TABLE `counterobjectivestate` (
   `counter` int(11) DEFAULT NULL,
   `id` bigint(20) NOT NULL,
   PRIMARY KEY (`id`),
@@ -62,7 +56,7 @@ CREATE TABLE IF NOT EXISTS `counterobjectivestate` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 DROP TABLE IF EXISTS `equipment`;
-CREATE TABLE IF NOT EXISTS `equipment` (
+CREATE TABLE `equipment` (
   `charid` int(11) NOT NULL,
   `slot` int(11) NOT NULL,
   `itemid` int(11) NOT NULL,
@@ -70,7 +64,7 @@ CREATE TABLE IF NOT EXISTS `equipment` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `exchange`;
-CREATE TABLE IF NOT EXISTS `exchange` (
+CREATE TABLE `exchange` (
   `charid` int(11) NOT NULL DEFAULT '0',
   `itemid` int(11) NOT NULL DEFAULT '0',
   `x` int(11) NOT NULL DEFAULT '0',
@@ -78,14 +72,14 @@ CREATE TABLE IF NOT EXISTS `exchange` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `guilds`;
-CREATE TABLE IF NOT EXISTS `guilds` (
+CREATE TABLE `guilds` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `Name` varchar(50) NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `inventory`;
-CREATE TABLE IF NOT EXISTS `inventory` (
+CREATE TABLE `inventory` (
   `charid` int(11) NOT NULL,
   `itemid` int(11) NOT NULL,
   `tab` int(11) NOT NULL,
@@ -95,13 +89,20 @@ CREATE TABLE IF NOT EXISTS `inventory` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `items`;
-CREATE TABLE IF NOT EXISTS `items` (
+CREATE TABLE `items` (
   `id` bigint(20) NOT NULL AUTO_INCREMENT,
+  `type` int(11) NOT NULL,
+  `gemnumber` int(11) NOT NULL,
+  `extrastats` bigint(11) NOT NULL,
+  `durability` int(11) NOT NULL,
+  `unknown1` int(11) NOT NULL,
+  `unknown2` int(11) NOT NULL,
+  `unknown3` int(11) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1;
 
 DROP TABLE IF EXISTS `objectivestate`;
-CREATE TABLE IF NOT EXISTS `objectivestate` (
+CREATE TABLE `objectivestate` (
   `id` bigint(20) NOT NULL AUTO_INCREMENT,
   `objective_id` int(11) DEFAULT NULL,
   `queststate_id` bigint(20) DEFAULT NULL,
@@ -110,7 +111,7 @@ CREATE TABLE IF NOT EXISTS `objectivestate` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 DROP TABLE IF EXISTS `pet`;
-CREATE TABLE IF NOT EXISTS `pet` (
+CREATE TABLE `pet` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `hp` int(11) NOT NULL DEFAULT '96',
   `closeDefence` int(11) NOT NULL DEFAULT '12',
@@ -129,21 +130,21 @@ CREATE TABLE IF NOT EXISTS `pet` (
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `petequipment`;
-CREATE TABLE IF NOT EXISTS `petequipment` (
+CREATE TABLE `petequipment` (
   `petid` int(11) NOT NULL,
   `slot` int(11) NOT NULL,
   `itemid` int(11) NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `queststates`;
-CREATE TABLE IF NOT EXISTS `queststates` (
+CREATE TABLE `queststates` (
   `id` bigint(20) NOT NULL AUTO_INCREMENT,
   `quest_id` int(11) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 DROP TABLE IF EXISTS `quickslot`;
-CREATE TABLE IF NOT EXISTS `quickslot` (
+CREATE TABLE `quickslot` (
   `charid` int(11) NOT NULL,
   `itemid` int(11) NOT NULL,
   `slot` int(11) NOT NULL,
@@ -151,7 +152,7 @@ CREATE TABLE IF NOT EXISTS `quickslot` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `roaming`;
-CREATE TABLE IF NOT EXISTS `roaming` (
+CREATE TABLE `roaming` (
   `itemid` int(11) NOT NULL,
   `mapid` int(11) NOT NULL,
   `x` int(11) NOT NULL,
@@ -162,7 +163,7 @@ CREATE TABLE IF NOT EXISTS `roaming` (
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `skills`;
-CREATE TABLE IF NOT EXISTS `skills` (
+CREATE TABLE `skills` (
   `charid` int(11) NOT NULL,
   `id` int(11) NOT NULL,
   `level` int(11) NOT NULL,
@@ -170,7 +171,7 @@ CREATE TABLE IF NOT EXISTS `skills` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `slots`;
-CREATE TABLE IF NOT EXISTS `slots` (
+CREATE TABLE `slots` (
   `accountid` int(11) NOT NULL,
   `charid` int(11) NOT NULL,
   `slot` int(11) NOT NULL,
@@ -178,7 +179,7 @@ CREATE TABLE IF NOT EXISTS `slots` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `warehouse`;
-CREATE TABLE IF NOT EXISTS `warehouse` (
+CREATE TABLE `warehouse` (
   `accountid` int(11) NOT NULL DEFAULT '0',
   `pos` int(11) NOT NULL DEFAULT '0',
   `itemid` int(11) NOT NULL DEFAULT '0',
@@ -192,6 +193,6 @@ ALTER TABLE `counterobjectivestate`
 ALTER TABLE `objectivestate`
   ADD CONSTRAINT `FK82E3E6F8CE7EA7FB` FOREIGN KEY (`queststate_id`) REFERENCES `queststates` (`id`);
 
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+INSERT INTO `accounts` (`id`, `email`, `level`, `name`, `password`, `username`) VALUES
+(1, 'admin@admin.com', 260, 'AdminUser', 'admin', 'admin'),
+(2, 'test@test.com', 0, 'TestUser', 'test', 'test');
