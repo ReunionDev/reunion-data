@@ -174,7 +174,7 @@ SellRate = 30	# Value in %
 Shop = areas/lostrealmcastle/shop/npc18.dta
 
 
-[Human Bargirl-19]
+#[Human Bargirl-19]
 #ID = 19
 #X = 5885
 #Y = 6460
